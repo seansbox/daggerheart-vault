@@ -10,7 +10,7 @@ obsidianUIMode: preview
 
 | HP: `9` Major: `7` Severe: `15` | Stress: `4` |
 |--|--|
-|  <input type="checkbox" unchecked id="c5725ffe"> <input type="checkbox" unchecked id="71361129"> <input type="checkbox" unchecked id="9831d1bd"> <input type="checkbox" unchecked id="b3df8074"> <input type="checkbox" unchecked id="11e1268f"> <input type="checkbox" unchecked id="70fc24f0"> <input type="checkbox" unchecked id="774b4dfa"> <input type="checkbox" unchecked id="b9ffce90"> <input type="checkbox" unchecked id="00cb7f29"> |  <input type="checkbox" unchecked id="a6786ae2"> <input type="checkbox" unchecked id="ee77d93d"> <input type="checkbox" unchecked id="8e5012a3"> <input type="checkbox" unchecked id="a956f8f7"> |
+|  <input type="checkbox" unchecked id="d624fbb1"> <input type="checkbox" unchecked id="0fbbecaa"> <input type="checkbox" unchecked id="26a0f464"> <input type="checkbox" unchecked id="8d892890"> <input type="checkbox" unchecked id="683ebbe0"> <input type="checkbox" unchecked id="4453fbd4"> <input type="checkbox" unchecked id="e159ccc9"> <input type="checkbox" unchecked id="b169d12b"> <input type="checkbox" unchecked id="f4c6f79b"> |  <input type="checkbox" unchecked id="aa1bbef6"> <input type="checkbox" unchecked id="af897805"> <input type="checkbox" unchecked id="e4205f3c"> <input type="checkbox" unchecked id="8c490956"> |
 
 ### Shifting Amalgamation - Passive
 

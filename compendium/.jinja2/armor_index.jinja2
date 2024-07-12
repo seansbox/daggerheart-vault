@@ -1,0 +1,8 @@
+---
+obsidianUIMode: preview
+---
+# Armor
+
+| Name | Description |
+|--|--|{% for row in rows %}
+| [{{ row.Name }}](armor/{{ row.Name | urlencode }}.md)<br>*Tier {{ row.Tier }}* | **Base** `{{ row.Base }}` {{ row.Feature }} |{% endfor %}

@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `5` Major: `11` Severe: `23` | Stress: `6` |
 |--|--|
-|  <input type="checkbox" unchecked id="4bcc543e"> <input type="checkbox" unchecked id="32af1bce"> <input type="checkbox" unchecked id="b22d2f75"> <input type="checkbox" unchecked id="b0fba9fe"> <input type="checkbox" unchecked id="a9c07a97"> |  <input type="checkbox" unchecked id="f2dfde3d"> <input type="checkbox" unchecked id="4a37e3fa"> <input type="checkbox" unchecked id="5abba78d"> <input type="checkbox" unchecked id="12d13c3d"> <input type="checkbox" unchecked id="772861e7"> <input type="checkbox" unchecked id="bdaf17ee"> |
+|  <input type="checkbox" unchecked id="33f6b91d"> <input type="checkbox" unchecked id="1fc66032"> <input type="checkbox" unchecked id="a220f6b5"> <input type="checkbox" unchecked id="3cc092dd"> <input type="checkbox" unchecked id="b2e1925a"> |  <input type="checkbox" unchecked id="f7df57df"> <input type="checkbox" unchecked id="70f79340"> <input type="checkbox" unchecked id="f5d096ac"> <input type="checkbox" unchecked id="f27109ae"> <input type="checkbox" unchecked id="e04a1802"> <input type="checkbox" unchecked id="6df363b6"> |
 
 ### Battle Teleport - Passive - Spell
 

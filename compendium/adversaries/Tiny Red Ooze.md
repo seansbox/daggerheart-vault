@@ -10,7 +10,7 @@ obsidianUIMode: preview
 
 | HP: `2` Major: `5` Severe: `` | Stress: `1` |
 |--|--|
-|  <input type="checkbox" unchecked id="77e64950"> <input type="checkbox" unchecked id="f384c7e3"> |  <input type="checkbox" unchecked id="c5eb4310"> |
+|  <input type="checkbox" unchecked id="97a9eb49"> <input type="checkbox" unchecked id="1411e48f"> |  <input type="checkbox" unchecked id="b8915ef8"> |
 
 ### Burning - Reaction
 

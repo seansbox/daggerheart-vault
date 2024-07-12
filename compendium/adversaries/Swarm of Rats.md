@@ -10,7 +10,7 @@ obsidianUIMode: preview
 
 | HP: `6` Major: `6` Severe: `10` | Stress: `2` |
 |--|--|
-|  <input type="checkbox" unchecked id="cf6fd5b8"> <input type="checkbox" unchecked id="5a68e2c9"> <input type="checkbox" unchecked id="5698f9fa"> <input type="checkbox" unchecked id="55ca5911"> <input type="checkbox" unchecked id="db4bda27"> <input type="checkbox" unchecked id="2529a300"> |  <input type="checkbox" unchecked id="400d3272"> <input type="checkbox" unchecked id="5e99e8d4"> |
+|  <input type="checkbox" unchecked id="d0df04bb"> <input type="checkbox" unchecked id="d19b44b1"> <input type="checkbox" unchecked id="6048b9df"> <input type="checkbox" unchecked id="c1499d5d"> <input type="checkbox" unchecked id="28f13e6f"> <input type="checkbox" unchecked id="e5160fec"> |  <input type="checkbox" unchecked id="34b32b88"> <input type="checkbox" unchecked id="4d9d7f78"> |
 
 ### In Your Face - Passive
 

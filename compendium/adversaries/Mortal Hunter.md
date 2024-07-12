@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `6` Major: `15` Severe: `27` | Stress: `4` |
 |--|--|
-|  <input type="checkbox" unchecked id="9054ee30"> <input type="checkbox" unchecked id="c114fb1e"> <input type="checkbox" unchecked id="93d017c8"> <input type="checkbox" unchecked id="1122f463"> <input type="checkbox" unchecked id="df8f3258"> <input type="checkbox" unchecked id="83cf4d96"> |  <input type="checkbox" unchecked id="ec454f44"> <input type="checkbox" unchecked id="20bb81a9"> <input type="checkbox" unchecked id="f3f93242"> <input type="checkbox" unchecked id="fb185ba7"> |
+|  <input type="checkbox" unchecked id="ecae2348"> <input type="checkbox" unchecked id="65557372"> <input type="checkbox" unchecked id="8a76b2e3"> <input type="checkbox" unchecked id="7af878d7"> <input type="checkbox" unchecked id="61abd982"> <input type="checkbox" unchecked id="5a30c583"> |  <input type="checkbox" unchecked id="0092b6a4"> <input type="checkbox" unchecked id="0900962a"> <input type="checkbox" unchecked id="6ae620e5"> <input type="checkbox" unchecked id="f94e5111"> |
 
 ### Terrifying - Passive
 

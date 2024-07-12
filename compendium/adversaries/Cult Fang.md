@@ -10,7 +10,7 @@ obsidianUIMode: preview
 
 | HP: `4` Major: `9` Severe: `17` | Stress: `4` |
 |--|--|
-|  <input type="checkbox" unchecked id="5119cc02"> <input type="checkbox" unchecked id="75177a67"> <input type="checkbox" unchecked id="15277f50"> <input type="checkbox" unchecked id="550655f2"> |  <input type="checkbox" unchecked id="e4a5db08"> <input type="checkbox" unchecked id="d28a01fb"> <input type="checkbox" unchecked id="ee18e825"> <input type="checkbox" unchecked id="08841405"> |
+|  <input type="checkbox" unchecked id="17d29d08"> <input type="checkbox" unchecked id="7d5db4fe"> <input type="checkbox" unchecked id="e04ffa8a"> <input type="checkbox" unchecked id="5f0dfd46"> |  <input type="checkbox" unchecked id="ecf217f2"> <input type="checkbox" unchecked id="17746854"> <input type="checkbox" unchecked id="a8133455"> <input type="checkbox" unchecked id="b6923ccc"> |
 
 ### Shadow’s Embrace - Passive
 

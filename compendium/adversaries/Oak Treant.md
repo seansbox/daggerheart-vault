@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `8` Major: `28` Severe: `45` | Stress: `4` |
 |--|--|
-|  <input type="checkbox" unchecked id="80113738"> <input type="checkbox" unchecked id="bb0fe3f6"> <input type="checkbox" unchecked id="aa4f04a4"> <input type="checkbox" unchecked id="66d8a351"> <input type="checkbox" unchecked id="80619957"> <input type="checkbox" unchecked id="7065afe9"> <input type="checkbox" unchecked id="65fea4f8"> <input type="checkbox" unchecked id="13cb58c0"> |  <input type="checkbox" unchecked id="d186ae1f"> <input type="checkbox" unchecked id="73216e81"> <input type="checkbox" unchecked id="16c75369"> <input type="checkbox" unchecked id="da7c2d49"> |
+|  <input type="checkbox" unchecked id="7f07d3f8"> <input type="checkbox" unchecked id="db1fda21"> <input type="checkbox" unchecked id="533fc126"> <input type="checkbox" unchecked id="31a8dcf9"> <input type="checkbox" unchecked id="94397401"> <input type="checkbox" unchecked id="e33dba1c"> <input type="checkbox" unchecked id="65ef5291"> <input type="checkbox" unchecked id="efe99c30"> |  <input type="checkbox" unchecked id="1ff97258"> <input type="checkbox" unchecked id="700e8b3b"> <input type="checkbox" unchecked id="af7f2192"> <input type="checkbox" unchecked id="db7c7bf5"> |
 
 ### Acorn Barrage - Action
 

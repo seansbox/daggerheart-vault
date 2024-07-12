@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `4` Major: `9` Severe: `18` | Stress: `5` |
 |--|--|
-|  <input type="checkbox" unchecked id="de64e1c2"> <input type="checkbox" unchecked id="f3d5da0f"> <input type="checkbox" unchecked id="1c10f4cf"> <input type="checkbox" unchecked id="b6c2503e"> |  <input type="checkbox" unchecked id="b3dad295"> <input type="checkbox" unchecked id="72bd5ead"> <input type="checkbox" unchecked id="4cb29e26"> <input type="checkbox" unchecked id="296a009f"> <input type="checkbox" unchecked id="d213535b"> |
+|  <input type="checkbox" unchecked id="7f7040ea"> <input type="checkbox" unchecked id="9fb49feb"> <input type="checkbox" unchecked id="3e89ae86"> <input type="checkbox" unchecked id="e0caee47"> |  <input type="checkbox" unchecked id="b34af07a"> <input type="checkbox" unchecked id="9c507493"> <input type="checkbox" unchecked id="9fcbd44a"> <input type="checkbox" unchecked id="af8ba6b2"> <input type="checkbox" unchecked id="607ea167"> |
 
 ### Fear is Fuel - Reaction
 

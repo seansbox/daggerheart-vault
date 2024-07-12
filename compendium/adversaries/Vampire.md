@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `5` Major: `18` Severe: `35` | Stress: `4` |
 |--|--|
-|  <input type="checkbox" unchecked id="aa59ca9a"> <input type="checkbox" unchecked id="adb1ba8e"> <input type="checkbox" unchecked id="a00e7871"> <input type="checkbox" unchecked id="ee42e925"> <input type="checkbox" unchecked id="2a0b2242"> |  <input type="checkbox" unchecked id="f45d3f63"> <input type="checkbox" unchecked id="6ee12954"> <input type="checkbox" unchecked id="9524df0c"> <input type="checkbox" unchecked id="c2903ebe"> |
+|  <input type="checkbox" unchecked id="2db02f0e"> <input type="checkbox" unchecked id="1ea5c0f2"> <input type="checkbox" unchecked id="8cdd67d2"> <input type="checkbox" unchecked id="16ad44ff"> <input type="checkbox" unchecked id="990c9cd1"> |  <input type="checkbox" unchecked id="d160d8c7"> <input type="checkbox" unchecked id="38dbe746"> <input type="checkbox" unchecked id="9df1f9c7"> <input type="checkbox" unchecked id="3dc696af"> |
 
 ### Mistform - Reaction
 

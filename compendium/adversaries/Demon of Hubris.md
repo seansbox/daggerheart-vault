@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `7` Major: `18` Severe: `36` | Stress: `5` |
 |--|--|
-|  <input type="checkbox" unchecked id="5237dec2"> <input type="checkbox" unchecked id="15a2146a"> <input type="checkbox" unchecked id="83cb9edc"> <input type="checkbox" unchecked id="b46f46f3"> <input type="checkbox" unchecked id="430e0907"> <input type="checkbox" unchecked id="89d295de"> <input type="checkbox" unchecked id="c42e3367"> |  <input type="checkbox" unchecked id="abdcb489"> <input type="checkbox" unchecked id="634cb035"> <input type="checkbox" unchecked id="e3bd2fc1"> <input type="checkbox" unchecked id="58eb722e"> <input type="checkbox" unchecked id="f7243539"> |
+|  <input type="checkbox" unchecked id="32d85e43"> <input type="checkbox" unchecked id="7f56f022"> <input type="checkbox" unchecked id="26e5ffed"> <input type="checkbox" unchecked id="fa928102"> <input type="checkbox" unchecked id="762f4f4c"> <input type="checkbox" unchecked id="1874b3ab"> <input type="checkbox" unchecked id="11c097b4"> |  <input type="checkbox" unchecked id="434c8ea4"> <input type="checkbox" unchecked id="31e8c4dd"> <input type="checkbox" unchecked id="ada5a161"> <input type="checkbox" unchecked id="7bbda4cd"> <input type="checkbox" unchecked id="2268001b"> |
 
 ### Unparalleled Skill - Action
 

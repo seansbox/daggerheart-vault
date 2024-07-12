@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `3` Major: `4` Severe: `8` | Stress: `2` |
 |--|--|
-|  <input type="checkbox" unchecked id="d5a393c1"> <input type="checkbox" unchecked id="cd003ee7"> <input type="checkbox" unchecked id="0bbcba68"> |  <input type="checkbox" unchecked id="3e1d1f7b"> <input type="checkbox" unchecked id="143d8778"> |
+|  <input type="checkbox" unchecked id="9fdd2588"> <input type="checkbox" unchecked id="8e34b360"> <input type="checkbox" unchecked id="e3b34155"> |  <input type="checkbox" unchecked id="b21da450"> <input type="checkbox" unchecked id="d2b2277a"> |
 
 ### Hobbling Shot - Action
 

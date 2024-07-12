@@ -11,8 +11,12 @@
             "id": "f9d2113a58367c98",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "compendium/weapons/Battleaxe.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "compendium/weapons/Battleaxe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "compendium/weapons/Battleaxe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "compendium/weapons/Battleaxe.md"
+              }
             }
           }
         ]
@@ -140,42 +148,42 @@
   },
   "active": "f9d2113a58367c98",
   "lastOpenFiles": [
-    "compendium/Pipfile.lock",
-    "compendium/Pipfile",
     "compendium/Weapons Index.md",
+    "compendium/items/Premium Bedroll.md",
     "compendium/Items Index.md",
+    "compendium/consumables/Stride Potion.md",
     "compendium/Consumables Index.md",
+    "compendium/armor/Gambeson Armor.md",
     "compendium/Armor Index.md",
     "compendium/Adversaries Index.md",
+    "compendium/adversaries/Pirate Captain.md",
+    "compendium/adversaries/Shambling Zombie.md",
+    "compendium/adversaries/Acid Burrower.md",
+    "adversaries/Acid+Burrower.md",
+    "adversaries",
+    "compendium/weapons/Aantari Bow.md",
+    "compendium/consumables/Armor Stitcher.md",
+    "compendium/armor/Advanced Gambeson Armor.md",
+    "compendium/consumables/Bolster Potion.md",
+    "compendium/items/Airblade Charm.md",
+    "compendium/weapons/Advanced Dualstaff.md",
+    "compendium/jinja2/weapons_index.jinja2",
+    "compendium/jinja2/weapons.jinja2",
+    "compendium/jinja2/items_index.jinja2",
+    "compendium/jinja2/items.jinja2",
+    "compendium/jinja2/consumables_index.jinja2",
+    "compendium/jinja2/consumables.jinja2",
+    "compendium/jinja2/armor_index.jinja2",
+    "compendium/jinja2/armor.jinja2",
+    "compendium/jinja2/adversaries_index.jinja2",
     "compendium/weapons/Advanced Battleaxe.md",
     "compendium/items/Arcane Cloak.md",
     "compendium/consumables/Bridge Seed.md",
     "compendium/armor/Emberwoven Armor.md",
     "compendium/adversaries/Apprentice Assassin.md",
-    "Pipfile",
     "Untitled.md",
     "compendium/weapons/Battleaxe.md",
     "compendium/items/Clay Companion.md",
-    "compendium/armor/Legendary Chainmail Armor.md",
-    "compendium/items/Woven Net.md",
-    "compendium/items/Vial of Darksmoke Recipe.md",
-    "compendium/items/Valorstone.md",
-    "compendium/items/Suspended Rod.md",
-    "compendium/items/Stride Relic.md",
-    "compendium/items/Speaking Orbs.md",
-    "compendium/items/Skeleton Key.md",
-    "compendium/items/Sharp Relic.md",
-    "compendium/items/Shard of Memory.md",
-    "compendium/items/Ring of Unbreakable Resolve.md",
-    "compendium/items/Ring of Silence.md",
-    "compendium/items",
-    "compendium/weapons",
-    "compendium/adversaries",
-    "compendium/consumables",
-    "compendium/armor",
-    "compendium/md",
-    "compendium/md/items",
-    "compendium/md/weapons",
     "download.png"
   ]
 }

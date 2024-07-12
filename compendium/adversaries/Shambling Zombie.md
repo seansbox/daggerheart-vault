@@ -10,7 +10,7 @@ obsidianUIMode: preview
 
 | HP: `4` Major: `4` Severe: `6` | Stress: `1` |
 |--|--|
-|  <input type="checkbox" unchecked id="3103a504"> <input type="checkbox" unchecked id="cb8164f8"> <input type="checkbox" unchecked id="71c4f7e2"> <input type="checkbox" unchecked id="83663c59"> |  <input type="checkbox" unchecked id="c1bbe7e5"> |
+|  <input type="checkbox" unchecked id="c83cda62"> <input type="checkbox" unchecked id="44143a1f"> <input type="checkbox" unchecked id="ef80d8c8"> <input type="checkbox" unchecked id="c1d8ac37"> |  <input type="checkbox" unchecked id="0090e499"> |
 
 ### Too Many to Handle - Passive
 

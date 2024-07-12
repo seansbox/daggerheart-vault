@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `7` Major: `33` Severe: `65` | Stress: `5` |
 |--|--|
-|  <input type="checkbox" unchecked id="d763378c"> <input type="checkbox" unchecked id="95383ef9"> <input type="checkbox" unchecked id="20d375b4"> <input type="checkbox" unchecked id="3bed996c"> <input type="checkbox" unchecked id="72b7e808"> <input type="checkbox" unchecked id="3bd9c773"> <input type="checkbox" unchecked id="5e5b43c2"> |  <input type="checkbox" unchecked id="d844a53f"> <input type="checkbox" unchecked id="41935112"> <input type="checkbox" unchecked id="bcf17d2c"> <input type="checkbox" unchecked id="17fc6225"> <input type="checkbox" unchecked id="b585d0c8"> |
+|  <input type="checkbox" unchecked id="f99e2309"> <input type="checkbox" unchecked id="e26fd877"> <input type="checkbox" unchecked id="0aca8d7e"> <input type="checkbox" unchecked id="a698b9e3"> <input type="checkbox" unchecked id="7a77a59c"> <input type="checkbox" unchecked id="57d0f250"> <input type="checkbox" unchecked id="63da30e2"> |  <input type="checkbox" unchecked id="fccafa91"> <input type="checkbox" unchecked id="6e8cb7fc"> <input type="checkbox" unchecked id="8adf4c0a"> <input type="checkbox" unchecked id="567dc368"> <input type="checkbox" unchecked id="e0fc88fa"> |
 
 ### Relentless (2) - Passive
 

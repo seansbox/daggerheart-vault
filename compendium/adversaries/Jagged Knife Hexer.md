@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `4` Major: `5` Severe: `9` | Stress: `4` |
 |--|--|
-|  <input type="checkbox" unchecked id="dc453ced"> <input type="checkbox" unchecked id="38a08fe4"> <input type="checkbox" unchecked id="2a696d4b"> <input type="checkbox" unchecked id="4101e5ae"> |  <input type="checkbox" unchecked id="52c717af"> <input type="checkbox" unchecked id="69838f44"> <input type="checkbox" unchecked id="efcba251"> <input type="checkbox" unchecked id="cba628ed"> |
+|  <input type="checkbox" unchecked id="da320fb7"> <input type="checkbox" unchecked id="2072b8f4"> <input type="checkbox" unchecked id="1b9f2edf"> <input type="checkbox" unchecked id="04b30229"> |  <input type="checkbox" unchecked id="df02841b"> <input type="checkbox" unchecked id="0df2dcee"> <input type="checkbox" unchecked id="c3fbadf2"> <input type="checkbox" unchecked id="ca4d3af9"> |
 
 ### Curse - Action
 

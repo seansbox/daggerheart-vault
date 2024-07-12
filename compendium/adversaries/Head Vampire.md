@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `8` Major: `24` Severe: `48` | Stress: `6` |
 |--|--|
-|  <input type="checkbox" unchecked id="79a50368"> <input type="checkbox" unchecked id="8d404b4c"> <input type="checkbox" unchecked id="40cedf0e"> <input type="checkbox" unchecked id="d021d758"> <input type="checkbox" unchecked id="4e399554"> <input type="checkbox" unchecked id="b3085739"> <input type="checkbox" unchecked id="1ba8f6dd"> <input type="checkbox" unchecked id="e210b50e"> |  <input type="checkbox" unchecked id="f23b63be"> <input type="checkbox" unchecked id="f4cf0fff"> <input type="checkbox" unchecked id="4c757e6b"> <input type="checkbox" unchecked id="e0fc63f4"> <input type="checkbox" unchecked id="f2ec9b30"> <input type="checkbox" unchecked id="f78d0738"> |
+|  <input type="checkbox" unchecked id="092f8b80"> <input type="checkbox" unchecked id="46cf7e1f"> <input type="checkbox" unchecked id="43d134d4"> <input type="checkbox" unchecked id="18379aee"> <input type="checkbox" unchecked id="bc0c057c"> <input type="checkbox" unchecked id="91fb5257"> <input type="checkbox" unchecked id="11b01839"> <input type="checkbox" unchecked id="fb77fedb"> |  <input type="checkbox" unchecked id="f7f6823f"> <input type="checkbox" unchecked id="e95a5c25"> <input type="checkbox" unchecked id="7a1cea75"> <input type="checkbox" unchecked id="14dc4248"> <input type="checkbox" unchecked id="b0b61632"> <input type="checkbox" unchecked id="c42eb493"> |
 
 ### Feed on Followers - Action
 

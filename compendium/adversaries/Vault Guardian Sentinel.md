@@ -10,7 +10,7 @@ obsidianUIMode: preview
 
 | HP: `8` Major: `25` Severe: `43` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="6e47c807"> <input type="checkbox" unchecked id="d9f0e765"> <input type="checkbox" unchecked id="65b787ac"> <input type="checkbox" unchecked id="55105960"> <input type="checkbox" unchecked id="48fa46d9"> <input type="checkbox" unchecked id="1ec4e197"> <input type="checkbox" unchecked id="6c2ba118"> <input type="checkbox" unchecked id="20bcc18d"> |  <input type="checkbox" unchecked id="8043aae2"> <input type="checkbox" unchecked id="9c3a5443"> <input type="checkbox" unchecked id="44d40761"> |
+|  <input type="checkbox" unchecked id="efd1193b"> <input type="checkbox" unchecked id="a27650f8"> <input type="checkbox" unchecked id="189b3dde"> <input type="checkbox" unchecked id="be867bc6"> <input type="checkbox" unchecked id="e181bc65"> <input type="checkbox" unchecked id="31c7c74a"> <input type="checkbox" unchecked id="dd9804e6"> <input type="checkbox" unchecked id="7b3911a4"> |  <input type="checkbox" unchecked id="cb28f9d8"> <input type="checkbox" unchecked id="47ab612b"> <input type="checkbox" unchecked id="6733a3ea"> |
 
 ### Kinetic Slam - Passive
 

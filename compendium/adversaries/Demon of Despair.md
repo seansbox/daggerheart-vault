@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `6` Major: `18` Severe: `35` | Stress: `6` |
 |--|--|
-|  <input type="checkbox" unchecked id="94e99896"> <input type="checkbox" unchecked id="8910bc3c"> <input type="checkbox" unchecked id="9a005e81"> <input type="checkbox" unchecked id="e0c76c4b"> <input type="checkbox" unchecked id="04cc5077"> <input type="checkbox" unchecked id="eebc1be6"> |  <input type="checkbox" unchecked id="39fd49fe"> <input type="checkbox" unchecked id="cea28be1"> <input type="checkbox" unchecked id="465b87fd"> <input type="checkbox" unchecked id="243ad40b"> <input type="checkbox" unchecked id="d455a4e9"> <input type="checkbox" unchecked id="329b18cc"> |
+|  <input type="checkbox" unchecked id="48eda8d3"> <input type="checkbox" unchecked id="3216e590"> <input type="checkbox" unchecked id="ce34129f"> <input type="checkbox" unchecked id="1b20e622"> <input type="checkbox" unchecked id="3011bf9c"> <input type="checkbox" unchecked id="b3b011a7"> |  <input type="checkbox" unchecked id="a550aeaa"> <input type="checkbox" unchecked id="08e14954"> <input type="checkbox" unchecked id="59950954"> <input type="checkbox" unchecked id="5f500419"> <input type="checkbox" unchecked id="ccfa0a14"> <input type="checkbox" unchecked id="5bbb2953"> |
 
 ### Depths of Despair - Passive
 

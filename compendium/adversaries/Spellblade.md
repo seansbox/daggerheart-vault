@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `6` Major: `8` Severe: `14` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="db8ab748"> <input type="checkbox" unchecked id="d83d65fb"> <input type="checkbox" unchecked id="3c4ecaa0"> <input type="checkbox" unchecked id="1870a5f4"> <input type="checkbox" unchecked id="33e88552"> <input type="checkbox" unchecked id="da67c227"> |  <input type="checkbox" unchecked id="038bef0b"> <input type="checkbox" unchecked id="98e73406"> <input type="checkbox" unchecked id="37bd6cc2"> |
+|  <input type="checkbox" unchecked id="480af508"> <input type="checkbox" unchecked id="1967388b"> <input type="checkbox" unchecked id="5c268097"> <input type="checkbox" unchecked id="071f81e9"> <input type="checkbox" unchecked id="49be124a"> <input type="checkbox" unchecked id="d0159d48"> |  <input type="checkbox" unchecked id="bbd91281"> <input type="checkbox" unchecked id="274ce68e"> <input type="checkbox" unchecked id="185f2ae8"> |
 
 ### Arcane Steel - Passive
 

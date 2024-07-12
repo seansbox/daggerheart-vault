@@ -10,7 +10,7 @@ obsidianUIMode: preview
 
 | HP: `6` Major: `7` Severe: `14` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="37ef1a87"> <input type="checkbox" unchecked id="123867e5"> <input type="checkbox" unchecked id="30ddc0bd"> <input type="checkbox" unchecked id="6a14004b"> <input type="checkbox" unchecked id="72ea325e"> <input type="checkbox" unchecked id="41ea21f5"> |  <input type="checkbox" unchecked id="9e4056da"> <input type="checkbox" unchecked id="023f32b3"> <input type="checkbox" unchecked id="11ad7eb8"> |
+|  <input type="checkbox" unchecked id="3484e98f"> <input type="checkbox" unchecked id="4ce5104e"> <input type="checkbox" unchecked id="3f75f56b"> <input type="checkbox" unchecked id="4fe49081"> <input type="checkbox" unchecked id="3c56bc0a"> <input type="checkbox" unchecked id="24a2d7c0"> |  <input type="checkbox" unchecked id="be2137c6"> <input type="checkbox" unchecked id="bcb90163"> <input type="checkbox" unchecked id="d8afc063"> |
 
 ### Arcane Form - Passive
 

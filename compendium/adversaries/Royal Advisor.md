@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `3` Major: `8` Severe: `15` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="2efddd93"> <input type="checkbox" unchecked id="949b22be"> <input type="checkbox" unchecked id="a8bd2ba7"> |  <input type="checkbox" unchecked id="0eef5ae8"> <input type="checkbox" unchecked id="18662787"> <input type="checkbox" unchecked id="71c182ff"> |
+|  <input type="checkbox" unchecked id="9aa7ca2b"> <input type="checkbox" unchecked id="8c715aa8"> <input type="checkbox" unchecked id="7ffd1453"> |  <input type="checkbox" unchecked id="de6e4c90"> <input type="checkbox" unchecked id="bb81b92d"> <input type="checkbox" unchecked id="a2eb5b85"> |
 
 ### Devastating Retort - Passive
 

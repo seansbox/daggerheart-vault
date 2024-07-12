@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `4` Major: `8` Severe: `16` | Stress: `4` |
 |--|--|
-|  <input type="checkbox" unchecked id="1db49e3c"> <input type="checkbox" unchecked id="a4c2e959"> <input type="checkbox" unchecked id="7f9b9af7"> <input type="checkbox" unchecked id="b96f5a28"> |  <input type="checkbox" unchecked id="c94a521d"> <input type="checkbox" unchecked id="a61a2105"> <input type="checkbox" unchecked id="dc6437f0"> <input type="checkbox" unchecked id="8fab1ebd"> |
+|  <input type="checkbox" unchecked id="65156e00"> <input type="checkbox" unchecked id="ee526793"> <input type="checkbox" unchecked id="b2d0b036"> <input type="checkbox" unchecked id="b1241504"> |  <input type="checkbox" unchecked id="3d999f72"> <input type="checkbox" unchecked id="8ce09760"> <input type="checkbox" unchecked id="b72edc0c"> <input type="checkbox" unchecked id="4e2b85e1"> |
 
 ### Grindletooth Poison - Passive
 

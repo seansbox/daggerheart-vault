@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `6` Major: `12` Severe: `24` | Stress: `5` |
 |--|--|
-|  <input type="checkbox" unchecked id="ba470942"> <input type="checkbox" unchecked id="4a5e1ed0"> <input type="checkbox" unchecked id="4d06dd4d"> <input type="checkbox" unchecked id="1dcaac9d"> <input type="checkbox" unchecked id="82467478"> <input type="checkbox" unchecked id="bee5146b"> |  <input type="checkbox" unchecked id="23a69636"> <input type="checkbox" unchecked id="1ba7d7c8"> <input type="checkbox" unchecked id="a9c57661"> <input type="checkbox" unchecked id="a0c0e658"> <input type="checkbox" unchecked id="fc920172"> |
+|  <input type="checkbox" unchecked id="cc5f33fa"> <input type="checkbox" unchecked id="564acc7b"> <input type="checkbox" unchecked id="1c437425"> <input type="checkbox" unchecked id="1018e21d"> <input type="checkbox" unchecked id="5d9f6c3a"> <input type="checkbox" unchecked id="3ecd6dbe"> |  <input type="checkbox" unchecked id="ad7f423d"> <input type="checkbox" unchecked id="b12b8527"> <input type="checkbox" unchecked id="9ce3ce14"> <input type="checkbox" unchecked id="f2f97d7b"> <input type="checkbox" unchecked id="d3d46231"> |
 
 ### Pinning Strike - Action
 

@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `3` Major: `4` Severe: `8` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="034c97e8"> <input type="checkbox" unchecked id="6a2f9861"> <input type="checkbox" unchecked id="9bdc7041"> |  <input type="checkbox" unchecked id="bf465d71"> <input type="checkbox" unchecked id="93a5a9e6"> <input type="checkbox" unchecked id="2329e99c"> |
+|  <input type="checkbox" unchecked id="99664ee8"> <input type="checkbox" unchecked id="7dc6d621"> <input type="checkbox" unchecked id="844fc1e2"> |  <input type="checkbox" unchecked id="3e28a92d"> <input type="checkbox" unchecked id="0ccd6c40"> <input type="checkbox" unchecked id="9ff7b809"> |
 
 ### Backstab - Passive
 

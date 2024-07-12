@@ -9,7 +9,7 @@ obsidianUIMode: preview
 
 | HP: `7` Major: `22` Severe: `39` | Stress: `5` |
 |--|--|
-|  <input type="checkbox" unchecked id="b828f3a1"> <input type="checkbox" unchecked id="36851c69"> <input type="checkbox" unchecked id="446238d8"> <input type="checkbox" unchecked id="284f4ebf"> <input type="checkbox" unchecked id="86439afc"> <input type="checkbox" unchecked id="6427c857"> <input type="checkbox" unchecked id="12e6b04d"> |  <input type="checkbox" unchecked id="928aabea"> <input type="checkbox" unchecked id="36f5e9c7"> <input type="checkbox" unchecked id="8250e56c"> <input type="checkbox" unchecked id="5eb750fa"> <input type="checkbox" unchecked id="a396a1d8"> |
+|  <input type="checkbox" unchecked id="59d4031d"> <input type="checkbox" unchecked id="6b54b5cf"> <input type="checkbox" unchecked id="d236e963"> <input type="checkbox" unchecked id="e1a6466b"> <input type="checkbox" unchecked id="e43437a2"> <input type="checkbox" unchecked id="5e082ed3"> <input type="checkbox" unchecked id="aba45916"> |  <input type="checkbox" unchecked id="a3cf238b"> <input type="checkbox" unchecked id="ba6c8198"> <input type="checkbox" unchecked id="d30550af"> <input type="checkbox" unchecked id="ae82609d"> <input type="checkbox" unchecked id="eca33e97"> |
 
 ### Canopy Dive - Passive
 

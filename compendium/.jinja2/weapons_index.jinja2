@@ -1,0 +1,8 @@
+---
+obsidianUIMode: preview
+---
+# Weapons
+
+| Name | Description |
+|--|--|{% for row in rows %}
+| [{{ row.Name }}](weapons/{{ row.Name | urlencode }}.md)<br>*Tier {{ row.Tier }} {{ row.PhysicalOrMagic }}* | `{{ row.Trait }}` {{ row.Burden }} {{ row.Range }} {{ row.Damage }}<br>{% if row.Feature %}*{{ row.Feature }}*{% endif %} |{% endfor %}

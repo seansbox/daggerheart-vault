@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `5` Major: `5` Severe: `9` | Stress: `2` |
 |--|--|
-|  <input type="checkbox" unchecked id="67047847"> <input type="checkbox" unchecked id="9b6f7f5a"> <input type="checkbox" unchecked id="e387080a"> <input type="checkbox" unchecked id="a10fe07b"> <input type="checkbox" unchecked id="330d7a4e"> |  <input type="checkbox" unchecked id="aeb14b2c"> <input type="checkbox" unchecked id="8334b210"> |
+|  <input type="checkbox" unchecked id="59cdbc4b"> <input type="checkbox" unchecked id="f227c193"> <input type="checkbox" unchecked id="2ecd43c5"> <input type="checkbox" unchecked id="15e33755"> <input type="checkbox" unchecked id="6ac4c1db"> |  <input type="checkbox" unchecked id="585ae6cf"> <input type="checkbox" unchecked id="f170ba5f"> |
 
 ### Shield Wall - Passive
 

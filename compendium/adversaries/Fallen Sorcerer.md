@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `7` Major: `26` Severe: `42` | Stress: `5` |
 |--|--|
-|  <input type="checkbox" unchecked id="ecc5545c"> <input type="checkbox" unchecked id="15773e59"> <input type="checkbox" unchecked id="3ee22f33"> <input type="checkbox" unchecked id="4ea58ac9"> <input type="checkbox" unchecked id="9f089b44"> <input type="checkbox" unchecked id="421067e0"> <input type="checkbox" unchecked id="9073d03d"> |  <input type="checkbox" unchecked id="7bcb54ae"> <input type="checkbox" unchecked id="f93618af"> <input type="checkbox" unchecked id="2662d8ca"> <input type="checkbox" unchecked id="a9c5e3c6"> <input type="checkbox" unchecked id="e8ab0c91"> |
+|  <input type="checkbox" unchecked id="7e246e6b"> <input type="checkbox" unchecked id="17c2ca9d"> <input type="checkbox" unchecked id="750927ea"> <input type="checkbox" unchecked id="44075e9b"> <input type="checkbox" unchecked id="00b512f9"> <input type="checkbox" unchecked id="90ed19c8"> <input type="checkbox" unchecked id="aa9e3f44"> |  <input type="checkbox" unchecked id="2b6be7e8"> <input type="checkbox" unchecked id="75ebd8eb"> <input type="checkbox" unchecked id="e5c22a86"> <input type="checkbox" unchecked id="a2d11b44"> <input type="checkbox" unchecked id="3c71cc9e"> |
 
 ### Slippery - Reaction
 

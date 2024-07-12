@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `6` Major: `6` Severe: `11` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="62c454f5"> <input type="checkbox" unchecked id="274a4b1c"> <input type="checkbox" unchecked id="2aedda0b"> <input type="checkbox" unchecked id="6c9ecf02"> <input type="checkbox" unchecked id="fd334980"> <input type="checkbox" unchecked id="ed17f86c"> |  <input type="checkbox" unchecked id="bef315a5"> <input type="checkbox" unchecked id="9633459d"> <input type="checkbox" unchecked id="c91ec8bd"> |
+|  <input type="checkbox" unchecked id="5092eeac"> <input type="checkbox" unchecked id="1827f3be"> <input type="checkbox" unchecked id="1517ae71"> <input type="checkbox" unchecked id="e8ab8795"> <input type="checkbox" unchecked id="61615d8f"> <input type="checkbox" unchecked id="98840615"> |  <input type="checkbox" unchecked id="2208bff4"> <input type="checkbox" unchecked id="519d2a59"> <input type="checkbox" unchecked id="67ca65d8"> |
 
 ### Encumber - Reaction
 

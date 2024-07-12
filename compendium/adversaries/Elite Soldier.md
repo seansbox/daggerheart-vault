@@ -10,7 +10,7 @@ obsidianUIMode: preview
 
 | HP: `4` Major: `9` Severe: `18` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="3358802b"> <input type="checkbox" unchecked id="e5e80a13"> <input type="checkbox" unchecked id="402d1043"> <input type="checkbox" unchecked id="caf151c9"> |  <input type="checkbox" unchecked id="a90ee4a3"> <input type="checkbox" unchecked id="c814f070"> <input type="checkbox" unchecked id="3d2d8216"> |
+|  <input type="checkbox" unchecked id="895a6d30"> <input type="checkbox" unchecked id="16bf92a3"> <input type="checkbox" unchecked id="d1f51c34"> <input type="checkbox" unchecked id="6bdabe29"> |  <input type="checkbox" unchecked id="4cc08952"> <input type="checkbox" unchecked id="45312565"> <input type="checkbox" unchecked id="8fba73d4"> |
 
 ### Vassal’s Loyalty - Reaction
 

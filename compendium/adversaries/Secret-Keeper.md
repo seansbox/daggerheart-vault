@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `6` Major: `13` Severe: `26` | Stress: `4` |
 |--|--|
-|  <input type="checkbox" unchecked id="47d1ec8b"> <input type="checkbox" unchecked id="6de10809"> <input type="checkbox" unchecked id="b2dcdf46"> <input type="checkbox" unchecked id="acf7a564"> <input type="checkbox" unchecked id="a9eab2db"> <input type="checkbox" unchecked id="5dd72a1d"> |  <input type="checkbox" unchecked id="2071e076"> <input type="checkbox" unchecked id="20b36864"> <input type="checkbox" unchecked id="cfd3239a"> <input type="checkbox" unchecked id="afb32c2d"> |
+|  <input type="checkbox" unchecked id="dc5a74b2"> <input type="checkbox" unchecked id="b012dcbe"> <input type="checkbox" unchecked id="864f98b7"> <input type="checkbox" unchecked id="2ef7a769"> <input type="checkbox" unchecked id="c9ff2b8a"> <input type="checkbox" unchecked id="08fa8794"> |  <input type="checkbox" unchecked id="fee7d44a"> <input type="checkbox" unchecked id="f01073f8"> <input type="checkbox" unchecked id="8a38975f"> <input type="checkbox" unchecked id="1f2103a3"> |
 
 ### Our Master’s Will - Reaction
 

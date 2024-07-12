@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `7` Major: `8` Severe: `14` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="aba943c5"> <input type="checkbox" unchecked id="809e84c7"> <input type="checkbox" unchecked id="5634d7cd"> <input type="checkbox" unchecked id="125329c3"> <input type="checkbox" unchecked id="b99bb572"> <input type="checkbox" unchecked id="c1468c31"> <input type="checkbox" unchecked id="9c8352c6"> |  <input type="checkbox" unchecked id="3cc508b7"> <input type="checkbox" unchecked id="8de6a157"> <input type="checkbox" unchecked id="f8e65d50"> |
+|  <input type="checkbox" unchecked id="d17ad312"> <input type="checkbox" unchecked id="3c151b2e"> <input type="checkbox" unchecked id="c5eb27e8"> <input type="checkbox" unchecked id="35aaa5a9"> <input type="checkbox" unchecked id="02431db0"> <input type="checkbox" unchecked id="bec02e36"> <input type="checkbox" unchecked id="8bbe502d"> |  <input type="checkbox" unchecked id="d610c605"> <input type="checkbox" unchecked id="0867bb59"> <input type="checkbox" unchecked id="7fcc96d3"> |
 
 ### Ground Slam - Action
 

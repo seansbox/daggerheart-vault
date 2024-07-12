@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `7` Major: `12` Severe: `25` | Stress: `5` |
 |--|--|
-|  <input type="checkbox" unchecked id="36b51d2d"> <input type="checkbox" unchecked id="c42b63e0"> <input type="checkbox" unchecked id="0d4483d5"> <input type="checkbox" unchecked id="f3e4392b"> <input type="checkbox" unchecked id="24fd5e20"> <input type="checkbox" unchecked id="ccff3298"> <input type="checkbox" unchecked id="bc6508ca"> |  <input type="checkbox" unchecked id="28010bd8"> <input type="checkbox" unchecked id="744b6daa"> <input type="checkbox" unchecked id="262cfcbb"> <input type="checkbox" unchecked id="6c88104e"> <input type="checkbox" unchecked id="72c8245c"> |
+|  <input type="checkbox" unchecked id="04372fea"> <input type="checkbox" unchecked id="002a07f7"> <input type="checkbox" unchecked id="6ee60383"> <input type="checkbox" unchecked id="75d2a59a"> <input type="checkbox" unchecked id="f63ab93f"> <input type="checkbox" unchecked id="8a9b85ef"> <input type="checkbox" unchecked id="52c810bd"> |  <input type="checkbox" unchecked id="c0673919"> <input type="checkbox" unchecked id="b3d6a560"> <input type="checkbox" unchecked id="f26d022b"> <input type="checkbox" unchecked id="1ddba8a1"> <input type="checkbox" unchecked id="8592effd"> |
 
 ### Won’t See It Coming - Passive
 

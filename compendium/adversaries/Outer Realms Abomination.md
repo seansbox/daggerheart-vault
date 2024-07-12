@@ -10,7 +10,7 @@ obsidianUIMode: preview
 
 | HP: `9` Major: `35` Severe: `71` | Stress: `5` |
 |--|--|
-|  <input type="checkbox" unchecked id="4f6364ee"> <input type="checkbox" unchecked id="10aa89eb"> <input type="checkbox" unchecked id="ea2344b1"> <input type="checkbox" unchecked id="e55040ea"> <input type="checkbox" unchecked id="a2020857"> <input type="checkbox" unchecked id="66457823"> <input type="checkbox" unchecked id="0645ac51"> <input type="checkbox" unchecked id="572092f7"> <input type="checkbox" unchecked id="b735bf56"> |  <input type="checkbox" unchecked id="a018db0b"> <input type="checkbox" unchecked id="e44fb189"> <input type="checkbox" unchecked id="4cfb7ac6"> <input type="checkbox" unchecked id="cb6f09f0"> <input type="checkbox" unchecked id="5c5f0f66"> |
+|  <input type="checkbox" unchecked id="6c5248bc"> <input type="checkbox" unchecked id="b6484e3c"> <input type="checkbox" unchecked id="6457dcb0"> <input type="checkbox" unchecked id="12bd073a"> <input type="checkbox" unchecked id="eb5ff1ca"> <input type="checkbox" unchecked id="326ba013"> <input type="checkbox" unchecked id="b2e9343c"> <input type="checkbox" unchecked id="0bc4a693"> <input type="checkbox" unchecked id="9c7be371"> |  <input type="checkbox" unchecked id="01526ae6"> <input type="checkbox" unchecked id="55fdfdf9"> <input type="checkbox" unchecked id="01ccedb7"> <input type="checkbox" unchecked id="ed261c0b"> <input type="checkbox" unchecked id="cf013b09"> |
 
 ### Chaotic Form - Passive
 

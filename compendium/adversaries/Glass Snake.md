@@ -10,7 +10,7 @@ obsidianUIMode: preview
 
 | HP: `5` Major: `6` Severe: `10` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="fceca4b3"> <input type="checkbox" unchecked id="a796aa0f"> <input type="checkbox" unchecked id="e8f5e66f"> <input type="checkbox" unchecked id="1a0cec7c"> <input type="checkbox" unchecked id="9e4762d0"> |  <input type="checkbox" unchecked id="1842cfe1"> <input type="checkbox" unchecked id="c01b8ad7"> <input type="checkbox" unchecked id="508774ca"> |
+|  <input type="checkbox" unchecked id="9ed66dc8"> <input type="checkbox" unchecked id="c1fd130b"> <input type="checkbox" unchecked id="745b7899"> <input type="checkbox" unchecked id="6022d8e1"> <input type="checkbox" unchecked id="e977f0a2"> |  <input type="checkbox" unchecked id="72601798"> <input type="checkbox" unchecked id="5997ad42"> <input type="checkbox" unchecked id="a2d3d400"> |
 
 ### Armor Shredding Shards - Passive
 

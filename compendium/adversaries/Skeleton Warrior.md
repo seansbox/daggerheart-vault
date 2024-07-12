@@ -10,7 +10,7 @@ obsidianUIMode: preview
 
 | HP: `3` Major: `4` Severe: `8` | Stress: `2` |
 |--|--|
-|  <input type="checkbox" unchecked id="c182a1be"> <input type="checkbox" unchecked id="796ab8ab"> <input type="checkbox" unchecked id="5db178d2"> |  <input type="checkbox" unchecked id="66f9550c"> <input type="checkbox" unchecked id="55cb6b33"> |
+|  <input type="checkbox" unchecked id="8e4569c6"> <input type="checkbox" unchecked id="13e89954"> <input type="checkbox" unchecked id="035aa2fa"> |  <input type="checkbox" unchecked id="48685786"> <input type="checkbox" unchecked id="94301bfb"> |
 
 ### Only Bones - Passive
 

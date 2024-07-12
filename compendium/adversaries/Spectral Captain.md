@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `6` Major: `13` Severe: `26` | Stress: `4` |
 |--|--|
-|  <input type="checkbox" unchecked id="55252d76"> <input type="checkbox" unchecked id="0b4c617c"> <input type="checkbox" unchecked id="83b300ed"> <input type="checkbox" unchecked id="0c180c80"> <input type="checkbox" unchecked id="1b39b7c9"> <input type="checkbox" unchecked id="c4d8b55c"> |  <input type="checkbox" unchecked id="06165a2d"> <input type="checkbox" unchecked id="462b247b"> <input type="checkbox" unchecked id="0316d329"> <input type="checkbox" unchecked id="7ba1653a"> |
+|  <input type="checkbox" unchecked id="f9a3ef93"> <input type="checkbox" unchecked id="a240f3ad"> <input type="checkbox" unchecked id="afeb3718"> <input type="checkbox" unchecked id="2e2733a9"> <input type="checkbox" unchecked id="bc109ac5"> <input type="checkbox" unchecked id="10b7ab8f"> |  <input type="checkbox" unchecked id="97f4610c"> <input type="checkbox" unchecked id="80ab9741"> <input type="checkbox" unchecked id="434f40ad"> <input type="checkbox" unchecked id="7b8d0cad"> |
 
 ### Ghost - Passive
 

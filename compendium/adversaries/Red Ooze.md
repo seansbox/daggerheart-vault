@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `5` Major: `6` Severe: `11` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="24a34ae4"> <input type="checkbox" unchecked id="9c63ba1d"> <input type="checkbox" unchecked id="b2526655"> <input type="checkbox" unchecked id="d2f5187d"> <input type="checkbox" unchecked id="9813f095"> |  <input type="checkbox" unchecked id="bb08822a"> <input type="checkbox" unchecked id="648e731b"> <input type="checkbox" unchecked id="137043d3"> |
+|  <input type="checkbox" unchecked id="5bd2944c"> <input type="checkbox" unchecked id="7e2e1d7a"> <input type="checkbox" unchecked id="83f30a3c"> <input type="checkbox" unchecked id="234b4d4c"> <input type="checkbox" unchecked id="732bdf2f"> |  <input type="checkbox" unchecked id="bb964a41"> <input type="checkbox" unchecked id="d51c6fde"> <input type="checkbox" unchecked id="fca0da2b"> |
 
 ### Creeping Fire - Action
 

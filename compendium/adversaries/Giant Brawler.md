@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `7` Major: `14` Severe: `28` | Stress: `4` |
 |--|--|
-|  <input type="checkbox" unchecked id="8aae00a1"> <input type="checkbox" unchecked id="dcc662f8"> <input type="checkbox" unchecked id="c246a1ac"> <input type="checkbox" unchecked id="b499fb34"> <input type="checkbox" unchecked id="7ac2d829"> <input type="checkbox" unchecked id="d319060b"> <input type="checkbox" unchecked id="89eccf5a"> |  <input type="checkbox" unchecked id="5a43cded"> <input type="checkbox" unchecked id="22f85b39"> <input type="checkbox" unchecked id="1a0cfe6f"> <input type="checkbox" unchecked id="09082bab"> |
+|  <input type="checkbox" unchecked id="21557978"> <input type="checkbox" unchecked id="c7a84748"> <input type="checkbox" unchecked id="7c6db465"> <input type="checkbox" unchecked id="73aea1ff"> <input type="checkbox" unchecked id="8b3a0891"> <input type="checkbox" unchecked id="50f23b81"> <input type="checkbox" unchecked id="958bdbdb"> |  <input type="checkbox" unchecked id="ff7e9506"> <input type="checkbox" unchecked id="f71b3104"> <input type="checkbox" unchecked id="d1954ef3"> <input type="checkbox" unchecked id="8dbec478"> |
 
 ### Bloody Reprisal - Reaction
 

@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `6` Major: `16` Severe: `32` | Stress: `5` |
 |--|--|
-|  <input type="checkbox" unchecked id="bb4a937b"> <input type="checkbox" unchecked id="83bb2412"> <input type="checkbox" unchecked id="31478118"> <input type="checkbox" unchecked id="67068ad1"> <input type="checkbox" unchecked id="683d1959"> <input type="checkbox" unchecked id="c3e024f2"> |  <input type="checkbox" unchecked id="0cbd348f"> <input type="checkbox" unchecked id="1642d99e"> <input type="checkbox" unchecked id="44c3146e"> <input type="checkbox" unchecked id="f271dfc9"> <input type="checkbox" unchecked id="6175678b"> |
+|  <input type="checkbox" unchecked id="cc1754f4"> <input type="checkbox" unchecked id="62a7e045"> <input type="checkbox" unchecked id="cc0ada45"> <input type="checkbox" unchecked id="001edfd9"> <input type="checkbox" unchecked id="8c52803c"> <input type="checkbox" unchecked id="28b5d91e"> |  <input type="checkbox" unchecked id="96376eff"> <input type="checkbox" unchecked id="af9b424f"> <input type="checkbox" unchecked id="8a1e7bfb"> <input type="checkbox" unchecked id="7c0c0ca9"> <input type="checkbox" unchecked id="656b508f"> |
 
 ### Casus Belli - Reaction
 

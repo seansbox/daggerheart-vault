@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `7` Major: `14` Severe: `28` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="e077d91a"> <input type="checkbox" unchecked id="ab1fa429"> <input type="checkbox" unchecked id="cd7f3e3f"> <input type="checkbox" unchecked id="a0fbb74d"> <input type="checkbox" unchecked id="5fe0cbcf"> <input type="checkbox" unchecked id="13e430af"> <input type="checkbox" unchecked id="be62c414"> |  <input type="checkbox" unchecked id="62f84f33"> <input type="checkbox" unchecked id="b64106f2"> <input type="checkbox" unchecked id="2e503ba7"> |
+|  <input type="checkbox" unchecked id="fb79558b"> <input type="checkbox" unchecked id="1007e481"> <input type="checkbox" unchecked id="2f65c3ae"> <input type="checkbox" unchecked id="8d701cd3"> <input type="checkbox" unchecked id="5a9d7101"> <input type="checkbox" unchecked id="c6d0c229"> <input type="checkbox" unchecked id="37447571"> |  <input type="checkbox" unchecked id="41189648"> <input type="checkbox" unchecked id="a8239816"> <input type="checkbox" unchecked id="a61d72b4"> |
 
 ### Rending Bite - Passive
 

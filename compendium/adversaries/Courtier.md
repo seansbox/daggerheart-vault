@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `2` Major: `4` Severe: `8` | Stress: `4` |
 |--|--|
-|  <input type="checkbox" unchecked id="075a1187"> <input type="checkbox" unchecked id="45b1eeed"> |  <input type="checkbox" unchecked id="f41087be"> <input type="checkbox" unchecked id="9fd92447"> <input type="checkbox" unchecked id="952edf3b"> <input type="checkbox" unchecked id="da860a72"> |
+|  <input type="checkbox" unchecked id="1378b2e6"> <input type="checkbox" unchecked id="2aba4e53"> |  <input type="checkbox" unchecked id="4fecc710"> <input type="checkbox" unchecked id="21e4b4df"> <input type="checkbox" unchecked id="dfdf7d6f"> <input type="checkbox" unchecked id="91c0fac6"> |
 
 ### Mockery - Action
 

@@ -10,7 +10,7 @@ obsidianUIMode: preview
 
 | HP: `6` Major: `19` Severe: `33` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="0b17327e"> <input type="checkbox" unchecked id="bff734be"> <input type="checkbox" unchecked id="8f4a0a69"> <input type="checkbox" unchecked id="3a8d5b34"> <input type="checkbox" unchecked id="5154c181"> <input type="checkbox" unchecked id="2b803007"> |  <input type="checkbox" unchecked id="ca3e3777"> <input type="checkbox" unchecked id="af1a06f4"> <input type="checkbox" unchecked id="6a6e5baa"> |
+|  <input type="checkbox" unchecked id="f71b36b8"> <input type="checkbox" unchecked id="596e5f48"> <input type="checkbox" unchecked id="de9ad1ab"> <input type="checkbox" unchecked id="c315aabf"> <input type="checkbox" unchecked id="bd06b8be"> <input type="checkbox" unchecked id="60682a59"> |  <input type="checkbox" unchecked id="42163681"> <input type="checkbox" unchecked id="16084e45"> <input type="checkbox" unchecked id="6c044568"> |
 
 ### Lock Up - Action
 

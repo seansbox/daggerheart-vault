@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `6` Major: `16` Severe: `30` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="e2377c5d"> <input type="checkbox" unchecked id="c99f996e"> <input type="checkbox" unchecked id="e0b217bb"> <input type="checkbox" unchecked id="13a517d0"> <input type="checkbox" unchecked id="96c677f7"> <input type="checkbox" unchecked id="1977b9d3"> |  <input type="checkbox" unchecked id="60516936"> <input type="checkbox" unchecked id="478865e9"> <input type="checkbox" unchecked id="67afdd43"> |
+|  <input type="checkbox" unchecked id="d63eb152"> <input type="checkbox" unchecked id="f1619d8f"> <input type="checkbox" unchecked id="3fa0693c"> <input type="checkbox" unchecked id="ee2ef34c"> <input type="checkbox" unchecked id="4be89839"> <input type="checkbox" unchecked id="98a545fa"> |  <input type="checkbox" unchecked id="9b5eee32"> <input type="checkbox" unchecked id="89d69aeb"> <input type="checkbox" unchecked id="3cdec834"> |
 
 ### Flying - Passive
 

@@ -3,6 +3,14 @@ import csv
 import random
 from collections import defaultdict
 from jinja2 import Environment, FileSystemLoader
+from urllib.parse import quote_plus
+from urllib.parse import quote
+
+
+# Custom filter to URL encode strings
+def urlencode(value):
+    # return quote_plus(value)
+    return quote(value)
 
 
 def hex():
@@ -14,8 +22,9 @@ def starts_with_digit(value):
 
 
 # Set up the Jinja2 environment
-env = Environment(loader=FileSystemLoader("./.md"))
+env = Environment(loader=FileSystemLoader("./.jinja2"))
 env.filters["starts_with_digit"] = starts_with_digit
+env.filters["urlencode"] = urlencode
 
 
 # Function to process CSV rows and look for "subrows" (cols ending in 1-9)
@@ -44,9 +53,9 @@ for csv_filename in os.listdir("./.csv"):
 
     csv_filepath = os.path.join("./.csv", csv_filename)
     template_filename = csv_filename.replace(".csv", ".jinja2")
-    template_filepath = os.path.join("./.md", template_filename)
+    template_filepath = os.path.join("./.jinja2", template_filename)
     index_template_filename = csv_filename.replace(".csv", "_index.jinja2")
-    index_template_filepath = os.path.join("./.md", index_template_filename)
+    index_template_filepath = os.path.join("./.jinja2", index_template_filename)
     template = env.get_template(template_filename)
 
     with open(csv_filepath, newline="") as csv_file:

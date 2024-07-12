@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `7` Major: `7` Severe: `14` | Stress: `4` |
 |--|--|
-|  <input type="checkbox" unchecked id="826fc0c5"> <input type="checkbox" unchecked id="628e1b22"> <input type="checkbox" unchecked id="512dd7d3"> <input type="checkbox" unchecked id="495c94b4"> <input type="checkbox" unchecked id="137b2985"> <input type="checkbox" unchecked id="d48690b0"> <input type="checkbox" unchecked id="3a288a94"> |  <input type="checkbox" unchecked id="10537844"> <input type="checkbox" unchecked id="b0eaedb5"> <input type="checkbox" unchecked id="f9cbb8dc"> <input type="checkbox" unchecked id="22d495fd"> |
+|  <input type="checkbox" unchecked id="1a355ad7"> <input type="checkbox" unchecked id="5584aa2d"> <input type="checkbox" unchecked id="3c6344f2"> <input type="checkbox" unchecked id="2be427c1"> <input type="checkbox" unchecked id="28c2d54c"> <input type="checkbox" unchecked id="981421f0"> <input type="checkbox" unchecked id="e908e26e"> |  <input type="checkbox" unchecked id="b8b41fa4"> <input type="checkbox" unchecked id="50ceb1f9"> <input type="checkbox" unchecked id="aaf58b99"> <input type="checkbox" unchecked id="baedad91"> |
 
 ### I’ve Got ‘Em - Passive
 

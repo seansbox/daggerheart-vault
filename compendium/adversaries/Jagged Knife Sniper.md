@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `3` Major: `4` Severe: `7` | Stress: `2` |
 |--|--|
-|  <input type="checkbox" unchecked id="9c0afe96"> <input type="checkbox" unchecked id="dae42d18"> <input type="checkbox" unchecked id="bbed49e1"> |  <input type="checkbox" unchecked id="43e24c46"> <input type="checkbox" unchecked id="479c3995"> |
+|  <input type="checkbox" unchecked id="a4ed870f"> <input type="checkbox" unchecked id="289b044a"> <input type="checkbox" unchecked id="57aeac1b"> |  <input type="checkbox" unchecked id="2a3e953a"> <input type="checkbox" unchecked id="be760ab0"> |
 
 ### Unseen Strike - Passive
 

@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `6` Major: `8` Severe: `15` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="722eb9eb"> <input type="checkbox" unchecked id="53599208"> <input type="checkbox" unchecked id="ae4fd5a9"> <input type="checkbox" unchecked id="56366fd4"> <input type="checkbox" unchecked id="fcce02f3"> <input type="checkbox" unchecked id="2c9f34a4"> |  <input type="checkbox" unchecked id="8d28357a"> <input type="checkbox" unchecked id="605c482f"> <input type="checkbox" unchecked id="2d2f0f55"> |
+|  <input type="checkbox" unchecked id="1997f201"> <input type="checkbox" unchecked id="1c94d922"> <input type="checkbox" unchecked id="e04f56a5"> <input type="checkbox" unchecked id="077ff3b8"> <input type="checkbox" unchecked id="0e313805"> <input type="checkbox" unchecked id="b1ef6f1a"> |  <input type="checkbox" unchecked id="ae0a366b"> <input type="checkbox" unchecked id="8e4c03d6"> <input type="checkbox" unchecked id="a8e854cf"> |
 
 ### Bone Breaker - Passive
 

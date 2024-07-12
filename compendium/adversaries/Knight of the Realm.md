@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `6` Major: `13` Severe: `26` | Stress: `4` |
 |--|--|
-|  <input type="checkbox" unchecked id="5989f991"> <input type="checkbox" unchecked id="25ccb619"> <input type="checkbox" unchecked id="ce419351"> <input type="checkbox" unchecked id="afa40725"> <input type="checkbox" unchecked id="f77f4e9f"> <input type="checkbox" unchecked id="26846595"> |  <input type="checkbox" unchecked id="e44551d6"> <input type="checkbox" unchecked id="c10fce38"> <input type="checkbox" unchecked id="338b9e41"> <input type="checkbox" unchecked id="b7484d46"> |
+|  <input type="checkbox" unchecked id="bdc72af8"> <input type="checkbox" unchecked id="3529214f"> <input type="checkbox" unchecked id="94e05f2b"> <input type="checkbox" unchecked id="d3890ed1"> <input type="checkbox" unchecked id="ba13a874"> <input type="checkbox" unchecked id="454d29de"> |  <input type="checkbox" unchecked id="2dab643b"> <input type="checkbox" unchecked id="7594870c"> <input type="checkbox" unchecked id="1723875d"> <input type="checkbox" unchecked id="4048c58c"> |
 
 ### Chevalier - Passive
 

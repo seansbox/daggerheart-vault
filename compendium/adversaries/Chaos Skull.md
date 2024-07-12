@@ -10,7 +10,7 @@ obsidianUIMode: preview
 
 | HP: `5` Major: `8` Severe: `16` | Stress: `4` |
 |--|--|
-|  <input type="checkbox" unchecked id="205f5dd9"> <input type="checkbox" unchecked id="4b6dc824"> <input type="checkbox" unchecked id="bc43c0b0"> <input type="checkbox" unchecked id="a2491fe5"> <input type="checkbox" unchecked id="1e08e363"> |  <input type="checkbox" unchecked id="a35c01b7"> <input type="checkbox" unchecked id="835b003f"> <input type="checkbox" unchecked id="f2fde066"> <input type="checkbox" unchecked id="41d5b238"> |
+|  <input type="checkbox" unchecked id="6cf40262"> <input type="checkbox" unchecked id="badf9853"> <input type="checkbox" unchecked id="33eb0da3"> <input type="checkbox" unchecked id="ea7b1c31"> <input type="checkbox" unchecked id="689118e8"> |  <input type="checkbox" unchecked id="d60e6822"> <input type="checkbox" unchecked id="9ca6f7b8"> <input type="checkbox" unchecked id="dd38e601"> <input type="checkbox" unchecked id="e0cb7f9f"> |
 
 ### Levitation - Passive
 

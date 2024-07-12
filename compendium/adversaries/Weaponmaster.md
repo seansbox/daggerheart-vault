@@ -10,7 +10,7 @@ obsidianUIMode: preview
 
 | HP: `6` Major: `8` Severe: `15` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="93b94810"> <input type="checkbox" unchecked id="6874fbf4"> <input type="checkbox" unchecked id="d2f3a95d"> <input type="checkbox" unchecked id="3a271173"> <input type="checkbox" unchecked id="ae76ff6d"> <input type="checkbox" unchecked id="97e1f759"> |  <input type="checkbox" unchecked id="05b3bd91"> <input type="checkbox" unchecked id="2fd9f3e6"> <input type="checkbox" unchecked id="906d289f"> |
+|  <input type="checkbox" unchecked id="fdf1a746"> <input type="checkbox" unchecked id="9072e346"> <input type="checkbox" unchecked id="106e36e8"> <input type="checkbox" unchecked id="d70731e0"> <input type="checkbox" unchecked id="471d9871"> <input type="checkbox" unchecked id="1e93f67d"> |  <input type="checkbox" unchecked id="38c37d39"> <input type="checkbox" unchecked id="491cb436"> <input type="checkbox" unchecked id="215a0c3b"> |
 
 ### Goading Strike - Action
 
