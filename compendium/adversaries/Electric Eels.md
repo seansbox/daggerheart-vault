@@ -10,7 +10,7 @@ obsidianUIMode: preview
 
 | HP: `5` Major: `10` Severe: `20` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="077f2dcd"> <input type="checkbox" unchecked id="151eaea2"> <input type="checkbox" unchecked id="979ba05a"> <input type="checkbox" unchecked id="68c15427"> <input type="checkbox" unchecked id="5bee98ca"> |  <input type="checkbox" unchecked id="93c667bb"> <input type="checkbox" unchecked id="85418121"> <input type="checkbox" unchecked id="21595314"> |
+|  <input type="checkbox" unchecked id="b72c4d78"> <input type="checkbox" unchecked id="4df2158d"> <input type="checkbox" unchecked id="76f619c7"> <input type="checkbox" unchecked id="fd1afe77"> <input type="checkbox" unchecked id="cd5c1e24"> |  <input type="checkbox" unchecked id="f72cb545"> <input type="checkbox" unchecked id="2e488d36"> <input type="checkbox" unchecked id="4d3cfb6c"> |
 
 ### Paralyzing Shock - Action
 

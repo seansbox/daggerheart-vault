@@ -10,7 +10,7 @@ obsidianUIMode: preview
 
 | HP: `2` Major: `4` Severe: `` | Stress: `1` |
 |--|--|
-|  <input type="checkbox" unchecked id="0bf5952d"> <input type="checkbox" unchecked id="8137504a"> |  <input type="checkbox" unchecked id="93773ff1"> |
+|  <input type="checkbox" unchecked id="36375e5f"> <input type="checkbox" unchecked id="b63aa8ff"> |  <input type="checkbox" unchecked id="f8844f86"> |
 
 ### Acidic Form - Passive
 

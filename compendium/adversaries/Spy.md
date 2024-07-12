@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `4` Major: `8` Severe: `17` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="952cb7fd"> <input type="checkbox" unchecked id="794f8df6"> <input type="checkbox" unchecked id="59624d49"> <input type="checkbox" unchecked id="a625f173"> |  <input type="checkbox" unchecked id="4d6affd4"> <input type="checkbox" unchecked id="2ae64da4"> <input type="checkbox" unchecked id="72369a5a"> |
+|  <input type="checkbox" unchecked id="4e81afd7"> <input type="checkbox" unchecked id="b3d56bd5"> <input type="checkbox" unchecked id="74d47a89"> <input type="checkbox" unchecked id="80c2ddae"> |  <input type="checkbox" unchecked id="57f003ce"> <input type="checkbox" unchecked id="8660826d"> <input type="checkbox" unchecked id="c7d61c48"> |
 
 ### Fly on the Wall - Reaction
 

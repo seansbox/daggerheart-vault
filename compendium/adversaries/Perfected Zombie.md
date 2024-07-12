@@ -10,7 +10,7 @@ obsidianUIMode: preview
 
 | HP: `8` Major: `40` Severe: `70` | Stress: `4` |
 |--|--|
-|  <input type="checkbox" unchecked id="74c4df2f"> <input type="checkbox" unchecked id="76098706"> <input type="checkbox" unchecked id="9f2aa404"> <input type="checkbox" unchecked id="e8705b3a"> <input type="checkbox" unchecked id="2a27814c"> <input type="checkbox" unchecked id="bf49ffbc"> <input type="checkbox" unchecked id="e39b6f60"> <input type="checkbox" unchecked id="f23f8b6e"> |  <input type="checkbox" unchecked id="86e440ea"> <input type="checkbox" unchecked id="06896981"> <input type="checkbox" unchecked id="64a26d2c"> <input type="checkbox" unchecked id="d0840383"> |
+|  <input type="checkbox" unchecked id="78f60d54"> <input type="checkbox" unchecked id="2508ece9"> <input type="checkbox" unchecked id="e0de8ea7"> <input type="checkbox" unchecked id="fa0e32b8"> <input type="checkbox" unchecked id="2230fb09"> <input type="checkbox" unchecked id="3f1bd5f9"> <input type="checkbox" unchecked id="8a7da99e"> <input type="checkbox" unchecked id="3193002a"> |  <input type="checkbox" unchecked id="d5cc61c3"> <input type="checkbox" unchecked id="8912b0b9"> <input type="checkbox" unchecked id="b104cf56"> <input type="checkbox" unchecked id="9910782f"> |
 
 ### Fearsome Presence - Passive
 

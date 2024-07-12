@@ -10,7 +10,7 @@ obsidianUIMode: preview
 
 | HP: `5` Major: `27` Severe: `47` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="9c198e5a"> <input type="checkbox" unchecked id="7ef66622"> <input type="checkbox" unchecked id="021356bc"> <input type="checkbox" unchecked id="2a0eaccf"> <input type="checkbox" unchecked id="1f89c183"> |  <input type="checkbox" unchecked id="f37fca6b"> <input type="checkbox" unchecked id="9f9914c9"> <input type="checkbox" unchecked id="ae5896a8"> |
+|  <input type="checkbox" unchecked id="70dbe362"> <input type="checkbox" unchecked id="20e7851e"> <input type="checkbox" unchecked id="f335c8b9"> <input type="checkbox" unchecked id="68269769"> <input type="checkbox" unchecked id="11343a7c"> |  <input type="checkbox" unchecked id="cf5104a3"> <input type="checkbox" unchecked id="46878d89"> <input type="checkbox" unchecked id="90d853b6"> |
 
 ### Will-Shattering Touch - Passive
 

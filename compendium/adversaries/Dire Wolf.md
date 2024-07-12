@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `4` Major: `5` Severe: `9` | Stress: `2` |
 |--|--|
-|  <input type="checkbox" unchecked id="f8691262"> <input type="checkbox" unchecked id="bc727893"> <input type="checkbox" unchecked id="cbb73187"> <input type="checkbox" unchecked id="16e76c10"> |  <input type="checkbox" unchecked id="a456b585"> <input type="checkbox" unchecked id="69395179"> |
+|  <input type="checkbox" unchecked id="361e93c7"> <input type="checkbox" unchecked id="ca1c99b0"> <input type="checkbox" unchecked id="e72fa03f"> <input type="checkbox" unchecked id="6c953c9e"> |  <input type="checkbox" unchecked id="b164b3ff"> <input type="checkbox" unchecked id="98a43395"> |
 
 ### Pack Tactics - Passive
 

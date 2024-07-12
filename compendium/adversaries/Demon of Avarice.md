@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `5` Major: `15` Severe: `29` | Stress: `5` |
 |--|--|
-|  <input type="checkbox" unchecked id="2c211204"> <input type="checkbox" unchecked id="93d87db7"> <input type="checkbox" unchecked id="c15c4030"> <input type="checkbox" unchecked id="99c6f90b"> <input type="checkbox" unchecked id="fdd2b3b2"> |  <input type="checkbox" unchecked id="0e146f98"> <input type="checkbox" unchecked id="8d4486a8"> <input type="checkbox" unchecked id="19f9d65e"> <input type="checkbox" unchecked id="7bac9781"> <input type="checkbox" unchecked id="d7e4ef02"> |
+|  <input type="checkbox" unchecked id="6fcd933d"> <input type="checkbox" unchecked id="6903bb88"> <input type="checkbox" unchecked id="ce95090c"> <input type="checkbox" unchecked id="74d33ae3"> <input type="checkbox" unchecked id="c6028b5a"> |  <input type="checkbox" unchecked id="9ffd492d"> <input type="checkbox" unchecked id="4fc49905"> <input type="checkbox" unchecked id="00efd853"> <input type="checkbox" unchecked id="70a56b27"> <input type="checkbox" unchecked id="edfc1b8c"> |
 
 ### Money Talks - Passive
 

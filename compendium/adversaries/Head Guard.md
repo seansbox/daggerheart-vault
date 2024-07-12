@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `7` Major: `7` Severe: `13` | Stress: `2` |
 |--|--|
-|  <input type="checkbox" unchecked id="dc5db1ff"> <input type="checkbox" unchecked id="652bcd13"> <input type="checkbox" unchecked id="e2e86357"> <input type="checkbox" unchecked id="f782e507"> <input type="checkbox" unchecked id="39717aab"> <input type="checkbox" unchecked id="4a8a3008"> <input type="checkbox" unchecked id="7a234b63"> |  <input type="checkbox" unchecked id="562ebc00"> <input type="checkbox" unchecked id="d7e06646"> |
+|  <input type="checkbox" unchecked id="bfcd950d"> <input type="checkbox" unchecked id="f776a81c"> <input type="checkbox" unchecked id="e31bc630"> <input type="checkbox" unchecked id="f9039dea"> <input type="checkbox" unchecked id="dbe3db47"> <input type="checkbox" unchecked id="d7deeffe"> <input type="checkbox" unchecked id="d28bd1e1"> |  <input type="checkbox" unchecked id="01045001"> <input type="checkbox" unchecked id="7f5da914"> |
 
 ### Rally Guards - Action
 

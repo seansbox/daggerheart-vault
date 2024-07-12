@@ -10,7 +10,7 @@ obsidianUIMode: preview
 
 | HP: `7` Major: `19` Severe: `37` | Stress: `5` |
 |--|--|
-|  <input type="checkbox" unchecked id="5e95fad0"> <input type="checkbox" unchecked id="2039435f"> <input type="checkbox" unchecked id="535ad6e8"> <input type="checkbox" unchecked id="d575fedd"> <input type="checkbox" unchecked id="404c6e6d"> <input type="checkbox" unchecked id="01b189a4"> <input type="checkbox" unchecked id="3cf3dfcc"> |  <input type="checkbox" unchecked id="e871d54e"> <input type="checkbox" unchecked id="d0edb0e7"> <input type="checkbox" unchecked id="bc755daa"> <input type="checkbox" unchecked id="0ac46f01"> <input type="checkbox" unchecked id="f6ad35c1"> |
+|  <input type="checkbox" unchecked id="96698bcf"> <input type="checkbox" unchecked id="741a5be1"> <input type="checkbox" unchecked id="408ec7e0"> <input type="checkbox" unchecked id="1769534a"> <input type="checkbox" unchecked id="313a4bf1"> <input type="checkbox" unchecked id="f0d88008"> <input type="checkbox" unchecked id="ca02f542"> |  <input type="checkbox" unchecked id="e5a7b4db"> <input type="checkbox" unchecked id="af3f8cc5"> <input type="checkbox" unchecked id="c7ddab4f"> <input type="checkbox" unchecked id="a161e349"> <input type="checkbox" unchecked id="52d0f503"> |
 
 ### Many-Headed Menace - Passive
 

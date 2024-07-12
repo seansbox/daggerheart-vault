@@ -10,7 +10,7 @@ obsidianUIMode: preview
 
 | HP: `5` Major: `17` Severe: `34` | Stress: `5` |
 |--|--|
-|  <input type="checkbox" unchecked id="17338f59"> <input type="checkbox" unchecked id="10f5036e"> <input type="checkbox" unchecked id="7b706332"> <input type="checkbox" unchecked id="8c593ea4"> <input type="checkbox" unchecked id="35bad54a"> |  <input type="checkbox" unchecked id="8145ff27"> <input type="checkbox" unchecked id="4cfd314e"> <input type="checkbox" unchecked id="b0d1f139"> <input type="checkbox" unchecked id="b56b33f5"> <input type="checkbox" unchecked id="262a5f12"> |
+|  <input type="checkbox" unchecked id="ed393426"> <input type="checkbox" unchecked id="7b733bb2"> <input type="checkbox" unchecked id="3a1b7df4"> <input type="checkbox" unchecked id="9fa1e227"> <input type="checkbox" unchecked id="69d15737"> |  <input type="checkbox" unchecked id="829badf5"> <input type="checkbox" unchecked id="5e433bd0"> <input type="checkbox" unchecked id="5741e315"> <input type="checkbox" unchecked id="21442715"> <input type="checkbox" unchecked id="779a4817"> |
 
 ### High Tide - Passive
 

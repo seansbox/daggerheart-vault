@@ -10,7 +10,7 @@ obsidianUIMode: preview
 
 | HP: `4` Major: `8` Severe: `16` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="2c608032"> <input type="checkbox" unchecked id="f8691e45"> <input type="checkbox" unchecked id="ff7fa5f6"> <input type="checkbox" unchecked id="4cc60314"> |  <input type="checkbox" unchecked id="fc3b596b"> <input type="checkbox" unchecked id="7705ff10"> <input type="checkbox" unchecked id="1076b32c"> |
+|  <input type="checkbox" unchecked id="acd08a87"> <input type="checkbox" unchecked id="dfc27e0b"> <input type="checkbox" unchecked id="76ac312a"> <input type="checkbox" unchecked id="2085683b"> |  <input type="checkbox" unchecked id="8da79d7f"> <input type="checkbox" unchecked id="6bc2857d"> <input type="checkbox" unchecked id="169b5abf"> |
 
 ### Focused Volley - Action (2)
 

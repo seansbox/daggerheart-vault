@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `5` Major: `8` Severe: `14` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="45e308d7"> <input type="checkbox" unchecked id="86c38229"> <input type="checkbox" unchecked id="347f7cdd"> <input type="checkbox" unchecked id="e0350ce1"> <input type="checkbox" unchecked id="91ed8a5c"> |  <input type="checkbox" unchecked id="fd58d616"> <input type="checkbox" unchecked id="814ec460"> <input type="checkbox" unchecked id="32b30639"> |
+|  <input type="checkbox" unchecked id="c2a576b3"> <input type="checkbox" unchecked id="81762c7b"> <input type="checkbox" unchecked id="f6f9e98a"> <input type="checkbox" unchecked id="b2d9b70a"> <input type="checkbox" unchecked id="960b3a10"> |  <input type="checkbox" unchecked id="58010d17"> <input type="checkbox" unchecked id="fde386f8"> <input type="checkbox" unchecked id="c72ce8b8"> |
 
 ### Climber - Passive
 

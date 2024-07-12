@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `5` Major: `9` Severe: `19` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="d0015950"> <input type="checkbox" unchecked id="1d3ef6c4"> <input type="checkbox" unchecked id="2a14c231"> <input type="checkbox" unchecked id="87c6cf21"> <input type="checkbox" unchecked id="a8fbbff6"> |  <input type="checkbox" unchecked id="d1188cef"> <input type="checkbox" unchecked id="c3cefe51"> <input type="checkbox" unchecked id="86467a44"> |
+|  <input type="checkbox" unchecked id="a8715f6c"> <input type="checkbox" unchecked id="fcdb4724"> <input type="checkbox" unchecked id="95dada9c"> <input type="checkbox" unchecked id="e8b51ccd"> <input type="checkbox" unchecked id="79a4f84f"> |  <input type="checkbox" unchecked id="40322f64"> <input type="checkbox" unchecked id="f33a120b"> <input type="checkbox" unchecked id="d3aea60e"> |
 
 ### Everyone Has a Price - Action
 

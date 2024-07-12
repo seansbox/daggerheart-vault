@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `3` Major: `7` Severe: `13` | Stress: `4` |
 |--|--|
-|  <input type="checkbox" unchecked id="0afb5b3d"> <input type="checkbox" unchecked id="2979408a"> <input type="checkbox" unchecked id="c2406f95"> |  <input type="checkbox" unchecked id="07722e75"> <input type="checkbox" unchecked id="bed795b3"> <input type="checkbox" unchecked id="529e113e"> <input type="checkbox" unchecked id="159451fc"> |
+|  <input type="checkbox" unchecked id="16b9ed1f"> <input type="checkbox" unchecked id="82d3a29d"> <input type="checkbox" unchecked id="d7e18c7a"> |  <input type="checkbox" unchecked id="b01b202e"> <input type="checkbox" unchecked id="5a3218d4"> <input type="checkbox" unchecked id="153521fe"> <input type="checkbox" unchecked id="2aecbcbe"> |
 
 ### Searing Glance - Reaction
 

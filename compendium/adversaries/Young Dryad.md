@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `4` Major: `6` Severe: `11` | Stress: `2` |
 |--|--|
-|  <input type="checkbox" unchecked id="47871b6f"> <input type="checkbox" unchecked id="5603a386"> <input type="checkbox" unchecked id="77c051a1"> <input type="checkbox" unchecked id="69b8adb0"> |  <input type="checkbox" unchecked id="12773353"> <input type="checkbox" unchecked id="91ca2a83"> |
+|  <input type="checkbox" unchecked id="57db983c"> <input type="checkbox" unchecked id="4b189dbb"> <input type="checkbox" unchecked id="d694d708"> <input type="checkbox" unchecked id="b9cbb7ae"> |  <input type="checkbox" unchecked id="1f503112"> <input type="checkbox" unchecked id="fa5cd88c"> |
 
 ### Voice of the Forest - Action
 

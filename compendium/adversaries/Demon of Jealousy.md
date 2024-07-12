@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `6` Major: `17` Severe: `30` | Stress: `6` |
 |--|--|
-|  <input type="checkbox" unchecked id="5eeb49aa"> <input type="checkbox" unchecked id="aaec8797"> <input type="checkbox" unchecked id="cbccd710"> <input type="checkbox" unchecked id="7fca1447"> <input type="checkbox" unchecked id="3aee1a70"> <input type="checkbox" unchecked id="a07f029d"> |  <input type="checkbox" unchecked id="65671ff7"> <input type="checkbox" unchecked id="e4e90b7d"> <input type="checkbox" unchecked id="44880bf3"> <input type="checkbox" unchecked id="ff5c5737"> <input type="checkbox" unchecked id="9f1ef28f"> <input type="checkbox" unchecked id="079b5aa9"> |
+|  <input type="checkbox" unchecked id="52bed9a0"> <input type="checkbox" unchecked id="a6c1eab6"> <input type="checkbox" unchecked id="ce14411d"> <input type="checkbox" unchecked id="d4d5318c"> <input type="checkbox" unchecked id="9d6e733f"> <input type="checkbox" unchecked id="1583e7ee"> |  <input type="checkbox" unchecked id="17b85c6d"> <input type="checkbox" unchecked id="062f7a2c"> <input type="checkbox" unchecked id="2c696d0c"> <input type="checkbox" unchecked id="554f6745"> <input type="checkbox" unchecked id="29181bda"> <input type="checkbox" unchecked id="062da023"> |
 
 ### Unprotected Mind - Passive
 

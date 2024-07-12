@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `6` Major: `7` Severe: `13` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="a277e8e9"> <input type="checkbox" unchecked id="8fc49840"> <input type="checkbox" unchecked id="f3fae42a"> <input type="checkbox" unchecked id="0192a25b"> <input type="checkbox" unchecked id="820463e6"> <input type="checkbox" unchecked id="2cef9840"> |  <input type="checkbox" unchecked id="ec97c222"> <input type="checkbox" unchecked id="c655869e"> <input type="checkbox" unchecked id="a6a625ad"> |
+|  <input type="checkbox" unchecked id="21a4c5d5"> <input type="checkbox" unchecked id="96dd1372"> <input type="checkbox" unchecked id="bd322142"> <input type="checkbox" unchecked id="deb91bbb"> <input type="checkbox" unchecked id="6b9409f9"> <input type="checkbox" unchecked id="564f9842"> |  <input type="checkbox" unchecked id="98078ca1"> <input type="checkbox" unchecked id="01dc7aeb"> <input type="checkbox" unchecked id="fa809c9c"> |
 
 ### Double Strike - Action
 

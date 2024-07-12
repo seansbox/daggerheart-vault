@@ -22,7 +22,7 @@ def starts_with_digit(value):
 
 
 # Set up the Jinja2 environment
-env = Environment(loader=FileSystemLoader("./.jinja2"))
+env = Environment(loader=FileSystemLoader("./_jinja2"))
 env.filters["starts_with_digit"] = starts_with_digit
 env.filters["urlencode"] = urlencode
 
@@ -47,15 +47,15 @@ def find_subrows(row):
 
 
 # Loop through each CSV file in the ./csv directory
-for csv_filename in os.listdir("./.csv"):
+for csv_filename in os.listdir("./_csv"):
     if not csv_filename.endswith(".csv"):
         continue
 
-    csv_filepath = os.path.join("./.csv", csv_filename)
+    csv_filepath = os.path.join("./_csv", csv_filename)
     template_filename = csv_filename.replace(".csv", ".jinja2")
     template_filepath = os.path.join("./.jinja2", template_filename)
     index_template_filename = csv_filename.replace(".csv", "_index.jinja2")
-    index_template_filepath = os.path.join("./.jinja2", index_template_filename)
+    index_template_filepath = os.path.join("._jinja2", index_template_filename)
     template = env.get_template(template_filename)
 
     with open(csv_filepath, newline="") as csv_file:
@@ -65,7 +65,7 @@ for csv_filename in os.listdir("./.csv"):
             row = find_subrows(row)
             rows.append(row)
             md_filename = f"{row['Name']}.md".replace("’", "'").replace(": ", " ").replace(":", " ").replace("  ", " ")
-            md_directory = os.path.join(".", csv_filename.replace(".csv", ""))
+            md_directory = os.path.join("../compendium", csv_filename.replace(".csv", ""))
             os.makedirs(md_directory, exist_ok=True)
             md_filepath = os.path.join(md_directory, md_filename)
 
@@ -82,7 +82,7 @@ for csv_filename in os.listdir("./.csv"):
     if os.path.exists(index_template_filepath):
         index_template = env.get_template(index_template_filename)
         index_md_filename = f"{csv_filename.replace('.csv', '').capitalize()} Index.md"
-        index_md_filepath = os.path.join(".", index_md_filename)
+        index_md_filepath = os.path.join("../compendium", index_md_filename)
         index_content = index_template.render(rows=rows)
 
         with open(index_md_filepath, "w") as index_md_file:

@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `7` Major: `9` Severe: `17` | Stress: `2` |
 |--|--|
-|  <input type="checkbox" unchecked id="94418ba7"> <input type="checkbox" unchecked id="1d721388"> <input type="checkbox" unchecked id="e9166bfb"> <input type="checkbox" unchecked id="7b1aaaca"> <input type="checkbox" unchecked id="82c6a53b"> <input type="checkbox" unchecked id="44a02742"> <input type="checkbox" unchecked id="c7960041"> |  <input type="checkbox" unchecked id="ab8a25ae"> <input type="checkbox" unchecked id="990194d2"> |
+|  <input type="checkbox" unchecked id="312d0f76"> <input type="checkbox" unchecked id="66e16f19"> <input type="checkbox" unchecked id="0ab8a8a9"> <input type="checkbox" unchecked id="8b8c87b5"> <input type="checkbox" unchecked id="8890437a"> <input type="checkbox" unchecked id="473b0e6a"> <input type="checkbox" unchecked id="beda817a"> |  <input type="checkbox" unchecked id="9c041f8f"> <input type="checkbox" unchecked id="db5470ae"> |
 
 ### Overwhelming Force - Passive
 

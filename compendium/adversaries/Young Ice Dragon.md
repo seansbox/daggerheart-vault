@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `11` Major: `23` Severe: `43` | Stress: `6` |
 |--|--|
-|  <input type="checkbox" unchecked id="f02355b1"> <input type="checkbox" unchecked id="c5a7669e"> <input type="checkbox" unchecked id="cc5babfc"> <input type="checkbox" unchecked id="6eac1e23"> <input type="checkbox" unchecked id="2204a3a6"> <input type="checkbox" unchecked id="d3490d34"> <input type="checkbox" unchecked id="9e882051"> <input type="checkbox" unchecked id="aae34e17"> <input type="checkbox" unchecked id="33bc6eda"> <input type="checkbox" unchecked id="2079dc36"> <input type="checkbox" unchecked id="3d3584f1"> |  <input type="checkbox" unchecked id="12187495"> <input type="checkbox" unchecked id="07825288"> <input type="checkbox" unchecked id="eb1c9555"> <input type="checkbox" unchecked id="98b62924"> <input type="checkbox" unchecked id="a2d67cd1"> <input type="checkbox" unchecked id="8aeae220"> |
+|  <input type="checkbox" unchecked id="b8d87241"> <input type="checkbox" unchecked id="190443eb"> <input type="checkbox" unchecked id="09231fb2"> <input type="checkbox" unchecked id="2ca54cb4"> <input type="checkbox" unchecked id="370e0e7f"> <input type="checkbox" unchecked id="f004a44d"> <input type="checkbox" unchecked id="d36cbfe4"> <input type="checkbox" unchecked id="bb4cbfda"> <input type="checkbox" unchecked id="962b870a"> <input type="checkbox" unchecked id="b55ab07f"> <input type="checkbox" unchecked id="08d71a62"> |  <input type="checkbox" unchecked id="9420fdaa"> <input type="checkbox" unchecked id="9d3519fd"> <input type="checkbox" unchecked id="ce3ef944"> <input type="checkbox" unchecked id="03140182"> <input type="checkbox" unchecked id="c670f23c"> <input type="checkbox" unchecked id="3afe55a5"> |
 
 ### Relentless (3) - Passive
 

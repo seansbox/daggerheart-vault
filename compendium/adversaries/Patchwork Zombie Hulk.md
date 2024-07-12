@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `9` Major: `8` Severe: `15` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="e5cf59bf"> <input type="checkbox" unchecked id="17b139ea"> <input type="checkbox" unchecked id="02e0a5a1"> <input type="checkbox" unchecked id="5e8c6143"> <input type="checkbox" unchecked id="b5e9fa33"> <input type="checkbox" unchecked id="6ee2b541"> <input type="checkbox" unchecked id="c4a80ac3"> <input type="checkbox" unchecked id="13d8b017"> <input type="checkbox" unchecked id="d38f7206"> |  <input type="checkbox" unchecked id="4b3eb566"> <input type="checkbox" unchecked id="fe6a1c08"> <input type="checkbox" unchecked id="d1028ccc"> |
+|  <input type="checkbox" unchecked id="8fae7dce"> <input type="checkbox" unchecked id="fcb7c7e3"> <input type="checkbox" unchecked id="8b9123cc"> <input type="checkbox" unchecked id="e8dd55bc"> <input type="checkbox" unchecked id="bdf5e23e"> <input type="checkbox" unchecked id="a6ff0aae"> <input type="checkbox" unchecked id="61713e04"> <input type="checkbox" unchecked id="18c6677c"> <input type="checkbox" unchecked id="793c1028"> |  <input type="checkbox" unchecked id="88f310b2"> <input type="checkbox" unchecked id="432b5b57"> <input type="checkbox" unchecked id="2283ed0c"> |
 
 ### Destructible - Passive
 

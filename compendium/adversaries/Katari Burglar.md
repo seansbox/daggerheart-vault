@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `4` Major: `8` Severe: `17` | Stress: `5` |
 |--|--|
-|  <input type="checkbox" unchecked id="bf1acc8a"> <input type="checkbox" unchecked id="596f6f41"> <input type="checkbox" unchecked id="c6dcc03a"> <input type="checkbox" unchecked id="0a3dd0f3"> |  <input type="checkbox" unchecked id="b03163ea"> <input type="checkbox" unchecked id="d0812a35"> <input type="checkbox" unchecked id="6dde6ede"> <input type="checkbox" unchecked id="a8215cbb"> <input type="checkbox" unchecked id="31613de0"> |
+|  <input type="checkbox" unchecked id="bb8f7918"> <input type="checkbox" unchecked id="165b6bcf"> <input type="checkbox" unchecked id="2bd8ea3f"> <input type="checkbox" unchecked id="daea88bc"> |  <input type="checkbox" unchecked id="41b4dbb0"> <input type="checkbox" unchecked id="c50cf926"> <input type="checkbox" unchecked id="0a3fc36c"> <input type="checkbox" unchecked id="5e6da761"> <input type="checkbox" unchecked id="87ffdc68"> |
 
 ### Quick Hands - Action (2)
 

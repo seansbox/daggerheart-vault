@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `5` Major: `9` Severe: `18` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="52e9d1a5"> <input type="checkbox" unchecked id="658fb20a"> <input type="checkbox" unchecked id="15a212af"> <input type="checkbox" unchecked id="18641676"> <input type="checkbox" unchecked id="a7c5fc66"> |  <input type="checkbox" unchecked id="3d92477b"> <input type="checkbox" unchecked id="6edb23b4"> <input type="checkbox" unchecked id="d2809ecf"> |
+|  <input type="checkbox" unchecked id="231ef997"> <input type="checkbox" unchecked id="49032449"> <input type="checkbox" unchecked id="f596c34c"> <input type="checkbox" unchecked id="a6a649c5"> <input type="checkbox" unchecked id="469556f6"> |  <input type="checkbox" unchecked id="ef9dfe44"> <input type="checkbox" unchecked id="8f550db2"> <input type="checkbox" unchecked id="be23f4fb"> |
 
 ### Enchanting Song - Action
 

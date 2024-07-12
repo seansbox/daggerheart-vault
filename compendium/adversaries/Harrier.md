@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `3` Major: `5` Severe: `9` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="cc8319e5"> <input type="checkbox" unchecked id="0b89bae1"> <input type="checkbox" unchecked id="29e14c91"> |  <input type="checkbox" unchecked id="5dcfbf5d"> <input type="checkbox" unchecked id="c6a92107"> <input type="checkbox" unchecked id="53e3cb26"> |
+|  <input type="checkbox" unchecked id="ac900b9a"> <input type="checkbox" unchecked id="b3ed6866"> <input type="checkbox" unchecked id="1325c88c"> |  <input type="checkbox" unchecked id="a2300df6"> <input type="checkbox" unchecked id="e16044ee"> <input type="checkbox" unchecked id="55e342d1"> |
 
 ### Maintain Distance - Passive
 

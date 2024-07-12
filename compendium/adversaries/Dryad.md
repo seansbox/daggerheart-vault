@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `9` Major: `29` Severe: `45` | Stress: `5` |
 |--|--|
-|  <input type="checkbox" unchecked id="f025089e"> <input type="checkbox" unchecked id="18083392"> <input type="checkbox" unchecked id="e4c1ac13"> <input type="checkbox" unchecked id="bbcb69c4"> <input type="checkbox" unchecked id="13f1805e"> <input type="checkbox" unchecked id="bb52cfa5"> <input type="checkbox" unchecked id="ecfa3282"> <input type="checkbox" unchecked id="dcc24693"> <input type="checkbox" unchecked id="f8f7386f"> |  <input type="checkbox" unchecked id="773f22c2"> <input type="checkbox" unchecked id="b70ce0ed"> <input type="checkbox" unchecked id="30deef5b"> <input type="checkbox" unchecked id="c5319c9a"> <input type="checkbox" unchecked id="96720e95"> |
+|  <input type="checkbox" unchecked id="b587384b"> <input type="checkbox" unchecked id="e0e782e0"> <input type="checkbox" unchecked id="3f5eadec"> <input type="checkbox" unchecked id="60ba5e66"> <input type="checkbox" unchecked id="f224fe68"> <input type="checkbox" unchecked id="93642ebe"> <input type="checkbox" unchecked id="deb40be9"> <input type="checkbox" unchecked id="b05d2f6e"> <input type="checkbox" unchecked id="c8ff085c"> |  <input type="checkbox" unchecked id="57dc28e9"> <input type="checkbox" unchecked id="7b982394"> <input type="checkbox" unchecked id="728c10e2"> <input type="checkbox" unchecked id="d7f7427b"> <input type="checkbox" unchecked id="5a4ed3ae"> |
 
 ### Bramble Patch
 

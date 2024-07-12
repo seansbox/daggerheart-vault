@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `3` Major: `12` Severe: `23` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="64682146"> <input type="checkbox" unchecked id="7ce7a521"> <input type="checkbox" unchecked id="712dd5a1"> |  <input type="checkbox" unchecked id="798ca8a6"> <input type="checkbox" unchecked id="825caaa2"> <input type="checkbox" unchecked id="0f86778b"> |
+|  <input type="checkbox" unchecked id="63eec844"> <input type="checkbox" unchecked id="39252a32"> <input type="checkbox" unchecked id="429499ca"> |  <input type="checkbox" unchecked id="6890161d"> <input type="checkbox" unchecked id="956e2be8"> <input type="checkbox" unchecked id="3bf25ed0"> |
 
 ### Warped Fortitude - Passive
 

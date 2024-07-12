@@ -10,7 +10,7 @@ obsidianUIMode: preview
 
 | HP: `3` Major: `4` Severe: `7` | Stress: `2` |
 |--|--|
-|  <input type="checkbox" unchecked id="d4a6500c"> <input type="checkbox" unchecked id="9203551e"> <input type="checkbox" unchecked id="b324ed25"> |  <input type="checkbox" unchecked id="4cb768d6"> <input type="checkbox" unchecked id="dabcac6b"> |
+|  <input type="checkbox" unchecked id="ebd9d16a"> <input type="checkbox" unchecked id="75883944"> <input type="checkbox" unchecked id="e31a5222"> |  <input type="checkbox" unchecked id="2418b792"> <input type="checkbox" unchecked id="71df73a9"> |
 
 ### Opportunist - Passive
 

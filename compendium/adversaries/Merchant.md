@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `3` Major: `4` Severe: `8` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="794b1361"> <input type="checkbox" unchecked id="c27fbbfc"> <input type="checkbox" unchecked id="4c61de91"> |  <input type="checkbox" unchecked id="8e1bec3e"> <input type="checkbox" unchecked id="4c24c65a"> <input type="checkbox" unchecked id="cb2c3bdc"> |
+|  <input type="checkbox" unchecked id="a2033259"> <input type="checkbox" unchecked id="3dabf8b3"> <input type="checkbox" unchecked id="0b5fb227"> |  <input type="checkbox" unchecked id="a261a8d6"> <input type="checkbox" unchecked id="eab9b680"> <input type="checkbox" unchecked id="9dd47860"> |
 
 ### Preferential Treatment - Passive
 

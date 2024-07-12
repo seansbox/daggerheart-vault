@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `6` Major: `11` Severe: `22` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="d63c8d43"> <input type="checkbox" unchecked id="8dd86005"> <input type="checkbox" unchecked id="87c4f689"> <input type="checkbox" unchecked id="9ad66e1d"> <input type="checkbox" unchecked id="f093982d"> <input type="checkbox" unchecked id="5b50f1b2"> |  <input type="checkbox" unchecked id="4cac6a5e"> <input type="checkbox" unchecked id="536127dd"> <input type="checkbox" unchecked id="24052829"> |
+|  <input type="checkbox" unchecked id="472abf37"> <input type="checkbox" unchecked id="6954b8f2"> <input type="checkbox" unchecked id="3f42528a"> <input type="checkbox" unchecked id="18f02348"> <input type="checkbox" unchecked id="2ef1ce33"> <input type="checkbox" unchecked id="f9055ec9"> |  <input type="checkbox" unchecked id="8a984056"> <input type="checkbox" unchecked id="6b6e6b0e"> <input type="checkbox" unchecked id="5537772a"> |
 
 ### Stonestrider - Passive
 

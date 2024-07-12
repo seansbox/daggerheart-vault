@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `5` Major: `11` Severe: `23` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="fffd46e4"> <input type="checkbox" unchecked id="04fd755a"> <input type="checkbox" unchecked id="45d6d9b8"> <input type="checkbox" unchecked id="67253ee8"> <input type="checkbox" unchecked id="6f3e6bfa"> |  <input type="checkbox" unchecked id="296762b8"> <input type="checkbox" unchecked id="5de89f78"> <input type="checkbox" unchecked id="0f67be40"> |
+|  <input type="checkbox" unchecked id="b659c757"> <input type="checkbox" unchecked id="9c0337bf"> <input type="checkbox" unchecked id="a0113e89"> <input type="checkbox" unchecked id="0e7538ee"> <input type="checkbox" unchecked id="81f695e7"> |  <input type="checkbox" unchecked id="3a7965e8"> <input type="checkbox" unchecked id="3cb4e6c4"> <input type="checkbox" unchecked id="dd0630ff"> |
 
 ### Pounce - Passive
 

@@ -10,7 +10,7 @@ obsidianUIMode: preview
 
 | HP: `5` Major: `7` Severe: `13` | Stress: `2` |
 |--|--|
-|  <input type="checkbox" unchecked id="0f1a3694"> <input type="checkbox" unchecked id="8e5a9446"> <input type="checkbox" unchecked id="a6cd864d"> <input type="checkbox" unchecked id="2ca6587e"> <input type="checkbox" unchecked id="86940f73"> |  <input type="checkbox" unchecked id="0a142a30"> <input type="checkbox" unchecked id="3400f905"> |
+|  <input type="checkbox" unchecked id="32c478ed"> <input type="checkbox" unchecked id="33e3c17b"> <input type="checkbox" unchecked id="75922432"> <input type="checkbox" unchecked id="33b18f04"> <input type="checkbox" unchecked id="c492aaec"> |  <input type="checkbox" unchecked id="4a873a2b"> <input type="checkbox" unchecked id="68cacb21"> |
 
 ### Cut to the Bone - Action
 

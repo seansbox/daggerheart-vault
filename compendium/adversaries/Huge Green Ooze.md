@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `6` Major: `15` Severe: `30` | Stress: `4` |
 |--|--|
-|  <input type="checkbox" unchecked id="dfe24da2"> <input type="checkbox" unchecked id="286c21fe"> <input type="checkbox" unchecked id="84d9bb72"> <input type="checkbox" unchecked id="2e9b82ba"> <input type="checkbox" unchecked id="450cfa15"> <input type="checkbox" unchecked id="c3b457b7"> |  <input type="checkbox" unchecked id="f0fe5a7d"> <input type="checkbox" unchecked id="540908f0"> <input type="checkbox" unchecked id="e194b5cb"> <input type="checkbox" unchecked id="b2ffe764"> |
+|  <input type="checkbox" unchecked id="5fc46582"> <input type="checkbox" unchecked id="f4a2d1e3"> <input type="checkbox" unchecked id="65fb78a9"> <input type="checkbox" unchecked id="9a897704"> <input type="checkbox" unchecked id="9ee62854"> <input type="checkbox" unchecked id="50a4dfb1"> |  <input type="checkbox" unchecked id="779fc473"> <input type="checkbox" unchecked id="f944645e"> <input type="checkbox" unchecked id="0417d495"> <input type="checkbox" unchecked id="a5cfe078"> |
 
 ### Slow (2) - Passive
 

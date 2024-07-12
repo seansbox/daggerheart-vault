@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `7` Major: `22` Severe: `44` | Stress: `5` |
 |--|--|
-|  <input type="checkbox" unchecked id="a2556410"> <input type="checkbox" unchecked id="eb2043ba"> <input type="checkbox" unchecked id="cdfb52d1"> <input type="checkbox" unchecked id="73b3dfda"> <input type="checkbox" unchecked id="74c5e918"> <input type="checkbox" unchecked id="bf708f56"> <input type="checkbox" unchecked id="a2774ec9"> |  <input type="checkbox" unchecked id="cf698859"> <input type="checkbox" unchecked id="508e1e35"> <input type="checkbox" unchecked id="c43c9d0b"> <input type="checkbox" unchecked id="c10fec15"> <input type="checkbox" unchecked id="e825fa00"> |
+|  <input type="checkbox" unchecked id="d8ddddd7"> <input type="checkbox" unchecked id="d926528f"> <input type="checkbox" unchecked id="bf990990"> <input type="checkbox" unchecked id="5b075004"> <input type="checkbox" unchecked id="5169a17d"> <input type="checkbox" unchecked id="66a8d9d0"> <input type="checkbox" unchecked id="34b4e780"> |  <input type="checkbox" unchecked id="e39ecaef"> <input type="checkbox" unchecked id="723cb1c5"> <input type="checkbox" unchecked id="79acc3f5"> <input type="checkbox" unchecked id="a3fa91d4"> <input type="checkbox" unchecked id="70ae5fd7"> |
 
 ### Anger Unrelenting - Passive
 

@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `7` Major: `7` Severe: `14` | Stress: `5` |
 |--|--|
-|  <input type="checkbox" unchecked id="76c6b66b"> <input type="checkbox" unchecked id="ef7f2c3d"> <input type="checkbox" unchecked id="8bb9415c"> <input type="checkbox" unchecked id="33ed6103"> <input type="checkbox" unchecked id="8d3c1a9e"> <input type="checkbox" unchecked id="fdddaaa2"> <input type="checkbox" unchecked id="4be56a5e"> |  <input type="checkbox" unchecked id="bfa6fb5c"> <input type="checkbox" unchecked id="ca42175b"> <input type="checkbox" unchecked id="d45b6ed1"> <input type="checkbox" unchecked id="f9413246"> <input type="checkbox" unchecked id="3e84de5d"> |
+|  <input type="checkbox" unchecked id="8dcbe56f"> <input type="checkbox" unchecked id="ee0a08db"> <input type="checkbox" unchecked id="ba143b26"> <input type="checkbox" unchecked id="1d3a4c33"> <input type="checkbox" unchecked id="ab3f8835"> <input type="checkbox" unchecked id="129af198"> <input type="checkbox" unchecked id="12848a1f"> |  <input type="checkbox" unchecked id="b8f09257"> <input type="checkbox" unchecked id="96eed31f"> <input type="checkbox" unchecked id="ac01b89f"> <input type="checkbox" unchecked id="a0ff0985"> <input type="checkbox" unchecked id="900a9812"> |
 
 ### Swashbuckler - Passive
 

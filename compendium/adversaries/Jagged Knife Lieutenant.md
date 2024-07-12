@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `6` Major: `7` Severe: `14` | Stress: `3` |
 |--|--|
-|  <input type="checkbox" unchecked id="4575af26"> <input type="checkbox" unchecked id="4f5023cf"> <input type="checkbox" unchecked id="a7f40f5f"> <input type="checkbox" unchecked id="bc07e67b"> <input type="checkbox" unchecked id="b0f9ddb7"> <input type="checkbox" unchecked id="8340fdd6"> |  <input type="checkbox" unchecked id="7bf3e6b8"> <input type="checkbox" unchecked id="d2243f37"> <input type="checkbox" unchecked id="6bc2689c"> |
+|  <input type="checkbox" unchecked id="099895fd"> <input type="checkbox" unchecked id="9407bf6d"> <input type="checkbox" unchecked id="f182bd96"> <input type="checkbox" unchecked id="d8b59e41"> <input type="checkbox" unchecked id="045f5cd8"> <input type="checkbox" unchecked id="f4b2ec93"> |  <input type="checkbox" unchecked id="e0c17a24"> <input type="checkbox" unchecked id="512aaae8"> <input type="checkbox" unchecked id="4d37c1f5"> |
 
 ### Tactician - Action
 

@@ -10,7 +10,7 @@ obsidianUIMode: preview
 
 | HP: `3` Major: `25` Severe: `45` | Stress: `2` |
 |--|--|
-|  <input type="checkbox" unchecked id="9e38dad4"> <input type="checkbox" unchecked id="0ed27e91"> <input type="checkbox" unchecked id="c077c523"> |  <input type="checkbox" unchecked id="ac26c4a2"> <input type="checkbox" unchecked id="02882563"> |
+|  <input type="checkbox" unchecked id="480d1d5f"> <input type="checkbox" unchecked id="3e9f3e82"> <input type="checkbox" unchecked id="e9e7789b"> |  <input type="checkbox" unchecked id="fee821d4"> <input type="checkbox" unchecked id="64c6e0ad"> |
 
 ### Punish the Guilty - Passive
 

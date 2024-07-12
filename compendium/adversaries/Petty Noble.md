@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 | HP: `3` Major: `6` Severe: `10` | Stress: `5` |
 |--|--|
-|  <input type="checkbox" unchecked id="08e0f9a7"> <input type="checkbox" unchecked id="45ecdf32"> <input type="checkbox" unchecked id="5028fdb5"> |  <input type="checkbox" unchecked id="471c2762"> <input type="checkbox" unchecked id="26a21534"> <input type="checkbox" unchecked id="47d76e24"> <input type="checkbox" unchecked id="741039e4"> <input type="checkbox" unchecked id="2108f250"> |
+|  <input type="checkbox" unchecked id="623647bf"> <input type="checkbox" unchecked id="15e62a73"> <input type="checkbox" unchecked id="ec5cb755"> |  <input type="checkbox" unchecked id="432e8225"> <input type="checkbox" unchecked id="cb172944"> <input type="checkbox" unchecked id="d81d5421"> <input type="checkbox" unchecked id="e30ef46b"> <input type="checkbox" unchecked id="858e6fa4"> |
 
 ### My Land, My Rules - Passive
 

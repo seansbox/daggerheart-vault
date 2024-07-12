@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "compendium/weapons/Battleaxe.md",
+                "file": "compendium/Adversaries Index.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0c64a931d8d3b67e",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "compendium/weapons/Battleaxe.md",
+                "file": "compendium/Adversaries Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "compendium/weapons/Battleaxe.md",
+                "file": "compendium/Adversaries Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "compendium/weapons/Battleaxe.md"
+                "file": "compendium/Adversaries Index.md"
               }
             }
           }
@@ -148,14 +148,27 @@
   },
   "active": "f9d2113a58367c98",
   "lastOpenFiles": [
-    "compendium/Weapons Index.md",
-    "compendium/items/Premium Bedroll.md",
-    "compendium/Items Index.md",
-    "compendium/consumables/Stride Potion.md",
-    "compendium/Consumables Index.md",
-    "compendium/armor/Gambeson Armor.md",
-    "compendium/Armor Index.md",
+    "compendium/adversaries/Cult Adept.md",
     "compendium/Adversaries Index.md",
+    "compendium/adversaries/Chaos Skull.md",
+    "compendium/adversaries/Battle Box.md",
+    "compendium/adversaries/Conscript.md",
+    "campaigns/Tomb of Annihilation/Players",
+    "campaigns/Tomb of Annihilation/Locations",
+    "campaigns/Tomb of Annihilation/NPCs",
+    "campaigns/Tomb of Annihilation/Sessions",
+    "campaigns/Tomb of Annihilation",
+    "Untitled",
+    "campaigns",
+    "compendium/Items Index.md",
+    "compendium/Weapons Index.md",
+    "compendium/Consumables Index.md",
+    "compendium/Armor Index.md",
+    "compendium/weapons/Battleaxe.md",
+    "README.md.md",
+    "compendium/items/Premium Bedroll.md",
+    "compendium/consumables/Stride Potion.md",
+    "compendium/armor/Gambeson Armor.md",
     "compendium/adversaries/Pirate Captain.md",
     "compendium/adversaries/Shambling Zombie.md",
     "compendium/adversaries/Acid Burrower.md",
@@ -169,21 +182,8 @@
     "compendium/weapons/Advanced Dualstaff.md",
     "compendium/jinja2/weapons_index.jinja2",
     "compendium/jinja2/weapons.jinja2",
-    "compendium/jinja2/items_index.jinja2",
-    "compendium/jinja2/items.jinja2",
-    "compendium/jinja2/consumables_index.jinja2",
-    "compendium/jinja2/consumables.jinja2",
-    "compendium/jinja2/armor_index.jinja2",
-    "compendium/jinja2/armor.jinja2",
-    "compendium/jinja2/adversaries_index.jinja2",
     "compendium/weapons/Advanced Battleaxe.md",
     "compendium/items/Arcane Cloak.md",
-    "compendium/consumables/Bridge Seed.md",
-    "compendium/armor/Emberwoven Armor.md",
-    "compendium/adversaries/Apprentice Assassin.md",
-    "Untitled.md",
-    "compendium/weapons/Battleaxe.md",
-    "compendium/items/Clay Companion.md",
     "download.png"
   ]
 }
