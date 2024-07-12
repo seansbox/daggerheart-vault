@@ -1,0 +1,193 @@
+Name,Tier,PhysicalOrMagic,Trait,Range,Damage,Burden,Feature
+Battleaxe,1,Physical,Strength,Melee,d10+3 (Phy),Two-Handed,
+Broadsword,1,Physical,Agility,Melee,d8 (Phy),One-Handed,Reliable (+1 to attack rolls with this weapon)
+Crossbow,1,Physical,Finesse,Far,d6+1 (Phy),One-Handed,
+Cutlass,1,Physical,Presence,Melee,d8+1 (Phy),One-Handed,
+Dagger,1,Physical,Finesse,Melee,d8+1 (Phy),One-Handed,
+Grappler,1,Physical,Finesse,Close,d6 (Phy),One-Handed,"Hook (On a successful attack, you may also pull the target into Melee with you)"
+Greatsword,1,Physical,Strength,Melee,d10+3 (Phy),Two-Handed,"Massive (−1 Agility, roll one extra damage die and drop the lowest)"
+Halberd,1,Physical,Strength,Very Close,d8+2 (Phy),Two-Handed,
+Hand Crossbow,1,Physical,Finesse,Far,d6+1 (Phy),One-Handed,
+Longbow,1,Physical,Agility,Very Far,d6+3 (Phy),Two-Handed,Cumbersome (−1 to Evasion)
+Longsword,1,Physical,Agility,Melee,d8+3 (Phy),Two-Handed,
+Mace,1,Physical,Strength,Melee,d8+1 (Phy),One-Handed,
+Quarterstaff,1,Physical,Instinct,Melee,d10+3 (Phy),Two-Handed,
+Rapier,1,Physical,Presence,Melee,d8 (Phy),One-Handed,"Quick (When making an attack roll, mark a Stress to include an additional target in range)"
+Round Shield,1,Physical,Strength,Melee,d4 (Phy),One-Handed,Protective (Add +1 to your armor score.)
+Shortbow,1,Physical,Agility,Far,d6+3 (Phy),Two-Handed,
+Shortsword,1,Physical,Agility,Melee,d8 (Phy),One-Handed,Paired (+2 to Primary Weapon damage in Melee)
+Small Dagger,1,Physical,Finesse,Melee,d8 (Phy),One-Handed,Paired (+2 to Primary Weapon damage in Melee)
+Spear,1,Physical,Finesse,Very Close,d8+2 (Phy),Two-Handed,
+Tower Shield,1,Physical,Strength,Melee,d6 (Phy),One-Handed,"Barrier (Add +3 to your armor score, −2 to Evasion)"
+Warhammer,1,Physical,Strength,Melee,d12+3 (Phy),Two-Handed,Heavy (−1 to Agility)
+Whip,1,Physical,Presence,Very Close,d6 (Phy),One-Handed,Whipcrack (Mark a Stress to scatter enemies in Melee into Close range)
+Arcane Gauntlets,1,Magic,Strength,Melee,d10+3 (Mag),Two-Handed,
+Dualstaff,1,Magic,Instinct,Far,d6+3 (Mag),Two-Handed,
+Glowing Rings,1,Magic,Agility,Very Close,d10+2 (Mag),Two-Handed,
+Greatstaff,1,Magic,Knowledge,Very Far,d6 (Mag),Two-Handed,Powerful (Roll one extra damage die and drop the lowest.)
+Hallowed Axe,1,Magic,Strength,Melee,d10+1 (Mag),One-Handed,
+Hand Runes,1,Magic,Instinct,Very Close,d10 (Mag),One-Handed,
+Returning Blade,1,Magic,Finesse,Close,d8+1 (Mag),One-Handed,
+Scepter,1,Magic,Presence,Far,d6 (Mag),Two-Handed,Versatile (Presence Melee - d10)
+Shortstaff,1,Magic,Instinct,Close,d8+1 (Mag),One-Handed,
+Wand,1,Magic,Knowledge,Far,d6+1 (Mag),One-Handed,
+Bladed Whip,2,Physical,Agility,Very Close,d8+3 (Phy),One-Handed,"Quick (When making an attack roll, mark a Stress to include an additional target in range)"
+Blunderbuss,2,Physical,Finesse,Far,d6+6 (Phy),One-Handed,"Reloading (Roll 1d6 after the attack. On a 1, you must use an action to reload your weapon before you can fire it again.)"
+Finehair Bow,2,Physical,Agility,Very Far,d6+5 (Phy),Two-Handed,Reliable (+1 on attack rolls with this weapon.)
+Gilded Falchion,2,Physical,Strength,Melee,d10+4 (Phy),One-Handed,Powerful (Roll one extra damage die and drop the lowest.)
+Greatbow,2,Physical,Strength,Far,d6+6 (Phy),Two-Handed,Powerful (Roll one extra damage die and drop the lowest.)
+Improved Battleaxe,2,Physical,Strength,Melee,d10+6 (Phy),Two-Handed,
+Improved Broadsword,2,Physical,Agility,Melee,d8+3 (Phy),One-Handed,Reliable (+1 to attack rolls with this weapon)
+Improved Crossbow,2,Physical,Finesse,Far,d6+4 (Phy),One-Handed,
+Improved Cutlass,2,Physical,Presence,Melee,d8+4 (Phy),One-Handed,
+Improved Dagger,2,Physical,Finesse,Melee,d8+4 (Phy),One-Handed,
+Improved Grappler,2,Physical,Finesse,Close,d6+2 (Phy),One-Handed,"Hook (On a successful attack, you may also pull the target into Melee with you)"
+Improved Greatsword,2,Physical,Strength,Melee,d10+6 (Phy),Two-Handed,"Massive (−1 Agility, roll one extra damage die and drop the lowest)"
+Improved Halberd,2,Physical,Strength,Very Close,d8+5 (Phy),Two-Handed,
+Improved Hand Crossbow,2,Physical,Finesse,Far,d6+3 (Phy),One-Handed,
+Improved Longbow,2,Physical,Agility,Very Far,d6+6 (Phy),Two-Handed,Cumbersome (−1 to Evasion)
+Improved Longsword,2,Physical,Agility,Melee,d8+6 (Phy),Two-Handed,
+Improved Mace,2,Physical,Strength,Melee,d10+4 (Phy),One-Handed,
+Improved Quarterstaff,2,Physical,Instinct,Melee,d10+6 (Phy),Two-Handed,
+Improved Rapier,2,Physical,Presence,Melee,d8+3 (Phy),One-Handed,"Quick (When making an attack roll, mark a Stress to include an additional target in range)"
+Improved Round Shield,2,Physical,Strength,Melee,d4+2 (Phy),One-Handed,Protective (+2 to Armor Score.)
+Improved Shortbow,2,Physical,Agility,Far,d6+6 (Phy),Two-Handed,
+Improved Shortsword,2,Physical,Agility,Melee,d8+2 (Phy),One-Handed,Paired (+3 to Primary Weapon damage in Melee)
+Improved Small Dagger,2,Physical,Finesse,Melee,d8+2 (Phy),One-Handed,Paired (+3 to Primary Weapon damage in Melee)
+Improved Spear,2,Physical,Finesse,Very Close,d8+5 (Phy),Two-Handed,
+Improved Tower Shield,2,Physical,Strength,Melee,d6+2 (Phy),One-Handed,"Barrier (+4 to Armor Score, −2 to Evasion)"
+Improved Warhammer,2,Physical,Strength,Melee,d12+6 (Phy),Two-Handed,Heavy (−1 to Agility)
+Improved Whip,2,Physical,Presence,Very Close,d6+2 (Phy),One-Handed,Whipcrack (Mark stress to scatter enemies in Melee into Close range)
+Knuckle Blades,2,Physical,Strength,Melee,d10+6 (Phy),Two-Handed,"Brutal (For every 10 rolled on a damage die, roll an extra d10 of damage.)"
+Parrying Dagger,2,Physical,Finesse,Melee,d6+2 (Phy),One-Handed,"Parry (On an attack against you, roll this weapon’s damage dice. If any match the attacker’s, they are removed before damage is totalled.)"
+Returning Axe,2,Physical,Agility,Close,d6+4 (Phy),One-Handed,
+Spiked Shield,2,Physical,Strength,Melee,d6+2 (Phy),One-Handed,"Double Duty (+2 to Armor score, +1 to Primary Weapon damage in Melee)"
+Steelforged Halberd,2,Physical,Strength,Very Close,d8+4 (Phy),Two-Handed,Scary (Successful attacks also deal an extra Stress.)
+Urok Broadsword,2,Physical,Finesse,Melee,d8+3 (Phy),One-Handed,"Deadly (When you do Severe damage, deal one extra HP.)"
+War Scythe,2,Physical,Finesse,Very Close,d8+5 (Phy),Two-Handed,Reliable (+1 on attack rolls with this weapon.)
+Bonded Staff,2,Magic,Knowledge,Far,d6+4 (Mag),Two-Handed,Reliable (+1 on any attack rolls with this weapon.)
+Casting Sword,2,Magic,Strength,Melee,d10+4 (Mag),Two-Handed,Versatile (Knowledge Far - d6+3)
+Devouring Dagger,2,Magic,Finesse,Melee,d8+4 (Mag),One-Handed,Scary (Successful attacks also deal a stress.)
+Ego Blade,2,Magic,Agility,Melee,d12+4 (Mag),One-Handed,Pompous (Must have a Presence score of 0 or less to use this weapon.)
+Elder Bow,2,Magic,Instinct,Far,d6+4 (Mag),Two-Handed,Powerful (Roll one extra damage die and drop the lowest.)
+Hammer of Exota,2,Magic,Instinct,Melee,d8+6 (Mag),Two-Handed,"Eruptive (When you hit a creature in Melee, each Very Close enemy must make a Reaction Roll (14) or take half damage as well.)"
+Improved Arcane Gauntlets,2,Magic,Strength,Melee,d10+6 (Mag),Two-Handed,
+Improved Dualstaff,2,Magic,Instinct,Far,d6+6 (Mag),Two-Handed,
+Improved Glowing Rings,2,Magic,Agility,Very Close,d10+5 (Mag),Two-Handed,
+Improved Greatstaff,2,Magic,Knowledge,Very Far,d6+3 (Mag),Two-Handed,Powerful (Roll one extra damage die and drop the lowest.)
+Improved Hallowed Axe,2,Magic,Strength,Melee,d10+4 (Mag),One-Handed,
+Improved Hand Runes,2,Magic,Instinct,Very Close,d10+3 (Mag),One-Handed,
+Improved Returning Blade,2,Magic,Finesse,Close,d8+4 (Mag),One-Handed,
+Improved Scepter,2,Magic,Presence,Far,d6+3 (Mag),Two-Handed,Versatile (Presence Melee - d10+3)
+Improved Shortstaff,2,Magic,Instinct,Close,d8+4 (Mag),One-Handed,
+Improved Wand,2,Magic,Knowledge,Far,d6+4 (Mag),One-Handed,
+Scepter of Elias,2,Magic,Presence,Far,d6+3 (Mag),One-Handed,"Invigorating (When you make a successful attack, roll a d4. On a 4, clear a stress.)"
+Wand of Enthrallment,2,Magic,Presence,Far,d6+4 (Mag),One-Handed,Persuasive (Mark stress before rolling Presence to add +2 to the result.)
+Yutari Bloodbow,2,Magic,Finesse,Far,d6+4 (Mag),Two-Handed,"Brutal (For every 6 rolled on a damage die, roll an additional d6 of damage.)"
+Advanced Battleaxe,3,Physical,Strength,Melee,d10+9 (Phy),Two-Handed,
+Advanced Broadsword,3,Physical,Agility,Melee,d8+6 (Phy),One-Handed,Reliable (+1 to attack rolls with this weapon)
+Advanced Crossbow,3,Physical,Finesse,Far,d6+7 (Phy),One-Handed,
+Advanced Cutlass,3,Physical,Presence,Melee,d8+7 (Phy),One-Handed,
+Advanced Dagger,3,Physical,Finesse,Melee,d8+7 (Phy),One-Handed,
+Advanced Grappler,3,Physical,Finesse,Close,d6+4 (Phy),One-Handed,"Hook (On a successful attack, you may also pull the target into Melee with you)"
+Advanced Greatsword,3,Physical,Strength,Melee,d10+9 (Phy),Two-Handed,"Massive (−1 Agility, roll one extra damage die and drop the lowest)"
+Advanced Halberd,3,Physical,Strength,Very Close,d8+8 (Phy),Two-Handed,
+Advanced Hand Crossbow,3,Physical,Finesse,Far,d6+4 (Phy),One-Handed,
+Advanced Longbow,3,Physical,Agility,Very Far,d6+9 (Phy),Two-Handed,Cumbersome (−1 to Evasion)
+Advanced Longsword,3,Physical,Agility,Melee,d8+9 (Phy),Two-Handed,
+Advanced Mace,3,Physical,Strength,Melee,d8+7 (Phy),One-Handed,
+Advanced Quarterstaff,3,Physical,Instinct,Melee,d10+9 (Phy),Two-Handed,
+Advanced Rapier,3,Physical,Presence,Melee,d8+6 (Phy),One-Handed,"Quick (When making an attack roll, mark a Stress to include an additional target in range)"
+Advanced Round Shield,3,Physical,Strength,Melee,d4+4 (Phy),One-Handed,Protective (+3 to Armor Score)
+Advanced Shortbow,3,Physical,Agility,Far,d6+9 (Phy),Two-Handed,
+Advanced Shortsword,3,Physical,Agility,Melee,d8+4 (Phy),One-Handed,Paired (+4 to Primary Weapon damage in Melee)
+Advanced Small Dagger,3,Physical,Finesse,Melee,d8+4 (Phy),One-Handed,Paired (+4 to Primary Weapon damage in Melee)
+Advanced Spear,3,Physical,Finesse,Very Close,d8+8 (Phy),Two-Handed,
+Advanced Tower Shield,3,Physical,Strength,Melee,d6+4 (Phy),One-Handed,"Barrier (+5 to Armor Score, −2 to Evasion)"
+Advanced Warhammer,3,Physical,Strength,Melee,d12+9 (Phy),Two-Handed,Heavy (−1 to Agility)
+Advanced Whip,3,Physical,Presence,Very Close,d6+4 (Phy),One-Handed,Whipcrack (Mark stress to scatter enemies in Melee into Close range)
+Black Powder Revolver,3,Physical,Finesse,Very Far,d6+6 (Phy),One-Handed,"Reloading (Roll 1d6 after the attack. On a 1, you must use an action to reload your weapon before you can fire it again.)"
+Bravesword,3,Physical,Strength,Melee,d12+7 (Phy),Two-Handed,Dense (−1 to Agility & +3 to Severe Damage Threshold)
+Buckler,3,Physical,Agility,Melee,d4+4 (Phy),One-Handed,"Deflecting (On an incoming attack, you may spend an armor slot to boost your Evasion score by your Armor score.)"
+Double Flail,3,Physical,Agility,Very Close,d10+8 (Phy),Two-Handed,Powerful (Roll one extra damage die and drop the lowest.)
+Flickerfly Blade,3,Physical,Agility,Melee,d8+5 (Phy),One-Handed,Sharpwing (Add your Agility score to this weapon's damage roll.)
+Hand Sling,3,Physical,Finesse,Very Far,d6+4 (Phy),One-Handed,Versatile (Finesse Close - d8+4)
+Hell’s Hammer,3,Physical,Strength,Melee,d10+7 (Phy),Two-Handed,Devastating (Mark stress before your attack roll to use d20s as your damage dice instead.)
+Labrys Axe,3,Physical,Strength,Melee,d10+7 (Phy),Two-Handed,Protective (Add +1 to your Armor score.)
+Meridian Cutlass,3,Physical,Presence,Melee,d10+5 (Phy),One-Handed,Dueling (Take advantage on attack rolls when there are no other adversaries or allies in Close range besides the current target.)
+Retractable Saber,3,Physical,Presence,Melee,d10+7 (Phy),One-Handed,Retractable (Blade can be hidden in hilt to avoid recognition as a weapon.)
+Spiked Bow,3,Physical,Agility,Very Far,d6+7 (Phy),Two-Handed,Versatile (Agility Melee - d12+5)
+Talon Blades,3,Physical,Finesse,Close,d10+7 (Phy),Two-Handed,"Brutal (For every 10 rolled on a damage die, roll an additional d10 of damage.)"
+Advanced Arcane Gauntlets,3,Magic,Strength,Melee,d10+9 (Mag),Two-Handed,
+Advanced Dualstaff,3,Magic,Instinct,Far,d6+9 (Mag),Two-Handed,
+Advanced Glowing Rings,3,Magic,Agility,Very Close,d10+8 (Mag),Two-Handed,
+Advanced Greatstaff,3,Magic,Knowledge,Very Far,d6+6 (Mag),Two-Handed,Powerful (Roll one extra damage die and drop the lowest.)
+Advanced Hallowed Axe,3,Magic,Strength,Melee,d10+7 (Mag),One-Handed,
+Advanced Hand Runes,3,Magic,Instinct,Very Close,d10+6 (Mag),One-Handed,
+Advanced Returning Blade,3,Magic,Finesse,Close,d8+7 (Mag),One-Handed,
+Advanced Scepter,3,Magic,Presence,Far,d6+6 (Mag),Two-Handed,Versatile (Presence Melee - d10+4)
+Advanced Shortstaff,3,Magic,Instinct,Close,d8+7 (Mag),One-Handed,
+Advanced Wand,3,Magic,Knowledge,Far,d6+7 (Mag),One-Handed,
+Axe of Fortunis,3,Magic,Strength,Melee,d10+8 (Mag),Two-Handed,Lucky (Spend a Stress on a failure to reroll your attack and take the new result.)
+Blessed Anlace,3,Magic,Instinct,Melee,d10+6 (Mag),One-Handed,"Healing (During downtime, automatically heal 1 hit point.)"
+Firestaff,3,Magic,Instinct,Far,d6+7 (Mag),Two-Handed,"Burn (For every damage dice that rolls an 6, deal a Stress.)"
+Ghostblade,3,Magic,Presence,Melee,d10+7 (Any),One-Handed,Otherworldly (You can choose whether to do Physical or Magic damage.)
+Gilded Bow,3,Magic,Finesse,Far,d6+7 (Mag),Two-Handed,Self-Correcting (Any 1’s rolled on the damage dice may be treated as 8’s instead.)
+Ilmari’s Blunderbuss,3,Magic,Finesse,Very Far,d6+6 (Mag),One-Handed,"Reloading (Roll 1d6 after the attack. On a 1, you must use an action to reload your weapon before you can fire it again.)"
+Mage Orb,3,Magic,Knowledge,Far,d6+7 (Mag),One-Handed,Powerful (Roll one extra damage die and drop the lowest.)
+Powered Gauntlet,3,Magic,Knowledge,Close,d6+4 (Mag),One-Handed,Charged Attack (Mark stress to increase proficiency by +1 on Primary Weapon attack)
+Runes of Ruination,3,Magic,Knowledge,Very Close,d20+4 (Mag),One-Handed,Painful (Mark Stress every time you attack with this weapon.)
+Widogast Pendant,3,Magic,Knowledge,Close,d10+5 (Mag),One-Handed,Timebender (You may choose the target of your attack after making your attack roll.)
+Aantari Bow,4,Physical,Finesse,Far,d6+11 (Phy),Two-Handed,Reliable (+1 on any attack rolls with this weapon.)
+Braveshield,4,Physical,Agility,Melee,d4+6 (Phy),One-Handed,Sheltering (Using an armor slot reduces damage for you and all allies in Melee with you.)
+Curved Dagger,4,Physical,Finesse,Melee,d8+9 (Phy),One-Handed,Serrated (Any 1’s rolled on the damage dice count as 10 points of damage.)
+Double-Sided Sword,4,Physical,Agility,Melee,d10+9 (Phy),Two-Handed,"Quick (When making an attack roll, mark a Stress to include an additional target in range)"
+Extended Polearm,4,Physical,Finesse,Very Close,d8+10 (Phy),Two-Handed,Long (Can target all enemies in a line within range with your attack)
+Hand Cannon,4,Physical,Finesse,Very Far,d6+12 (Phy),One-Handed,"Reloading (Roll 1d6 after the attack. On a 1, you must use an action to reload your weapon before you can fire it again.)"
+Impact Gauntlet,4,Physical,Strength,Melee,d10+11 (Phy),One-Handed,Concussive (Spend Hope on a successful attack to launch the target into Far range.)
+Legendary Battleaxe,4,Physical,Strength,Melee,d10+12 (Phy),Two-Handed,
+Legendary Broadsword,4,Physical,Agility,Melee,d8+9 (Phy),One-Handed,Reliable (+1 to attack rolls with this weapon)
+Legendary Crossbow,4,Physical,Finesse,Far,d6+10 (Phy),One-Handed,
+Legendary Cutlass,4,Physical,Presence,Melee,d8+10 (Phy),One-Handed,
+Legendary Dagger,4,Physical,Finesse,Melee,d8+10 (Phy),One-Handed,
+Legendary Grappler,4,Physical,Finesse,Close,d6+6 (Phy),One-Handed,"Hook (On a successful attack, you may also pull the target into Melee with you)"
+Legendary Greatsword,4,Physical,Strength,Melee,d10+12 (Phy),Two-Handed,"Massive (−1 Agility, roll one extra damage die and drop the lowest)"
+Legendary Halberd,4,Physical,Strength,Very Close,d8+11 (Phy),Two-Handed,
+Legendary Hand Crossbow,4,Physical,Finesse,Far,d6+7 (Phy),One-Handed,
+Legendary Longbow,4,Physical,Agility,Very Far,d6+12 (Phy),Two-Handed,Cumbersome (−1 to Evasion)
+Legendary Longsword,4,Physical,Agility,Melee,d8+12 (Phy),Two-Handed,
+Legendary Mace,4,Physical,Strength,Melee,d8+10 (Phy),One-Handed,
+Legendary Quarterstaff,4,Physical,Instinct,Melee,d10+12 (Phy),Two-Handed,
+Legendary Rapier,4,Physical,Presence,Melee,d8+9 (Phy),One-Handed,"Quick (When making an attack roll, mark a Stress to include an additional target in range)"
+Legendary Round Shield,4,Physical,Strength,Melee,d4+6 (Phy),One-Handed,Protective (+4 to Armor Score)
+Legendary Shortbow,4,Physical,Agility,Far,d6+12 (Phy),Two-Handed,
+Legendary Shortsword,4,Physical,Agility,Melee,d8+6 (Phy),One-Handed,Paired (+5 to Primary Weapon damage in Melee)
+Legendary Small Dagger,4,Physical,Finesse,Melee,d8+6 (Phy),One-Handed,Paired (+5 to Primary Weapon damage in Melee)
+Legendary Spear,4,Physical,Finesse,Very Close,d8+11 (Phy),Two-Handed,
+Legendary Tower Shield,4,Physical,Strength,Melee,d4+6 (Phy),One-Handed,"Barrier (+6 to Armor Score, −2 to Evasion)"
+Legendary Warhammer,4,Physical,Strength,Melee,d12+12 (Phy),Two-Handed,Heavy (−1 to Agility)
+Legendary Whip,4,Physical,Presence,Very Close,d6+6 (Phy),One-Handed,Whipcrack (Mark stress to scatter enemies in Melee into Close range)
+Ricochet Axes,4,Physical,Agility,Far,d6+11 (Phy),Two-Handed,Bouncing (Spend any amount of Stress to hit that many targets in range with the attack.)
+Sledge Axe,4,Physical,Strength,Melee,d12+13 (Phy),Two-Handed,"Destructive (−1 to Agility, all Very Close enemies mark a Stress on a successful attack)"
+Swinging Ropeblade,4,Physical,Presence,Close,d8+9 (Phy),Two-Handed,"Grappling (Spend Hope on a successful attack to temporarily make the target Restrained, or pull them into melee with you.)"
+Bloodstaff,4,Magic,Instinct,Far,d20+7 (Mag),Two-Handed,Painful (Mark a Stress every time you attack with this weapon.)
+Floating Bladeshards,4,Magic,Instinct,Close,d8+9 (Mag),One-Handed,Powerful (Roll one extra damage die and drop the lowest.)
+Fusion Gloves,4,Magic,Knowledge,Very Far,d6+9 (Mag),Two-Handed,Bonded (Add your Level to the damage result.)
+Knuckle Claws,4,Magic,Strength,Melee,d6+6 (Mag),One-Handed,"Doubled Up (When you make an attack with your Primary Weapon, you may also deal damage with this weapon to another creature in melee)"
+Legendary Arcane Gauntlets,4,Magic,Strength,Melee,d10+12 (Mag),Two-Handed,
+Legendary Dualstaff,4,Magic,Instinct,Far,d8+12 (Mag),Two-Handed,
+Legendary Glowing Rings,4,Magic,Agility,Very Close,d10+11 (Mag),Two-Handed,
+Legendary Greatstaff,4,Magic,Knowledge,Very Far,d6+9 (Mag),Two-Handed,Powerful (Roll one extra damage die and drop the lowest.)
+Legendary Hallowed Axe,4,Magic,Strength,Melee,d10+10 (Mag),One-Handed,
+Legendary Hand Runes,4,Magic,Instinct,Very Close,d10+9 (Mag),One-Handed,
+Legendary Returning Blade,4,Magic,Finesse,Close,d8+10 (Mag),One-Handed,
+Legendary Scepter,4,Magic,Presence,Far,d6+9 (Mag),Two-Handed,Versatile (Presence Melee - d10+6)
+Legendary Shortstaff,4,Magic,Instinct,Close,d8+10 (Mag),One-Handed,
+Legendary Wand,4,Magic,Knowledge,Far,d6+10 (Mag),One-Handed,
+Magus Revolver,4,Magic,Finesse,Very Far,d6+13 (Mag),One-Handed,"Reloading (Roll 1d6 after the attack. On a 1, you must use an action to reload your weapon before you can fire it again.)"
+Midas Scythe,4,Magic,Knowledge,Melee,d10+9 (Mag),Two-Handed,Greedy (You may spend one handful of gold to increase your proficiency by +1 on a damage roll.)
+Primer Shard,4,Magic,Instinct,Very Close,,One-Handed,"Locked On (On a successful attack with this weapon against a target, the next hit with your Primary Weapon automatically hits that target.)"
+Siphoning Gauntlets,4,Magic,Presence,Melee,d10+9 (Mag),Two-Handed,"Lifestealing (On a successful attack, roll a d6. On a 6, heal a hit point or clear a Stress.)"
+Sword of Light & Flame,4,Magic,Strength,Melee,d10+11 (Mag),Two-Handed,Penetrating (Cuts through solid material.)
+Thistlebow,4,Magic,Instinct,Far,d6+13 (Mag),Two-Handed,Reliable (+1 on any attack rolls with this weapon.)
+Wand of Essek,4,Magic,Knowledge,Far,d8+13 (Mag),One-Handed,Timebender (−1 to Agility. You may choose the target of your attack after making your attack roll.)

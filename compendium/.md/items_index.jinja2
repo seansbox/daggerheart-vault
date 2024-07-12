@@ -1,0 +1,10 @@
+---
+obsidianUIMode: preview
+---
+# Items
+
+Common: Roll 1d12 or 2d12 | Uncommon: Roll 2d12 or 3d12 Rare: Roll 3d12 or 4d12 | Legendary: Roll 4d12 or 5d12
+
+| | Name | Description |
+|:--:|--|--|{% for row in rows %}
+| {{ row.Number }} | [[{{ row.Name }}]] | {{ row.Description }} |{% endfor %}

@@ -1,0 +1,32 @@
+---
+obsidianUIMode: preview
+---
+# Demon of Jealousy (Tier 3 Ranged)
+
+*A fickle creature of spindly limbs and insatiable desires.*
+
+- **Motives & Tactics**: Take What Belongs to Others, Join in on Others’ Success
+- **Difficulty:** `18` | **Attack Modifier:** `+4` | **Psychic Assault:** `Far 2d12+15 mag`
+- **Experiences:** Manipulation +3
+
+| HP: `6` Major: `17` Severe: `30` | Stress: `6` |
+|--|--|
+|  <input type="checkbox" unchecked id="2526bb3f"> <input type="checkbox" unchecked id="dc1ecdc4"> <input type="checkbox" unchecked id="0a6e6253"> <input type="checkbox" unchecked id="2cf75188"> <input type="checkbox" unchecked id="5c176f14"> <input type="checkbox" unchecked id="94ff4edf"> |  <input type="checkbox" unchecked id="1864d291"> <input type="checkbox" unchecked id="613c9bb3"> <input type="checkbox" unchecked id="ab919861"> <input type="checkbox" unchecked id="c4bc8c2f"> <input type="checkbox" unchecked id="95c52152"> <input type="checkbox" unchecked id="0a91e5ce"> |
+
+### Unprotected Mind - Passive
+
+Armor may not be used against damage from Demon of Jealousy’s Psychic Assault attacks. *“The demon’s presence attacks your mind directly, lashing at you with covetous thoughts about your friends’ treasures.”*
+
+### Me Too! - Reaction
+
+Mark a Stress when a PC uses a domain ability, class feature, or subclass feature. Demon of Jealousy may use this ability for the rest of the scene, paying Stress for any Hope costs. Demon of Jealousy may only have one move copied at a time. *“The demon cackles with glee after your maneuver as it duplicates what you’ve just done, turning it back on the party.”*
+
+### Tag-Along - Reaction
+
+Mark Stress when an opponent within a Close range takes damage to have Demon of Jealousy add 2d4+3 damage to the total. *“The demon curses at their ally, demanding to be the one to bring you down.”*
+
+### What’s Yours Is Mine - Reaction - Fear
+
+When a PC takes Severe or worse damage within Very Close range of the Demon of Jealousy, they must make a Finesse (17) reaction roll. If they fail, the Demon of Jealousy seizes one item from their burden or inventory. It may then use that item by marking Stress as per Me Too! Demon of Jealousy may not use consumables in this manner. *“The demon whips out a spindly limb and grabs something from your pack, dancing as it holds it up to its gleaming eyes.”*
+
+

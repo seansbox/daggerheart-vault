@@ -1,0 +1,24 @@
+---
+obsidianUIMode: preview
+---
+# {{ Name }} (Tier {{ Tier }} {{ Type }})
+
+{% if Description %}*{{ Description }}*{% endif %}
+
+{% if Tactics %}- **Motives & Tactics**: {{ Tactics }}{% endif %}
+- **Difficulty:** `{{ Diff }}` | **Attack Modifier:** `{% if Bonus|starts_with_digit %}+{% endif %}{{ Bonus }}` | **{{ Attack}}:** `{{ Distance }} {{ Damage }} {{ Effect }}`
+{% if Experiences %}- **Experiences:** {{ Experiences }}{% endif %}
+
+{% if Major %}
+| HP: `{{ HP }}` Major: `{{ Major }}` Severe: `{{ Severe }}` | Stress: `{{ Stress }}` |
+|--|--|
+| {% for _ in range(HP|int) %} <input type="checkbox" unchecked id="{{ hex() }}">{% endfor %} | {% for _ in range(Stress|int) %} <input type="checkbox" unchecked id="{{ hex() }}">{% endfor %} |
+{% endif %}
+
+{% for feature in subrows %}
+{% if feature.Feature %}
+### {{ feature.Feature }}{% if feature.Action %} - {{ feature.Action }}{% endif %}
+
+{{ feature.Text }} {% if feature.Quote %}*{{ feature.Quote }}*{% endif %}
+{% endif %}
+{% endfor %}

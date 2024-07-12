@@ -1,0 +1,8 @@
+---
+obsidianUIMode: preview
+---
+# Adversaries
+
+| Name | Description  |
+|--|--|{% for row in rows %}
+| [[{{ row.Name }}]]<br>*Tier {{ row.Tier }} {{ row.Type }}* | {{ row.Description }} |{% endfor %}

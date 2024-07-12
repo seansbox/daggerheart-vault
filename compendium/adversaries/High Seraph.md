@@ -1,0 +1,35 @@
+---
+obsidianUIMode: preview
+---
+# High Seraph (Tier 4 Leader)
+
+*A divine champion, head of a hallowed host of warriors that enforce their god’s will.*
+
+- **Motives & Tactics**: Enforce Dogma, Fly, Smite, Pronounce Judgment
+- **Difficulty:** `22` | **Attack Modifier:** `+8` | **Holy Sword:** `Very Close 2d10+20 phy`
+- **Experiences:** Divine Knowledge +3
+
+| HP: `13` Major: `40` Severe: `80` | Stress: `5` |
+|--|--|
+|  <input type="checkbox" unchecked id="6ce020c2"> <input type="checkbox" unchecked id="5c485be4"> <input type="checkbox" unchecked id="a23686d4"> <input type="checkbox" unchecked id="9a72aceb"> <input type="checkbox" unchecked id="f17c5eff"> <input type="checkbox" unchecked id="50e254b6"> <input type="checkbox" unchecked id="40538680"> <input type="checkbox" unchecked id="f0acc1e5"> <input type="checkbox" unchecked id="1635cc28"> <input type="checkbox" unchecked id="d51570af"> <input type="checkbox" unchecked id="56fb1756"> <input type="checkbox" unchecked id="6c1d6076"> <input type="checkbox" unchecked id="35a77faa"> |  <input type="checkbox" unchecked id="05de61bf"> <input type="checkbox" unchecked id="61e92346"> <input type="checkbox" unchecked id="7fc901b1"> <input type="checkbox" unchecked id="2b42119e"> <input type="checkbox" unchecked id="3ade8417"> |
+
+### Relentless (2) - Passive
+
+This adversary may activate twice in a GM move (still takes 2 tokens). *“The Seraph moves with impossible speed and grace.”*
+
+### Divine Flight - Passive
+
+High Seraph can fly a Far distance as part of an activation. *“Their wings are pure light, bearing them through the skies with ease.”*
+
+### Judgment - Action
+
+Spend a Fear to mark a character as Guilty in the eyes of the High Seraph’s god. Only one character may be marked by High Seraph at a time. While so marked, the target does not gain Hope on a result with Hope. When High Seraph hits a target marked as Guilty, they deal physical damage equal to 20+the target’s Major threshold (instead of their normal attack damage). *“As the High Seraph pronounces you guilty, the weight of judgment hangs on you with impossible weight.”*
+
+### God Rays - Action
+
+Mark a Stress to reflect a sliver of divinity as a searing beam of light that hits up to twenty targets within Very Far range. Anyone hit by the beam must make a Presence Reaction Roll (22) or suffer 4d6+8 magic damage. Targets marked as Guilty have disadvantage on this roll. Anyone that succeeds on the roll takes half damage. *“The High Seraph raises their sword, reflecting a light that is impossibly bright and sears your very soul.”*
+
+### We Are One - Action
+
+Activate every one of High Seraph’s allies within Far distance. Their attacks deal half damage. This uses both of High Seraph’s activations. *“Their leader commands them forward, and the host moves as one.”*
+
