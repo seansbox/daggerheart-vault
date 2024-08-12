@@ -9,9 +9,9 @@ obsidianUIMode: preview
 - **Difficulty:** `14` | **Attack Modifier:** `+3` | **Claws:** `Very Close 2d8+5 phy`
 - **Experiences:** Tremor Sense +2
 
-| HP: `7` Major: `8` Severe: `15` | Stress: `3` |
-|--|--|
-|  <input type="checkbox" unchecked id="a1d63749"> <input type="checkbox" unchecked id="fcc01b22"> <input type="checkbox" unchecked id="d3b44539"> <input type="checkbox" unchecked id="4fb7dca9"> <input type="checkbox" unchecked id="2a4b3226"> <input type="checkbox" unchecked id="425ea92a"> <input type="checkbox" unchecked id="2601940e"> |  <input type="checkbox" unchecked id="f4a13964"> <input type="checkbox" unchecked id="1440cd90"> <input type="checkbox" unchecked id="7fe1f4f5"> |
+| HP: `7` Major: `8` Severe: `15`                                                                                                                                                                                                                                                                                                                 | Stress: `3`                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| <input type="checkbox" unchecked id="a1d63749"> <input type="checkbox" unchecked id="fcc01b22"> <input type="checkbox" unchecked id="d3b44539"> <input type="checkbox" unchecked id="4fb7dca9"> <input type="checkbox" unchecked id="2a4b3226"> <input type="checkbox" unchecked id="425ea92a"> <input type="checkbox" unchecked id="2601940e"> | <input type="checkbox" unchecked id="f4a13964"> <input type="checkbox" unchecked id="1440cd90"> <input type="checkbox" unchecked id="7fe1f4f5"> |
 
 ### Relentless (2) - Passive
 
