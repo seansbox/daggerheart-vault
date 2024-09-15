@@ -19,7 +19,4 @@ Choose a target and activate all Tangle Brambles within Close range of them. Tho
 
 ### Drain & Multiply - Reaction
 
-If an attack from Tangle Brambles deals HP and there are three or more Tangle Bramble Minions in Close range, combine all Tangle Bramble minions into a Tangle Bramble Swarm with HP equal to the number of minions combined. 
-
-
-
+If an attack from Tangle Brambles deals HP and there are three or more Tangle Bramble Minions in Close range, combine all Tangle Bramble minions into a Tangle Bramble Swarm with HP equal to the number of minions combined.

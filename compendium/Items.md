@@ -10,7 +10,7 @@ Common: Roll 1d12 or 2d12 | Uncommon: Roll 2d12 or 3d12 Rare: Roll 3d12 or 4d12 
 | 1 | [Premium Bedroll](items/Premium%20Bedroll.md) | During any rests, you always automatically clear 1 stress. |
 | 2 | [Piper Whistle](items/Piper%20Whistle.md) | A handcrafted whistle. Each have a distinctive sound, and the piercing tone can be heard across a one mile radius. |
 | 3 | [Charging Quiver](items/Charging%20Quiver.md) | When arrows for a bow are kept in the Charging Quiver, damage rolls using the bow deal +2 damage. |
-| 4 | [Alistair’s Torch](items/Alistair%E2%80%99s%20Torch.md) | A magic torch that lights at will and spreads light much farther than it looks like it should. This could fill a cave with light bright enough to feel like it’s daytime. |
+| 4 | [Alistair’s Torch](items/Alistair%27s%20Torch.md) | A magic torch that lights at will and spreads light much farther than it looks like it should. This could fill a cave with light bright enough to feel like it’s daytime. |
 | 5 | [Speaking Orbs](items/Speaking%20Orbs.md) | A pair of orbs that allow any creatures holding them to communicate with each other across any distance. |
 | 6 | [Manacles](items/Manacles.md) | A pair of locking cuffs with a key. |
 | 7 | [Arcane Cloak](items/Arcane%20Cloak.md) | A cloak whose color, texture, and size can be adjusted by any user with the spellcast ability at will. |
@@ -43,7 +43,7 @@ Common: Roll 1d12 or 2d12 | Uncommon: Roll 2d12 or 3d12 Rare: Roll 3d12 or 4d12 
 | 34 | [Box of Many Goods](items/Box%20of%20Many%20Goods.md) | A small box that can only be opened once per long rest. When it is, roll a d12. If you roll a 1-6, it is empty. If you roll a 7-10, it contains one random consumable. If you roll an 11-12, it contains two random consumables. |
 | 35 | [Airblade Charm](items/Airblade%20Charm.md) | Attach to a melee weapon to make it able to attack at a Close distance. 3 uses per short rest. |
 | 36 | [Portal Seed](items/Portal%20Seed.md) | Plant this in the ground to grow a portal in this spot. The portal will be ready to use in 24 hours and you may travel to any other spot you’ve planted a portal seed. A portal may be destroyed by dealing any amount of magic damage to it. |
-| 37 | [Paragon’s Chain](items/Paragon%E2%80%99s%20Chain.md) | Once per long rest, you may use a downtime move to meditate on an ideal or principle you hold dear and focus your will into the chain. Until your next long rest, you can spend a Hope to use a d20 as your Hope die for rolls that directly align with that principle. |
+| 37 | [Paragon’s Chain](items/Paragon%27s%20Chain.md) | Once per long rest, you may use a downtime move to meditate on an ideal or principle you hold dear and focus your will into the chain. Until your next long rest, you can spend a Hope to use a d20 as your Hope die for rolls that directly align with that principle. |
 | 38 | [Elusive Amulet](items/Elusive%20Amulet.md) | Once per long rest, activate this to go Hidden until you move from this location. Any enemies who move into line of sight with you while you’re Hidden don’t see you. |
 | 39 | [Hopekeeper Locket](items/Hopekeeper%20Locket.md) | During a long rest, if you have 5 Hope, you may spend 1 Hope and imbue the locket with your bountiful resolve. If you ever have 0 Hope, you may use the locket and gain 1 Hope. The locket must then be recharged during a long rest. |
 | 40 | [Infinite Bag](items/Infinite%20Bag.md) | Items put into this bag are stored in a pocket dimension and can be retrieved at any time. |

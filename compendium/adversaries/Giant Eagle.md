@@ -8,9 +8,12 @@ obsidianUIMode: preview
 - **Motives & Tactics**: Hunt Prey, Strike Decisively, Stay Mobile
 - **Difficulty:** `14` | **Attack Modifier:** `+1` | **Claws and Beak:** `Very Close 2d6+3 phy`
 
-| HP: `4` Major: `8` Severe: `19` | Stress: `4` |
-|--|--|
-|  <input type="checkbox" unchecked id="34c13cb4"> <input type="checkbox" unchecked id="1a8547d6"> <input type="checkbox" unchecked id="64ccf23a"> <input type="checkbox" unchecked id="9787d9f7"> |  <input type="checkbox" unchecked id="02cbf076"> <input type="checkbox" unchecked id="0cf46a8a"> <input type="checkbox" unchecked id="740b5b85"> <input type="checkbox" unchecked id="4f39f14b"> |
+| <small>HP</small> `4` | <small>Major</small> `≥8` <small>Severe</small> `≥19` | <small>Stress</small> `4` |
+|:-:|:-:|:-:|
+| ↑ |  <input type="checkbox" unchecked id="9524e5f8"> <input type="checkbox" unchecked id="2fe1e0d2"> <input type="checkbox" unchecked id="27a3f710"> <input type="checkbox" unchecked id="61ce0285"> |  <input type="checkbox" unchecked id="63e9187c"> <input type="checkbox" unchecked id="f99faaac"> <input type="checkbox" unchecked id="5e1fcc5a"> <input type="checkbox" unchecked id="8ee326bf"> |
+| ← |  <input type="checkbox" unchecked id="7b17f01d"> <input type="checkbox" unchecked id="b7f1c4fd"> <input type="checkbox" unchecked id="0b4a85e3"> <input type="checkbox" unchecked id="48c596d0"> |  <input type="checkbox" unchecked id="48255a0b"> <input type="checkbox" unchecked id="4a8bcc18"> <input type="checkbox" unchecked id="43928ec7"> <input type="checkbox" unchecked id="d6e15a40"> |
+| → |  <input type="checkbox" unchecked id="64cb3ad8"> <input type="checkbox" unchecked id="a0265229"> <input type="checkbox" unchecked id="7a01b739"> <input type="checkbox" unchecked id="9e6aa38e"> |  <input type="checkbox" unchecked id="cd7758a5"> <input type="checkbox" unchecked id="4a68afed"> <input type="checkbox" unchecked id="cae3016c"> <input type="checkbox" unchecked id="ebaf0e00"> |
+| ↓ |  <input type="checkbox" unchecked id="ceebeb00"> <input type="checkbox" unchecked id="4db4119f"> <input type="checkbox" unchecked id="d9e6bec4"> <input type="checkbox" unchecked id="c1915539"> |  <input type="checkbox" unchecked id="52a0f739"> <input type="checkbox" unchecked id="a6316ffd"> <input type="checkbox" unchecked id="9f369db4"> <input type="checkbox" unchecked id="fa9b850b"> |
 
 ### Flight - Passive
 
@@ -26,6 +29,4 @@ Make an attack against a target within Very Close range. On a success, the targe
 
 ### Deadly Drop - Action
 
-If the Eagle is holding a Restrained target and flying, they can drop them. This means the target is no longer Restrained, but they are falling. If their fall is not prevented by some means on the next action the PCs take, the target will suffer 2d20 phy damage. 
-
-
+If the Eagle is holding a Restrained target and flying, they can drop them. This means the target is no longer Restrained, but they are falling. If their fall is not prevented by some means on the next action the PCs take, the target will suffer 2d20 phy damage.

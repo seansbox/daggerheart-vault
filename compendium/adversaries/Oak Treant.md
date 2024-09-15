@@ -9,9 +9,12 @@ obsidianUIMode: preview
 - **Difficulty:** `17` | **Attack Modifier:** `+2` | **Branch:** `Very Close 2d8+20 phy`
 - **Experiences:** Forest Knowledge +3
 
-| HP: `8` Major: `28` Severe: `45` | Stress: `4` |
-|--|--|
-|  <input type="checkbox" unchecked id="3a2f90f4"> <input type="checkbox" unchecked id="0751eb29"> <input type="checkbox" unchecked id="2e5cdd79"> <input type="checkbox" unchecked id="f2183b50"> <input type="checkbox" unchecked id="517f29f8"> <input type="checkbox" unchecked id="160b779f"> <input type="checkbox" unchecked id="b6a6aba3"> <input type="checkbox" unchecked id="ec124e74"> |  <input type="checkbox" unchecked id="01301961"> <input type="checkbox" unchecked id="d2e10651"> <input type="checkbox" unchecked id="d1c00d40"> <input type="checkbox" unchecked id="91c8f34a"> |
+| <small>HP</small> `8` | <small>Major</small> `≥28` <small>Severe</small> `≥45` | <small>Stress</small> `4` |
+|:-:|:-:|:-:|
+| ↑ |  <input type="checkbox" unchecked id="8e968827"> <input type="checkbox" unchecked id="84df1457"> <input type="checkbox" unchecked id="033b3c43"> <input type="checkbox" unchecked id="2a2a3a2f"> <input type="checkbox" unchecked id="b8c62a4d"> <input type="checkbox" unchecked id="1e45742f"> <input type="checkbox" unchecked id="76f3973b"> <input type="checkbox" unchecked id="ae9eb897"> |  <input type="checkbox" unchecked id="6df5a7b7"> <input type="checkbox" unchecked id="0466bd82"> <input type="checkbox" unchecked id="4c158f8d"> <input type="checkbox" unchecked id="889ffddc"> |
+| ← |  <input type="checkbox" unchecked id="ad60cc6e"> <input type="checkbox" unchecked id="ee30e002"> <input type="checkbox" unchecked id="916a231a"> <input type="checkbox" unchecked id="920f91dd"> <input type="checkbox" unchecked id="b901b0f1"> <input type="checkbox" unchecked id="80ba2197"> <input type="checkbox" unchecked id="9d356f69"> <input type="checkbox" unchecked id="0dc54a5c"> |  <input type="checkbox" unchecked id="530cfabc"> <input type="checkbox" unchecked id="95a5e6f9"> <input type="checkbox" unchecked id="fb149be5"> <input type="checkbox" unchecked id="36c9c20a"> |
+| → |  <input type="checkbox" unchecked id="674874ad"> <input type="checkbox" unchecked id="c5f792d4"> <input type="checkbox" unchecked id="7e30a088"> <input type="checkbox" unchecked id="cd8d52e5"> <input type="checkbox" unchecked id="496c475d"> <input type="checkbox" unchecked id="3bc28db3"> <input type="checkbox" unchecked id="b521def1"> <input type="checkbox" unchecked id="4a3da191"> |  <input type="checkbox" unchecked id="eba2a353"> <input type="checkbox" unchecked id="2e5b707d"> <input type="checkbox" unchecked id="3c6256a0"> <input type="checkbox" unchecked id="baca216c"> |
+| ↓ |  <input type="checkbox" unchecked id="f36e33be"> <input type="checkbox" unchecked id="c56b257c"> <input type="checkbox" unchecked id="8b62946c"> <input type="checkbox" unchecked id="d8cb1efb"> <input type="checkbox" unchecked id="16a13082"> <input type="checkbox" unchecked id="a585b451"> <input type="checkbox" unchecked id="348a380b"> <input type="checkbox" unchecked id="56300021"> |  <input type="checkbox" unchecked id="220d6f38"> <input type="checkbox" unchecked id="97a8b0a3"> <input type="checkbox" unchecked id="a0ecdb77"> <input type="checkbox" unchecked id="b24a5ad2"> |
 
 ### Acorn Barrage - Action
 
@@ -24,6 +27,3 @@ When Hidden, Oak Treant is indistinguishable from other trees around them until 
 ### Take Root - Action
 
 Mark a Stress to have this adversary settle into place and extend its roots. Any physical damage Treant takes while rooted is reduced by 8. Treant is Restrained while rooted but may still attack, and can end its rooted state when it activates. *“The treant settles in, roots digging into the ground and bracing.”*
-
-
-

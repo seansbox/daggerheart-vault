@@ -9,9 +9,12 @@ obsidianUIMode: preview
 - **Difficulty:** `16` | **Attack Modifier:** `0` | **Warhammer:** `Melee 2d6+3 phy`
 - **Experiences:** Nobility +4, History +3
 
-| HP: `6` Major: `16` Severe: `32` | Stress: `5` |
-|--|--|
-|  <input type="checkbox" unchecked id="de9a94bf"> <input type="checkbox" unchecked id="ca0792e1"> <input type="checkbox" unchecked id="c717c7b7"> <input type="checkbox" unchecked id="50509476"> <input type="checkbox" unchecked id="f5efdf00"> <input type="checkbox" unchecked id="e34f246e"> |  <input type="checkbox" unchecked id="02f9feda"> <input type="checkbox" unchecked id="bbcc762c"> <input type="checkbox" unchecked id="6a02881b"> <input type="checkbox" unchecked id="6e5de8ec"> <input type="checkbox" unchecked id="f5db52f7"> |
+| <small>HP</small> `6` | <small>Major</small> `≥16` <small>Severe</small> `≥32` | <small>Stress</small> `5` |
+|:-:|:-:|:-:|
+| ↑ |  <input type="checkbox" unchecked id="c3a52395"> <input type="checkbox" unchecked id="8eb4f82a"> <input type="checkbox" unchecked id="574ef4ec"> <input type="checkbox" unchecked id="eb129c6b"> <input type="checkbox" unchecked id="2f71ba49"> <input type="checkbox" unchecked id="b96e19f9"> |  <input type="checkbox" unchecked id="30ba84dc"> <input type="checkbox" unchecked id="9c36f840"> <input type="checkbox" unchecked id="8fcf9e72"> <input type="checkbox" unchecked id="2c148de4"> <input type="checkbox" unchecked id="33b00b04"> |
+| ← |  <input type="checkbox" unchecked id="361e8087"> <input type="checkbox" unchecked id="7eed4ed2"> <input type="checkbox" unchecked id="4cac4991"> <input type="checkbox" unchecked id="f056cf7f"> <input type="checkbox" unchecked id="afb1567b"> <input type="checkbox" unchecked id="076058f5"> |  <input type="checkbox" unchecked id="3a0f8eb1"> <input type="checkbox" unchecked id="efe9e878"> <input type="checkbox" unchecked id="0ebb613a"> <input type="checkbox" unchecked id="dab7e4c8"> <input type="checkbox" unchecked id="4e803322"> |
+| → |  <input type="checkbox" unchecked id="220ae6e9"> <input type="checkbox" unchecked id="a708add0"> <input type="checkbox" unchecked id="c641b34d"> <input type="checkbox" unchecked id="a9de6db2"> <input type="checkbox" unchecked id="1214c11b"> <input type="checkbox" unchecked id="d1dca7d4"> |  <input type="checkbox" unchecked id="69b17eee"> <input type="checkbox" unchecked id="937e0969"> <input type="checkbox" unchecked id="1d687011"> <input type="checkbox" unchecked id="5c30cccc"> <input type="checkbox" unchecked id="7b2c28a5"> |
+| ↓ |  <input type="checkbox" unchecked id="95b866c3"> <input type="checkbox" unchecked id="b4b42172"> <input type="checkbox" unchecked id="94028a74"> <input type="checkbox" unchecked id="43f97212"> <input type="checkbox" unchecked id="1bd42869"> <input type="checkbox" unchecked id="9d1f154a"> |  <input type="checkbox" unchecked id="19af6530"> <input type="checkbox" unchecked id="2eaa463e"> <input type="checkbox" unchecked id="d0e3199f"> <input type="checkbox" unchecked id="19b8dd9c"> <input type="checkbox" unchecked id="261ba8e1"> |
 
 ### Casus Belli - Reaction
 
@@ -23,7 +26,4 @@ Mark a Stress per PC in the party (If the Monarch does not have enough Stress fo
 
 ### Crownsguard - Action
 
-Once per scene, mark a Stress to summon a group of Tier II guards to enforce the Monarch’s will. They appear at a Close distance. 
-
-
-
+Once per scene, mark a Stress to summon a group of Tier II guards to enforce the Monarch’s will. They appear at a Close distance.

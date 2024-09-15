@@ -9,9 +9,12 @@ obsidianUIMode: preview
 - **Difficulty:** `14` | **Attack Modifier:** `+3` | **Claws:** `Very Close 2d8+5 phy`
 - **Experiences:** Tremor Sense +2
 
-| HP: `7` Major: `8` Severe: `15`                                                                                                                                                                                                                                                                                                                 | Stress: `3`                                                                                                                                     |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| <input type="checkbox" unchecked id="a1d63749"> <input type="checkbox" unchecked id="fcc01b22"> <input type="checkbox" unchecked id="d3b44539"> <input type="checkbox" unchecked id="4fb7dca9"> <input type="checkbox" unchecked id="2a4b3226"> <input type="checkbox" unchecked id="425ea92a"> <input type="checkbox" unchecked id="2601940e"> | <input type="checkbox" unchecked id="f4a13964"> <input type="checkbox" unchecked id="1440cd90"> <input type="checkbox" unchecked id="7fe1f4f5"> |
+| <small>HP</small> `7` | <small>Major</small> `≥8` <small>Severe</small> `≥15` | <small>Stress</small> `3` |
+|:-:|:-:|:-:|
+| ↑ |  <input type="checkbox" unchecked id="7a23ddf6"> <input type="checkbox" unchecked id="f511291d"> <input type="checkbox" unchecked id="815fd6e2"> <input type="checkbox" unchecked id="5da4ff3f"> <input type="checkbox" unchecked id="01f9f331"> <input type="checkbox" unchecked id="ef1979f7"> <input type="checkbox" unchecked id="83a872c9"> |  <input type="checkbox" unchecked id="3ec4adeb"> <input type="checkbox" unchecked id="afffddb8"> <input type="checkbox" unchecked id="21a0f68b"> |
+| ← |  <input type="checkbox" unchecked id="ecf0aa73"> <input type="checkbox" unchecked id="d26d30b2"> <input type="checkbox" unchecked id="4327bfd7"> <input type="checkbox" unchecked id="8eeb20ea"> <input type="checkbox" unchecked id="e5a3541c"> <input type="checkbox" unchecked id="cdf0e65b"> <input type="checkbox" unchecked id="ba9ea376"> |  <input type="checkbox" unchecked id="d553c087"> <input type="checkbox" unchecked id="fcdcbe54"> <input type="checkbox" unchecked id="cc33e545"> |
+| → |  <input type="checkbox" unchecked id="3df7187b"> <input type="checkbox" unchecked id="b49ba229"> <input type="checkbox" unchecked id="222694ac"> <input type="checkbox" unchecked id="5203890a"> <input type="checkbox" unchecked id="6291e1bd"> <input type="checkbox" unchecked id="3a73e12a"> <input type="checkbox" unchecked id="5a7b7a8e"> |  <input type="checkbox" unchecked id="ded74e6b"> <input type="checkbox" unchecked id="fb3404bd"> <input type="checkbox" unchecked id="fdcf4304"> |
+| ↓ |  <input type="checkbox" unchecked id="5e89ddac"> <input type="checkbox" unchecked id="dae14605"> <input type="checkbox" unchecked id="94a81659"> <input type="checkbox" unchecked id="973f20af"> <input type="checkbox" unchecked id="b851d7a9"> <input type="checkbox" unchecked id="23fb5567"> <input type="checkbox" unchecked id="e0bd52a1"> |  <input type="checkbox" unchecked id="3fa21bcf"> <input type="checkbox" unchecked id="d86e5162"> <input type="checkbox" unchecked id="d6469e2c"> |
 
 ### Relentless (2) - Passive
 
@@ -28,5 +31,3 @@ Make an attack against all targets in front of the Acid Burrower within Close ra
 ### Acid Bath - Reaction
 
 When this adversary takes Severe damage, all targets within Close range are bathed in its acidic blood, dealing 2d8+5 phy damage (armor is half as effective against this damage). This splash covers the ground within a Very Close distance with acid blood, and any movement through it by another creature automatically deals 1d6 damage. *“As you strike them, you’re covered in their cold, corrosive blood.”*
-
-

@@ -9,9 +9,12 @@ obsidianUIMode: preview
 - **Difficulty:** `13` | **Attack Modifier:** `+3` | **Bite & Claws:** `Melee 2d8+12 phy`
 - **Experiences:** Stonesense +3
 
-| HP: `6` Major: `11` Severe: `22` | Stress: `3` |
-|--|--|
-|  <input type="checkbox" unchecked id="472abf37"> <input type="checkbox" unchecked id="6954b8f2"> <input type="checkbox" unchecked id="3f42528a"> <input type="checkbox" unchecked id="18f02348"> <input type="checkbox" unchecked id="2ef1ce33"> <input type="checkbox" unchecked id="f9055ec9"> |  <input type="checkbox" unchecked id="8a984056"> <input type="checkbox" unchecked id="6b6e6b0e"> <input type="checkbox" unchecked id="5537772a"> |
+| <small>HP</small> `6` | <small>Major</small> `≥11` <small>Severe</small> `≥22` | <small>Stress</small> `3` |
+|:-:|:-:|:-:|
+| ↑ |  <input type="checkbox" unchecked id="fac12d21"> <input type="checkbox" unchecked id="5d8166be"> <input type="checkbox" unchecked id="da64bd4d"> <input type="checkbox" unchecked id="3fbdd0ea"> <input type="checkbox" unchecked id="645dbfd7"> <input type="checkbox" unchecked id="8993e9f8"> |  <input type="checkbox" unchecked id="26c43831"> <input type="checkbox" unchecked id="d2ff3b4f"> <input type="checkbox" unchecked id="31d0b1eb"> |
+| ← |  <input type="checkbox" unchecked id="4e4011f6"> <input type="checkbox" unchecked id="38a9f46d"> <input type="checkbox" unchecked id="2d02bafc"> <input type="checkbox" unchecked id="83fdd17c"> <input type="checkbox" unchecked id="5f98a841"> <input type="checkbox" unchecked id="1faefdba"> |  <input type="checkbox" unchecked id="4b62d134"> <input type="checkbox" unchecked id="a3e74edc"> <input type="checkbox" unchecked id="05fe333b"> |
+| → |  <input type="checkbox" unchecked id="4a473079"> <input type="checkbox" unchecked id="712fc954"> <input type="checkbox" unchecked id="d3f04d75"> <input type="checkbox" unchecked id="da8e3bc0"> <input type="checkbox" unchecked id="aa55ad70"> <input type="checkbox" unchecked id="1a14095d"> |  <input type="checkbox" unchecked id="3c4d0d82"> <input type="checkbox" unchecked id="108e063f"> <input type="checkbox" unchecked id="8fbc2ed6"> |
+| ↓ |  <input type="checkbox" unchecked id="7eb79272"> <input type="checkbox" unchecked id="bfee1c40"> <input type="checkbox" unchecked id="5f97eb6b"> <input type="checkbox" unchecked id="735d806b"> <input type="checkbox" unchecked id="c486350a"> <input type="checkbox" unchecked id="5b33e0d8"> |  <input type="checkbox" unchecked id="411169de"> <input type="checkbox" unchecked id="7c49fe79"> <input type="checkbox" unchecked id="592df88a"> |
 
 ### Stonestrider - Passive
 
@@ -24,6 +27,3 @@ Mark a Stress as Stonewraith leaps from within stone/earth to attack a target. T
 ### Avalanche Roar - Action
 
 Spend a Fear to roar and cause a cave-in. All targets within Close must make an Agility (14) Reaction Roll or suffer 2d10+10 phy damage. The rubble can be cleared with a Completion Countdown (8). *“Their voice resonates with the stone. The ceiling cracks and comes tumbling down all around you.”*
-
-
-

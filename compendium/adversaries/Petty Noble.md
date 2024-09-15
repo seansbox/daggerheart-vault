@@ -9,9 +9,12 @@ obsidianUIMode: preview
 - **Difficulty:** `12` | **Attack Modifier:** `-3` | **Rapier:** `Melee 2d4+2 phy`
 - **Experiences:** Aristocrat +5
 
-| HP: `3` Major: `6` Severe: `10` | Stress: `5` |
-|--|--|
-|  <input type="checkbox" unchecked id="623647bf"> <input type="checkbox" unchecked id="15e62a73"> <input type="checkbox" unchecked id="ec5cb755"> |  <input type="checkbox" unchecked id="432e8225"> <input type="checkbox" unchecked id="cb172944"> <input type="checkbox" unchecked id="d81d5421"> <input type="checkbox" unchecked id="e30ef46b"> <input type="checkbox" unchecked id="858e6fa4"> |
+| <small>HP</small> `3` | <small>Major</small> `≥6` <small>Severe</small> `≥10` | <small>Stress</small> `5` |
+|:-:|:-:|:-:|
+| ↑ |  <input type="checkbox" unchecked id="f81903ca"> <input type="checkbox" unchecked id="e30710ee"> <input type="checkbox" unchecked id="b6bb4a6f"> |  <input type="checkbox" unchecked id="26687394"> <input type="checkbox" unchecked id="ad07c927"> <input type="checkbox" unchecked id="fea5f085"> <input type="checkbox" unchecked id="c290957c"> <input type="checkbox" unchecked id="f9afe9a6"> |
+| ← |  <input type="checkbox" unchecked id="209f7a0d"> <input type="checkbox" unchecked id="ca0a9d0b"> <input type="checkbox" unchecked id="ff171ce7"> |  <input type="checkbox" unchecked id="09224c0d"> <input type="checkbox" unchecked id="e2fe07ea"> <input type="checkbox" unchecked id="88127bff"> <input type="checkbox" unchecked id="d3ac2387"> <input type="checkbox" unchecked id="fa674928"> |
+| → |  <input type="checkbox" unchecked id="7cb0aeaa"> <input type="checkbox" unchecked id="3146d791"> <input type="checkbox" unchecked id="be6722c4"> |  <input type="checkbox" unchecked id="498cb510"> <input type="checkbox" unchecked id="85bfdb00"> <input type="checkbox" unchecked id="1c3c80a7"> <input type="checkbox" unchecked id="f55b33b9"> <input type="checkbox" unchecked id="376d515c"> |
+| ↓ |  <input type="checkbox" unchecked id="2d5dec70"> <input type="checkbox" unchecked id="bd8b8d1b"> <input type="checkbox" unchecked id="a92f8f4d"> |  <input type="checkbox" unchecked id="fde5f0b9"> <input type="checkbox" unchecked id="36432ae9"> <input type="checkbox" unchecked id="b7d3dff5"> <input type="checkbox" unchecked id="92b84165"> <input type="checkbox" unchecked id="dad7e352"> |
 
 ### My Land, My Rules - Passive
 
@@ -24,6 +27,3 @@ Once per scene, mark a Stress to summon 1d4 Bladed Guards to enforce the Noble�
 ### Exile - Action
 
 Fear Petty Noble proclaims that a PC and their close associates are exiled from the noble’s territory. While exiled, the target has disadvantage in all social situations within the Noble’s domain. *“Be gone!”*
-
-
-

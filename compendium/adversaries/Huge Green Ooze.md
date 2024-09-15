@@ -9,9 +9,12 @@ obsidianUIMode: preview
 - **Difficulty:** `15` | **Attack Modifier:** `+3` | **Ooze Appendage:** `Melee 2d8+9 mag`
 - **Experiences:** Blend In +3
 
-| HP: `6` Major: `15` Severe: `30` | Stress: `4` |
-|--|--|
-|  <input type="checkbox" unchecked id="5fc46582"> <input type="checkbox" unchecked id="f4a2d1e3"> <input type="checkbox" unchecked id="65fb78a9"> <input type="checkbox" unchecked id="9a897704"> <input type="checkbox" unchecked id="9ee62854"> <input type="checkbox" unchecked id="50a4dfb1"> |  <input type="checkbox" unchecked id="779fc473"> <input type="checkbox" unchecked id="f944645e"> <input type="checkbox" unchecked id="0417d495"> <input type="checkbox" unchecked id="a5cfe078"> |
+| <small>HP</small> `6` | <small>Major</small> `≥15` <small>Severe</small> `≥30` | <small>Stress</small> `4` |
+|:-:|:-:|:-:|
+| ↑ |  <input type="checkbox" unchecked id="142076fe"> <input type="checkbox" unchecked id="c559d828"> <input type="checkbox" unchecked id="527f1d68"> <input type="checkbox" unchecked id="f68d454f"> <input type="checkbox" unchecked id="5302bcb0"> <input type="checkbox" unchecked id="165af4d4"> |  <input type="checkbox" unchecked id="91a70816"> <input type="checkbox" unchecked id="f61b6c90"> <input type="checkbox" unchecked id="e8aa55fd"> <input type="checkbox" unchecked id="cb34305a"> |
+| ← |  <input type="checkbox" unchecked id="ff537f91"> <input type="checkbox" unchecked id="7b27424a"> <input type="checkbox" unchecked id="a7ba62ca"> <input type="checkbox" unchecked id="e2c95dd6"> <input type="checkbox" unchecked id="b21bbf20"> <input type="checkbox" unchecked id="c1494e8e"> |  <input type="checkbox" unchecked id="4a62d6a3"> <input type="checkbox" unchecked id="e66e63ef"> <input type="checkbox" unchecked id="e070d1f5"> <input type="checkbox" unchecked id="7a534980"> |
+| → |  <input type="checkbox" unchecked id="effd7b76"> <input type="checkbox" unchecked id="0f0401dc"> <input type="checkbox" unchecked id="ec92c129"> <input type="checkbox" unchecked id="d0e1960a"> <input type="checkbox" unchecked id="8f610420"> <input type="checkbox" unchecked id="f4604219"> |  <input type="checkbox" unchecked id="bf9444f7"> <input type="checkbox" unchecked id="3c0dfae6"> <input type="checkbox" unchecked id="74db6d9f"> <input type="checkbox" unchecked id="a30654d4"> |
+| ↓ |  <input type="checkbox" unchecked id="4098750a"> <input type="checkbox" unchecked id="ab8c0a4e"> <input type="checkbox" unchecked id="f9ed6fe9"> <input type="checkbox" unchecked id="c01e4156"> <input type="checkbox" unchecked id="cdd3ec7e"> <input type="checkbox" unchecked id="66b060c0"> |  <input type="checkbox" unchecked id="d395959b"> <input type="checkbox" unchecked id="39174c13"> <input type="checkbox" unchecked id="0dad229d"> <input type="checkbox" unchecked id="3feee6d8"> |
 
 ### Slow (2) - Passive
 
@@ -28,5 +31,3 @@ Make an attack against a target in melee. On a success, they must mark 2 Stress 
 ### Split - Reaction
 
 When this adversary marks its 4th Hit Point, spend a Fear to split it into two Green Oozes (with no marked HP or Stress) that instantly activate. *“Just when you thought you had it on the ropes, the ooze splits into two smaller oozes, which immediately attack.”*
-
-

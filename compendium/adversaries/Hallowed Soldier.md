@@ -20,6 +20,3 @@ Choose a target and activate all Hallowed Soldier within Close range of them. Th
 ### Flight - Passive
 
 Hallowed Soldier can fly up to Far range as part of activating. *“Their glowing wings bear them up and ever-forward for their god’s glory.”*
-
-
-

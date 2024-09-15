@@ -9,9 +9,12 @@ obsidianUIMode: preview
 - **Difficulty:** `19` | **Attack Modifier:** `+8` | **Obsidian Claws:** `Close 2d10+25 phy`
 - **Experiences:** Military Scholar +5
 
-| HP: `7` Major: `33` Severe: `65` | Stress: `5` |
-|--|--|
-|  <input type="checkbox" unchecked id="e0217fe0"> <input type="checkbox" unchecked id="fc98bf9e"> <input type="checkbox" unchecked id="cbbb89f4"> <input type="checkbox" unchecked id="8baca90e"> <input type="checkbox" unchecked id="6191d6c4"> <input type="checkbox" unchecked id="1c3f1c57"> <input type="checkbox" unchecked id="713daefa"> |  <input type="checkbox" unchecked id="20056765"> <input type="checkbox" unchecked id="16312bbc"> <input type="checkbox" unchecked id="aa90014b"> <input type="checkbox" unchecked id="14c37fe9"> <input type="checkbox" unchecked id="717cc400"> |
+| <small>HP</small> `7` | <small>Major</small> `≥33` <small>Severe</small> `≥65` | <small>Stress</small> `5` |
+|:-:|:-:|:-:|
+| ↑ |  <input type="checkbox" unchecked id="ba980871"> <input type="checkbox" unchecked id="be270737"> <input type="checkbox" unchecked id="eeafd508"> <input type="checkbox" unchecked id="25e4cf59"> <input type="checkbox" unchecked id="b0d7d595"> <input type="checkbox" unchecked id="17c21c44"> <input type="checkbox" unchecked id="eb2f769a"> |  <input type="checkbox" unchecked id="3181bf3f"> <input type="checkbox" unchecked id="eeb56ca4"> <input type="checkbox" unchecked id="e0c6c1c7"> <input type="checkbox" unchecked id="d738a3fb"> <input type="checkbox" unchecked id="20936f44"> |
+| ← |  <input type="checkbox" unchecked id="cc698dba"> <input type="checkbox" unchecked id="1f5fe80d"> <input type="checkbox" unchecked id="8c6e89f4"> <input type="checkbox" unchecked id="c4dcdb45"> <input type="checkbox" unchecked id="ce235fed"> <input type="checkbox" unchecked id="06a1402a"> <input type="checkbox" unchecked id="0937eb77"> |  <input type="checkbox" unchecked id="a572b526"> <input type="checkbox" unchecked id="e0666a6d"> <input type="checkbox" unchecked id="64fe4adf"> <input type="checkbox" unchecked id="dc2d9705"> <input type="checkbox" unchecked id="1fca2f94"> |
+| → |  <input type="checkbox" unchecked id="f3eb0ebc"> <input type="checkbox" unchecked id="22969a71"> <input type="checkbox" unchecked id="ce1bb38f"> <input type="checkbox" unchecked id="cfb61c16"> <input type="checkbox" unchecked id="4285552b"> <input type="checkbox" unchecked id="4e5b0c6f"> <input type="checkbox" unchecked id="1448f1b9"> |  <input type="checkbox" unchecked id="a7a47812"> <input type="checkbox" unchecked id="fa0af09d"> <input type="checkbox" unchecked id="f9711783"> <input type="checkbox" unchecked id="0e8234f6"> <input type="checkbox" unchecked id="9b0f1a70"> |
+| ↓ |  <input type="checkbox" unchecked id="f4505cd6"> <input type="checkbox" unchecked id="6d5b2c9b"> <input type="checkbox" unchecked id="bb0574cb"> <input type="checkbox" unchecked id="893d4c16"> <input type="checkbox" unchecked id="30ca4e85"> <input type="checkbox" unchecked id="881a001f"> <input type="checkbox" unchecked id="774a1937"> |  <input type="checkbox" unchecked id="908ba2a7"> <input type="checkbox" unchecked id="4d1c1bcf"> <input type="checkbox" unchecked id="23499659"> <input type="checkbox" unchecked id="ab6df74d"> <input type="checkbox" unchecked id="c67f9140"> |
 
 ### Relentless (2) - Passive
 
@@ -36,4 +39,3 @@ Any time Obsidian Predator takes damage, it reduces that damage by 2d8. *“Your
 ### Erupting Rage (Phase Change) - Reaction
 
 When Obsidian Predator marks their last HP, replace them with Molten Scourge. Spend a Fear to have them activate immediately. *“Incandescent with rage, the dragon’s scales burst into molten lava.”*
-

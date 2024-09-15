@@ -9,9 +9,12 @@ obsidianUIMode: preview
 - **Difficulty:** `15` | **Attack Modifier:** `+2` | **Slam:** `Melee 2d6+3 phy`
 - **Experiences:** Camouflage +2
 
-| HP: `7` Major: `10` Severe: `20` | Stress: `6` |
-|--|--|
-|  <input type="checkbox" unchecked id="4a8b5488"> <input type="checkbox" unchecked id="d2d36b36"> <input type="checkbox" unchecked id="2d22969a"> <input type="checkbox" unchecked id="4fe33672"> <input type="checkbox" unchecked id="cf535a21"> <input type="checkbox" unchecked id="2481f5b5"> <input type="checkbox" unchecked id="949b9dd1"> |  <input type="checkbox" unchecked id="29121d38"> <input type="checkbox" unchecked id="f3436047"> <input type="checkbox" unchecked id="5cff0b0b"> <input type="checkbox" unchecked id="f5f6c4c4"> <input type="checkbox" unchecked id="9bb1ff3f"> <input type="checkbox" unchecked id="1ab1d1a0"> |
+| <small>HP</small> `7` | <small>Major</small> `≥10` <small>Severe</small> `≥20` | <small>Stress</small> `6` |
+|:-:|:-:|:-:|
+| ↑ |  <input type="checkbox" unchecked id="bc6ff185"> <input type="checkbox" unchecked id="f82f3bca"> <input type="checkbox" unchecked id="14f0e3fc"> <input type="checkbox" unchecked id="29572ad1"> <input type="checkbox" unchecked id="8002beea"> <input type="checkbox" unchecked id="58838d83"> <input type="checkbox" unchecked id="7d6ec9ab"> |  <input type="checkbox" unchecked id="8ce10ec0"> <input type="checkbox" unchecked id="df5ca7a1"> <input type="checkbox" unchecked id="53530fe2"> <input type="checkbox" unchecked id="968da17f"> <input type="checkbox" unchecked id="b99866a5"> <input type="checkbox" unchecked id="5e3307a8"> |
+| ← |  <input type="checkbox" unchecked id="c6eb6b1d"> <input type="checkbox" unchecked id="73bc6c9e"> <input type="checkbox" unchecked id="fb652da0"> <input type="checkbox" unchecked id="5485b6c8"> <input type="checkbox" unchecked id="b04dab06"> <input type="checkbox" unchecked id="fa8e7ddd"> <input type="checkbox" unchecked id="c5043071"> |  <input type="checkbox" unchecked id="fb92e717"> <input type="checkbox" unchecked id="d40f91a3"> <input type="checkbox" unchecked id="586b6616"> <input type="checkbox" unchecked id="a1fdd0da"> <input type="checkbox" unchecked id="86f25592"> <input type="checkbox" unchecked id="432f20dd"> |
+| → |  <input type="checkbox" unchecked id="bed0fea4"> <input type="checkbox" unchecked id="870774ea"> <input type="checkbox" unchecked id="0f40ef61"> <input type="checkbox" unchecked id="937d3600"> <input type="checkbox" unchecked id="97ff0dd8"> <input type="checkbox" unchecked id="31351f7d"> <input type="checkbox" unchecked id="998e5ed8"> |  <input type="checkbox" unchecked id="74fa7d7f"> <input type="checkbox" unchecked id="a679fc1f"> <input type="checkbox" unchecked id="b7afa81f"> <input type="checkbox" unchecked id="b31d8346"> <input type="checkbox" unchecked id="4e6aad73"> <input type="checkbox" unchecked id="a6f41416"> |
+| ↓ |  <input type="checkbox" unchecked id="e43a901d"> <input type="checkbox" unchecked id="2cb3e3de"> <input type="checkbox" unchecked id="526dc3cb"> <input type="checkbox" unchecked id="04a9999f"> <input type="checkbox" unchecked id="ea706d7f"> <input type="checkbox" unchecked id="8b21d876"> <input type="checkbox" unchecked id="030aa4fb"> |  <input type="checkbox" unchecked id="a405b30a"> <input type="checkbox" unchecked id="aa252e88"> <input type="checkbox" unchecked id="9a0929c6"> <input type="checkbox" unchecked id="f6edc2fc"> <input type="checkbox" unchecked id="32b34d6f"> <input type="checkbox" unchecked id="bd3b1226"> |
 
 ### Relentless (2) - Passive
 
@@ -27,6 +30,4 @@ Mark Stress and roll 1d6. The Battle Box uses the corresponding move. 1. Mana Be
 
 ### Death Quake
 
-When this adversary marks its last Hit Point, the magic powering it ruptures in an explosion of force. All targets in Close range make an Instinct Reaction Roll or take 2d8+12 magic damage. 
-
-
+When this adversary marks its last Hit Point, the magic powering it ruptures in an explosion of force. All targets in Close range make an Instinct Reaction Roll or take 2d8+12 magic damage.

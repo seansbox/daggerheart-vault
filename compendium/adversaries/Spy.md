@@ -9,9 +9,12 @@ obsidianUIMode: preview
 - **Difficulty:** `14` | **Attack Modifier:** `-2` | **Dagger:** `Melee 2d6+3 phy`
 - **Experiences:** Scent Tracking +3
 
-| HP: `4` Major: `8` Severe: `17` | Stress: `3` |
-|--|--|
-|  <input type="checkbox" unchecked id="4e81afd7"> <input type="checkbox" unchecked id="b3d56bd5"> <input type="checkbox" unchecked id="74d47a89"> <input type="checkbox" unchecked id="80c2ddae"> |  <input type="checkbox" unchecked id="57f003ce"> <input type="checkbox" unchecked id="8660826d"> <input type="checkbox" unchecked id="c7d61c48"> |
+| <small>HP</small> `4` | <small>Major</small> `≥8` <small>Severe</small> `≥17` | <small>Stress</small> `3` |
+|:-:|:-:|:-:|
+| ↑ |  <input type="checkbox" unchecked id="bbed6685"> <input type="checkbox" unchecked id="ce3132f3"> <input type="checkbox" unchecked id="cc0f2d2c"> <input type="checkbox" unchecked id="286338cb"> |  <input type="checkbox" unchecked id="cc74e5a9"> <input type="checkbox" unchecked id="87f63d7f"> <input type="checkbox" unchecked id="910916c5"> |
+| ← |  <input type="checkbox" unchecked id="c00db077"> <input type="checkbox" unchecked id="fedb8a46"> <input type="checkbox" unchecked id="213c2cb9"> <input type="checkbox" unchecked id="0a8da0df"> |  <input type="checkbox" unchecked id="20c29c6f"> <input type="checkbox" unchecked id="35633550"> <input type="checkbox" unchecked id="5279e4a4"> |
+| → |  <input type="checkbox" unchecked id="5b5434ce"> <input type="checkbox" unchecked id="6236ce5b"> <input type="checkbox" unchecked id="c315dfd5"> <input type="checkbox" unchecked id="d900838d"> |  <input type="checkbox" unchecked id="a6509190"> <input type="checkbox" unchecked id="5591d2da"> <input type="checkbox" unchecked id="99f12ee0"> |
+| ↓ |  <input type="checkbox" unchecked id="6b826529"> <input type="checkbox" unchecked id="54738a98"> <input type="checkbox" unchecked id="01b1366e"> <input type="checkbox" unchecked id="b82beb56"> |  <input type="checkbox" unchecked id="ca4917d0"> <input type="checkbox" unchecked id="ab66b8aa"> <input type="checkbox" unchecked id="ce6f0730"> |
 
 ### Fly on the Wall - Reaction
 
@@ -19,7 +22,4 @@ Mark a Stress when something sensitive is discussed to reveal that the Spy is pr
 
 ### Gathering Secrets - Action
 
-Spend a Fear to describe how the Spy knows a secret about a target character in the scene. If the target is a PC, they may mark 2 Stress to suggest a lesser secret that the Spy learned instead. 
-
-
-
+Spend a Fear to describe how the Spy knows a secret about a target character in the scene. If the target is a PC, they may mark 2 Stress to suggest a lesser secret that the Spy learned instead.

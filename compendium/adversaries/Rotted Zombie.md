@@ -16,6 +16,3 @@ This adversary is defeated if they take any damage. For every 4 damage a PC deal
 ### Group Attack - Action (2)
 
 Choose a target and activate all Rotten Zombies within Close range of them. Those minions move into melee with the target and make one shared attack roll. On a success, they deal 4 phy damage each. Combine this damage together. *“Though zombies move forward mindlessly, seeming to attack in a coordinated effort of instinct.”*
-
-
-

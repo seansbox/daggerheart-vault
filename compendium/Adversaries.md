@@ -119,8 +119,8 @@ obsidianUIMode: preview
 | [Arch-Necromancer](adversaries/Arch-Necromancer.md)<br>*Tier 4 Leader* |  |
 | [Fallen Shock Troop](adversaries/Fallen%20Shock%20Troop.md)<br>*Tier 4 Minion* | Cursed souls bound to the Fallen’s will. |
 | [Fallen Sorcerer](adversaries/Fallen%20Sorcerer.md)<br>*Tier 4 Support* | A powerful mage bound by the bargains they made in life. |
-| [Fallen Warlord: Realm-Breaker](adversaries/Fallen%20Warlord%3A%20Realm-Breaker.md)<br>*Tier 4 Leader* | A Fallen God, wreathed in rage and resentment and bearing millenia of experience at breaking heroes’ spirit. |
-| [Fallen Warlord: Undefeated Champion](adversaries/Fallen%20Warlord%3A%20Undefeated%20Champion.md)<br>*Tier 4 Leader* |  |
+| [Fallen Warlord: Realm-Breaker](adversaries/Fallen%20Warlord%20Realm-Breaker.md)<br>*Tier 4 Leader* | A Fallen God, wreathed in rage and resentment and bearing millenia of experience at breaking heroes’ spirit. |
+| [Fallen Warlord: Undefeated Champion](adversaries/Fallen%20Warlord%20Undefeated%20Champion.md)<br>*Tier 4 Leader* |  |
 | [Hallowed Archer](adversaries/Hallowed%20Archer.md)<br>*Tier 4 Ranged* | Spirit soldiers with sanctified bows. |
 | [Hallowed Soldier](adversaries/Hallowed%20Soldier.md)<br>*Tier 4 Minion* | Souls of the faithful, lifted up with divine weaponry. |
 | [High Seraph](adversaries/High%20Seraph.md)<br>*Tier 4 Leader* | A divine champion, head of a hallowed host of warriors that enforce their god’s will. |
@@ -130,7 +130,7 @@ obsidianUIMode: preview
 | [Outer Realms Corrupter](adversaries/Outer%20Realms%20Corrupter.md)<br>*Tier 4 Support* | A chaotic mockery of life, constantly in flux. |
 | [Outer Realms Thrall](adversaries/Outer%20Realms%20Thrall.md)<br>*Tier 4 Minion* | Vaguely-humanoid forms stripped of memory and identity. |
 | [Perfected Zombie](adversaries/Perfected%20Zombie.md)<br>*Tier 4 Bruiser* | A towering, muscular zombie with magically-infused strength and skill. |
-| [Volcanic Dragon: Ashen Tyrant](adversaries/Volcanic%20Dragon%3A%20Ashen%20Tyrant.md)<br>*Tier 4 Solo* | No enemy has ever had the insolence to wound the dragon so. As the lava settles, it is ground to ash like the dragon’s past foes. |
-| [Volcanic Dragon: Molten Scourge](adversaries/Volcanic%20Dragon%3A%20Molten%20Scourge.md)<br>*Tier 4 Solo* | Enraged by their wounds, the dragon bursts into molten lava. |
-| [Volcanic Dragon: Obsidian Predator](adversaries/Volcanic%20Dragon%3A%20Obsidian%20Predator.md)<br>*Tier 4 Solo* | A massive winged creature with obsidian scales and impossibly sharp claws. |
+| [Volcanic Dragon: Ashen Tyrant](adversaries/Volcanic%20Dragon%20Ashen%20Tyrant.md)<br>*Tier 4 Solo* | No enemy has ever had the insolence to wound the dragon so. As the lava settles, it is ground to ash like the dragon’s past foes. |
+| [Volcanic Dragon: Molten Scourge](adversaries/Volcanic%20Dragon%20Molten%20Scourge.md)<br>*Tier 4 Solo* | Enraged by their wounds, the dragon bursts into molten lava. |
+| [Volcanic Dragon: Obsidian Predator](adversaries/Volcanic%20Dragon%20Obsidian%20Predator.md)<br>*Tier 4 Solo* | A massive winged creature with obsidian scales and impossibly sharp claws. |
 | [Zombie Legion](adversaries/Zombie%20Legion.md)<br>*Tier 4 Horde (3/HP)* | A large pack of undead, rotting flesh still powerful. |

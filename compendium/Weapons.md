@@ -118,7 +118,7 @@ obsidianUIMode: preview
 | [Double Flail](weapons/Double%20Flail.md)<br>*Tier 3 Physical* | `Agility` Two-Handed Very Close d10+8 (Phy)<br>*Powerful (Roll one extra damage die and drop the lowest.)* |
 | [Flickerfly Blade](weapons/Flickerfly%20Blade.md)<br>*Tier 3 Physical* | `Agility` One-Handed Melee d8+5 (Phy)<br>*Sharpwing (Add your Agility score to this weapon's damage roll.)* |
 | [Hand Sling](weapons/Hand%20Sling.md)<br>*Tier 3 Physical* | `Finesse` One-Handed Very Far d6+4 (Phy)<br>*Versatile (Finesse Close - d8+4)* |
-| [Hell’s Hammer](weapons/Hell%E2%80%99s%20Hammer.md)<br>*Tier 3 Physical* | `Strength` Two-Handed Melee d10+7 (Phy)<br>*Devastating (Mark stress before your attack roll to use d20s as your damage dice instead.)* |
+| [Hell’s Hammer](weapons/Hell%27s%20Hammer.md)<br>*Tier 3 Physical* | `Strength` Two-Handed Melee d10+7 (Phy)<br>*Devastating (Mark stress before your attack roll to use d20s as your damage dice instead.)* |
 | [Labrys Axe](weapons/Labrys%20Axe.md)<br>*Tier 3 Physical* | `Strength` Two-Handed Melee d10+7 (Phy)<br>*Protective (Add +1 to your Armor score.)* |
 | [Meridian Cutlass](weapons/Meridian%20Cutlass.md)<br>*Tier 3 Physical* | `Presence` One-Handed Melee d10+5 (Phy)<br>*Dueling (Take advantage on attack rolls when there are no other adversaries or allies in Close range besides the current target.)* |
 | [Retractable Saber](weapons/Retractable%20Saber.md)<br>*Tier 3 Physical* | `Presence` One-Handed Melee d10+7 (Phy)<br>*Retractable (Blade can be hidden in hilt to avoid recognition as a weapon.)* |
@@ -139,7 +139,7 @@ obsidianUIMode: preview
 | [Firestaff](weapons/Firestaff.md)<br>*Tier 3 Magic* | `Instinct` Two-Handed Far d6+7 (Mag)<br>*Burn (For every damage dice that rolls an 6, deal a Stress.)* |
 | [Ghostblade](weapons/Ghostblade.md)<br>*Tier 3 Magic* | `Presence` One-Handed Melee d10+7 (Any)<br>*Otherworldly (You can choose whether to do Physical or Magic damage.)* |
 | [Gilded Bow](weapons/Gilded%20Bow.md)<br>*Tier 3 Magic* | `Finesse` Two-Handed Far d6+7 (Mag)<br>*Self-Correcting (Any 1’s rolled on the damage dice may be treated as 8’s instead.)* |
-| [Ilmari’s Blunderbuss](weapons/Ilmari%E2%80%99s%20Blunderbuss.md)<br>*Tier 3 Magic* | `Finesse` One-Handed Very Far d6+6 (Mag)<br>*Reloading (Roll 1d6 after the attack. On a 1, you must use an action to reload your weapon before you can fire it again.)* |
+| [Ilmari’s Blunderbuss](weapons/Ilmari%27s%20Blunderbuss.md)<br>*Tier 3 Magic* | `Finesse` One-Handed Very Far d6+6 (Mag)<br>*Reloading (Roll 1d6 after the attack. On a 1, you must use an action to reload your weapon before you can fire it again.)* |
 | [Mage Orb](weapons/Mage%20Orb.md)<br>*Tier 3 Magic* | `Knowledge` One-Handed Far d6+7 (Mag)<br>*Powerful (Roll one extra damage die and drop the lowest.)* |
 | [Powered Gauntlet](weapons/Powered%20Gauntlet.md)<br>*Tier 3 Magic* | `Knowledge` One-Handed Close d6+4 (Mag)<br>*Charged Attack (Mark stress to increase proficiency by +1 on Primary Weapon attack)* |
 | [Runes of Ruination](weapons/Runes%20of%20Ruination.md)<br>*Tier 3 Magic* | `Knowledge` One-Handed Very Close d20+4 (Mag)<br>*Painful (Mark Stress every time you attack with this weapon.)* |

@@ -20,6 +20,3 @@ Choose a target and activate every Fallen Shock Troop within Close range of them
 ### Aura of Doom - Passive
 
 A character that marks HP from an attack by this adversary also loses Hope. *“The fallen tear into you, wounding your body and spirit alike.”*
-
-
-

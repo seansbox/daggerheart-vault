@@ -9,9 +9,12 @@ obsidianUIMode: preview
 - **Difficulty:** `12` | **Attack Modifier:** `-3` | **Wand:** `Far 1d8+3 phy`
 - **Experiences:** Courtier +3, Administration +5
 
-| HP: `3` Major: `8` Severe: `15` | Stress: `3` |
-|--|--|
-|  <input type="checkbox" unchecked id="810a9dbd"> <input type="checkbox" unchecked id="cde6edec"> <input type="checkbox" unchecked id="9d9c0156"> |  <input type="checkbox" unchecked id="9b654baf"> <input type="checkbox" unchecked id="bb4122be"> <input type="checkbox" unchecked id="9549f95a"> |
+| <small>HP</small> `3` | <small>Major</small> `≥8` <small>Severe</small> `≥15` | <small>Stress</small> `3` |
+|:-:|:-:|:-:|
+| ↑ |  <input type="checkbox" unchecked id="8c3803a4"> <input type="checkbox" unchecked id="60508fd5"> <input type="checkbox" unchecked id="b27ca9d6"> |  <input type="checkbox" unchecked id="9d7562e3"> <input type="checkbox" unchecked id="b6e4f0dd"> <input type="checkbox" unchecked id="a753880b"> |
+| ← |  <input type="checkbox" unchecked id="68c6ec02"> <input type="checkbox" unchecked id="31ae2437"> <input type="checkbox" unchecked id="8b463f57"> |  <input type="checkbox" unchecked id="779d920c"> <input type="checkbox" unchecked id="7f613f71"> <input type="checkbox" unchecked id="f9bb7d36"> |
+| → |  <input type="checkbox" unchecked id="70316d5b"> <input type="checkbox" unchecked id="825e04b7"> <input type="checkbox" unchecked id="e34fb9b7"> |  <input type="checkbox" unchecked id="e3e1d232"> <input type="checkbox" unchecked id="c34d7fad"> <input type="checkbox" unchecked id="0c5ef6bb"> |
+| ↓ |  <input type="checkbox" unchecked id="d7c3d829"> <input type="checkbox" unchecked id="fb1d1142"> <input type="checkbox" unchecked id="04f4cb4d"> |  <input type="checkbox" unchecked id="2bd88941"> <input type="checkbox" unchecked id="138d6b7f"> <input type="checkbox" unchecked id="062ec01a"> |
 
 ### Devastating Retort - Passive
 
@@ -24,6 +27,3 @@ Mark a Stress to influence a NPC within Very Close distance with whispered words
 ### Scapegoat - Action
 
 Spend a Fear to convince a target crowd or notable individual that one person or group is responsible for some problem facing the target. The target becomes hostile to the scapegoat until convinced of their innocence (Presence 17). *“They’ve blamed you for the crime, and everyone has bought the lie.”*
-
-
-

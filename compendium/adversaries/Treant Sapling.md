@@ -14,6 +14,3 @@ This adversary is defeated if they take any damage.. For every 6 damage a PC dea
 ### Group Attack - Action (2)
 
 Spend a Fear to activate all adversaries with this name within very close range of a target. This group moves into melee and makes an attack roll against that target. On a success, they deal 8 damage per adversary. *“They descend on you, stronger together.”*
-
-
-

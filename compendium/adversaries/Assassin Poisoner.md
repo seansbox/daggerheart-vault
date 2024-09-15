@@ -9,9 +9,12 @@ obsidianUIMode: preview
 - **Difficulty:** `14` | **Attack Modifier:** `+3` | **Poisoned Throwing Dagger:** `Close 2d8+12 phy`
 - **Experiences:** Intrusion +2
 
-| HP: `4` Major: `8` Severe: `16` | Stress: `4` |
-|--|--|
-|  <input type="checkbox" unchecked id="567102f6"> <input type="checkbox" unchecked id="e5c3c8ba"> <input type="checkbox" unchecked id="d6299f9e"> <input type="checkbox" unchecked id="ab474a65"> |  <input type="checkbox" unchecked id="90eb471c"> <input type="checkbox" unchecked id="f670dad2"> <input type="checkbox" unchecked id="92d6b975"> <input type="checkbox" unchecked id="7c46e368"> |
+| <small>HP</small> `4` | <small>Major</small> `≥8` <small>Severe</small> `≥16` | <small>Stress</small> `4` |
+|:-:|:-:|:-:|
+| ↑ |  <input type="checkbox" unchecked id="4ff23940"> <input type="checkbox" unchecked id="44a845cf"> <input type="checkbox" unchecked id="1d78175b"> <input type="checkbox" unchecked id="9896fc6f"> |  <input type="checkbox" unchecked id="f18150ac"> <input type="checkbox" unchecked id="6996f206"> <input type="checkbox" unchecked id="1b53e94b"> <input type="checkbox" unchecked id="9146d37b"> |
+| ← |  <input type="checkbox" unchecked id="4c833a5d"> <input type="checkbox" unchecked id="a87c3a0e"> <input type="checkbox" unchecked id="d7eff6fd"> <input type="checkbox" unchecked id="2d1a364b"> |  <input type="checkbox" unchecked id="5ea2ec0c"> <input type="checkbox" unchecked id="68b1d60e"> <input type="checkbox" unchecked id="00b4c68b"> <input type="checkbox" unchecked id="e444f470"> |
+| → |  <input type="checkbox" unchecked id="605b7271"> <input type="checkbox" unchecked id="06406c23"> <input type="checkbox" unchecked id="553019c7"> <input type="checkbox" unchecked id="33d05b86"> |  <input type="checkbox" unchecked id="978d8900"> <input type="checkbox" unchecked id="409dbd4b"> <input type="checkbox" unchecked id="e352eab0"> <input type="checkbox" unchecked id="e1dd1cfc"> |
+| ↓ |  <input type="checkbox" unchecked id="a3a9e8a4"> <input type="checkbox" unchecked id="91336bf8"> <input type="checkbox" unchecked id="8f05879e"> <input type="checkbox" unchecked id="5a3c438c"> |  <input type="checkbox" unchecked id="a2169ba0"> <input type="checkbox" unchecked id="0548683b"> <input type="checkbox" unchecked id="ef623c9f"> <input type="checkbox" unchecked id="29249bad"> |
 
 ### Grindletooth Poison - Passive
 
@@ -24,6 +27,3 @@ Assassin Poisoner has advantage on attacks if they are Hidden. *“They come at 
 ### Fumigation - Action
 
 Drop a smoke bomb that fills the area within Close range with smoke, making all targets Dizzied. Dizzied characters add two tokens to the action tracker when they act, then are no longer dizzied. *“They throw something, and the air fills with a thick, cloying smoke.”*
-
-
-

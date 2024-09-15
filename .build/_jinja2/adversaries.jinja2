@@ -10,9 +10,12 @@ obsidianUIMode: preview
 {% if Experiences %}- **Experiences:** {{ Experiences }}{% endif %}
 
 {% if Major %}
-| HP: `{{ HP }}` Major: `{{ Major }}` Severe: `{{ Severe }}` | Stress: `{{ Stress }}` |
-|--|--|
-| {% for _ in range(HP|int) %} <input type="checkbox" unchecked id="{{ hex() }}">{% endfor %} | {% for _ in range(Stress|int) %} <input type="checkbox" unchecked id="{{ hex() }}">{% endfor %} |
+| <small>HP</small> `{{ HP }}` | <small>Major</small> `≥{{ Major }}` <small>Severe</small> `≥{{ Severe }}` | <small>Stress</small> `{{ Stress }}` |
+|:-:|:-:|:-:|
+| ↑ | {% for _ in range(HP|int) %} <input type="checkbox" unchecked id="{{ hex() }}">{% endfor %} | {% for _ in range(Stress|int) %} <input type="checkbox" unchecked id="{{ hex() }}">{% endfor %} |
+| ← | {% for _ in range(HP|int) %} <input type="checkbox" unchecked id="{{ hex() }}">{% endfor %} | {% for _ in range(Stress|int) %} <input type="checkbox" unchecked id="{{ hex() }}">{% endfor %} |
+| → | {% for _ in range(HP|int) %} <input type="checkbox" unchecked id="{{ hex() }}">{% endfor %} | {% for _ in range(Stress|int) %} <input type="checkbox" unchecked id="{{ hex() }}">{% endfor %} |
+| ↓ | {% for _ in range(HP|int) %} <input type="checkbox" unchecked id="{{ hex() }}">{% endfor %} | {% for _ in range(Stress|int) %} <input type="checkbox" unchecked id="{{ hex() }}">{% endfor %} |
 {% endif %}
 
 {% for feature in subrows %}

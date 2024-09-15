@@ -27,7 +27,7 @@ obsidianUIMode: preview
 | [Advanced Chainmail Armor](armor/Advanced%20Chainmail%20Armor.md)<br>*Tier 3* | **Base** `7` Heavy (−1 to Evasion) |
 | [Advanced Full Plate Armor](armor/Advanced%20Full%20Plate%20Armor.md)<br>*Tier 3* | **Base** `8` Very Heavy (−2 to Evasion and −1 to Agility) |
 | [Bladefare Armor](armor/Bladefare%20Armor.md)<br>*Tier 3* | **Base** `8` Physical (You cannot use this armor against Magic damage.) |
-| [Monett’s Cloak](armor/Monett%E2%80%99s%20Cloak.md)<br>*Tier 3* | **Base** `8` Magic (You cannot use this armor against Physical damage.) |
+| [Monett’s Cloak](armor/Monett%27s%20Cloak.md)<br>*Tier 3* | **Base** `8` Magic (You cannot use this armor against Physical damage.) |
 | [Runes of Fortification](armor/Runes%20of%20Fortification.md)<br>*Tier 3* | **Base** `10` Painful (Mark stress every time you use one or more armor slots on an attack.) |
 | [Dunamis Silkchain](armor/Dunamis%20Silkchain.md)<br>*Tier 4* | **Base** `5` Timeslowing (On any incoming attacks, roll 1d4 and add its value to your Evasion score.) |
 | [Channeling Armor](armor/Channeling%20Armor.md)<br>*Tier 4* | **Base** `7` Channeling (While this armor is equipped, take +1 to all Spellcast rolls.) |

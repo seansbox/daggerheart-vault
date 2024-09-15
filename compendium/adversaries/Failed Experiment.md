@@ -9,9 +9,12 @@ obsidianUIMode: preview
 - **Difficulty:** `13` | **Attack Modifier:** `+1` | **Bite and Claw:** `Melee 2d6+5 phy`
 - **Experiences:** Copycat +3
 
-| HP: `3` Major: `12` Severe: `23` | Stress: `3` |
-|--|--|
-|  <input type="checkbox" unchecked id="63eec844"> <input type="checkbox" unchecked id="39252a32"> <input type="checkbox" unchecked id="429499ca"> |  <input type="checkbox" unchecked id="6890161d"> <input type="checkbox" unchecked id="956e2be8"> <input type="checkbox" unchecked id="3bf25ed0"> |
+| <small>HP</small> `3` | <small>Major</small> `≥12` <small>Severe</small> `≥23` | <small>Stress</small> `3` |
+|:-:|:-:|:-:|
+| ↑ |  <input type="checkbox" unchecked id="c19fc475"> <input type="checkbox" unchecked id="ef3ebbe7"> <input type="checkbox" unchecked id="ef47651c"> |  <input type="checkbox" unchecked id="f256d2cc"> <input type="checkbox" unchecked id="5b460c11"> <input type="checkbox" unchecked id="44070516"> |
+| ← |  <input type="checkbox" unchecked id="bc2acc29"> <input type="checkbox" unchecked id="1a60cb0a"> <input type="checkbox" unchecked id="8891ba67"> |  <input type="checkbox" unchecked id="559c2216"> <input type="checkbox" unchecked id="fb71b247"> <input type="checkbox" unchecked id="700d7f9a"> |
+| → |  <input type="checkbox" unchecked id="d24ffc94"> <input type="checkbox" unchecked id="7454fad4"> <input type="checkbox" unchecked id="c57d9520"> |  <input type="checkbox" unchecked id="5a8a0239"> <input type="checkbox" unchecked id="e84d2147"> <input type="checkbox" unchecked id="747134be"> |
+| ↓ |  <input type="checkbox" unchecked id="2d835452"> <input type="checkbox" unchecked id="664aa8e1"> <input type="checkbox" unchecked id="b40c88ef"> |  <input type="checkbox" unchecked id="111f84a6"> <input type="checkbox" unchecked id="f34341bf"> <input type="checkbox" unchecked id="8838d955"> |
 
 ### Warped Fortitude - Passive
 
@@ -24,6 +27,3 @@ When a target this adversary is attacking has any allies also in Very Close rang
 ### Lurching Lunge - Action
 
 Mark a Stress to activate Failed Experiment even if they have already activated this move. *“It leaps forward, its movements sharp and jolting like a puppet on strings.”*
-
-
-
