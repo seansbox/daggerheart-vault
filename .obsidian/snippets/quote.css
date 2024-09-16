@@ -1,0 +1,7 @@
+.callout[data-callout="quote"] {
+  padding: .3em;
+}
+.callout[data-callout="quote"] .callout-title {
+  font-size: 75%;
+  font-weight: normal !important;
+}

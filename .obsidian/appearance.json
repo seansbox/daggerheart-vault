@@ -2,6 +2,7 @@
   "cssTheme": "Obsidian Nord",
   "accentColor": "",
   "enabledCssSnippets": [
-    "icons"
+    "icons",
+    "quote"
   ]
 }
