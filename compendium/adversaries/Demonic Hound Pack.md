@@ -6,7 +6,7 @@ obsidianUIMode: preview
 *Unnatural hounds with ichor-slicked fur.*
 
 - **Motives & Tactics**: Consume Flesh, Please Masters, Cause Fear
-- **Difficulty:** `15` | **Attack Modifier:** `0` | **Claws and Fangs:** `Melee 2d8+12 phy`
+- **Difficulty:** `15` | **Attack Modifier:** `+0` | **Claws and Fangs:** `Melee 2d8+12 phy`
 - **Experiences:** Scent Tracking +3
 
 | <small>HP</small> `5` | <small>Major</small> `≥11` <small>Severe</small> `≥23` | <small>Stress</small> `3` |

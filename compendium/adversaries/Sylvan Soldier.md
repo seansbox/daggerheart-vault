@@ -6,7 +6,7 @@ obsidianUIMode: preview
 *A faerie warrior adorned in leaf & bark armor.*
 
 - **Motives & Tactics**: Ambush, Overwhelm, Protect, Trail, Hide
-- **Difficulty:** `11` | **Attack Modifier:** `0` | **Scythe:** `Melee 2d6+2 phy`
+- **Difficulty:** `11` | **Attack Modifier:** `+0` | **Scythe:** `Melee 2d6+2 phy`
 - **Experiences:** Tracker +2
 
 | <small>HP</small> `4` | <small>Major</small> `≥6` <small>Severe</small> `≥11` | <small>Stress</small> `2` |

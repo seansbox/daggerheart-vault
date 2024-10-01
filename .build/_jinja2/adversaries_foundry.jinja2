@@ -1,0 +1,22 @@
+<p><strong>Tier {{ Tier }} {{ Type }}</strong></p>
+{% if Description %}
+<p><em>{{ Description }}</em></p>
+{% endif %}
+<p></p>
+<ul>
+{% if Tactics %}
+<li><p><strong>Motives & Tactics:</strong> {{ Tactics }}</p></li>
+{% endif %}
+<li><p><strong>Difficulty:</strong> <span style="color: #D32F2F"><b>{{ Diff }}</b></span> | <strong>Thresholds:</strong> Major <span style="color: #D32F2F"><b>≥{{ Major }}</b></span>, Severe <span style="color: #D32F2F"><b>≥{{ Severe }}</b></span> | <strong>HP:</strong> {{ HP }} | <strong>Stress:</strong> {{ Stress }}</p></li>
+<li><p><strong>Attack:</strong> [[/roll d20{% if Bonus|starts_with_digit %}+{% endif %}{{ Bonus }} # {{ Name }}: Attack]] | <strong>{{ Attack }}:</strong> {{ Distance }} [[/roll {{ Damage }} # {{ Name }}: {{ Attack }} ({{ Effect }})]] {{ Effect }}</p></li>
+{% if Experiences %}
+<li><p><strong>Experiences:</strong> {{ Experiences }}</p></li>
+{% endif %}
+</ul>
+<p></p>
+{% for feature in subrows %}
+{% if feature.Feature %}
+<h3>{{ feature.Feature }}{% if feature.Action %} - {{ feature.Action }}{% endif %}</h3>
+<p>{{ feature.Text|diceify }}{% if feature.Quote %} <em style="color: #1976D2">{{ feature.Quote }}</em>{% endif %}</p>
+{% endif %}
+{% endfor %}

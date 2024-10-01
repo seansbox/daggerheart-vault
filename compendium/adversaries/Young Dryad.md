@@ -6,7 +6,7 @@ obsidianUIMode: preview
 *An imperious tree-person leading their forest’s defenses.*
 
 - **Motives & Tactics**: Command, Nurture, Prune the Unwelcome
-- **Difficulty:** `11` | **Attack Modifier:** `0` | **Scythe:** `Melee 2d8+5 phy`
+- **Difficulty:** `11` | **Attack Modifier:** `+0` | **Scythe:** `Melee 2d8+5 phy`
 - **Experiences:** Leadership +3
 
 | <small>HP</small> `4` | <small>Major</small> `≥6` <small>Severe</small> `≥11` | <small>Stress</small> `2` |

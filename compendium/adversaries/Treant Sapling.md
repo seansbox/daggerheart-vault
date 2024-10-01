@@ -4,7 +4,7 @@ obsidianUIMode: preview
 # Treant Sapling (Tier 3 Minion)
 
 - **Motives & Tactics**: Surround, Pummel, Blend In, Preserve the Forest
-- **Difficulty:** `14` | **Attack Modifier:** `0` | **Branches:** `Melee 8 phy`
+- **Difficulty:** `14` | **Attack Modifier:** `+0` | **Branches:** `Melee 8 phy`
 
 
 ### Minion (8) - Passive

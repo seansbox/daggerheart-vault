@@ -6,7 +6,7 @@ obsidianUIMode: preview
 *A blazing mote of elemental fire.*
 
 - **Motives & Tactics**: Blast, Consume, Gain Mass
-- **Difficulty:** `15` | **Attack Modifier:** `0` | **Bursts of Fire:** `Close 7 mag`
+- **Difficulty:** `15` | **Attack Modifier:** `+0` | **Bursts of Fire:** `Close 7 mag`
 
 
 ### Minion (9) - Passive

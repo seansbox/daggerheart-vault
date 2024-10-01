@@ -6,7 +6,7 @@ obsidianUIMode: preview
 *A cluster of animate, blood-drinking tumbleweeds, each the size of a large gourd.*
 
 - **Motives & Tactics**: Entangle, Immobilize, Digest
-- **Difficulty:** `12` | **Attack Modifier:** `0` | **Thorns:** `Melee 2d6+3 phy`
+- **Difficulty:** `12` | **Attack Modifier:** `+0` | **Thorns:** `Melee 2d6+3 phy`
 - **Experiences:** Camouflage +2
 
 | <small>HP</small> `6` | <small>Major</small> `≥6` <small>Severe</small> `≥11` | <small>Stress</small> `3` |

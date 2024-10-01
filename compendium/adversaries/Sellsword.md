@@ -6,7 +6,7 @@ obsidianUIMode: preview
 *An armed mercenary testing their luck.*
 
 - **Motives & Tactics**: Charge, Overwhelm, Lacerate, Profit
-- **Difficulty:** `10` | **Attack Modifier:** `0` | **Longsword:** `Melee 4 phy`
+- **Difficulty:** `10` | **Attack Modifier:** `+0` | **Longsword:** `Melee 4 phy`
 
 
 ### Minion (4) - Passive

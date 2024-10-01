@@ -6,7 +6,7 @@ obsidianUIMode: preview
 *A group of trained archers bearing massive bows.*
 
 - **Motives & Tactics**: Volley Fire, Stick Together, Survive
-- **Difficulty:** `13` | **Attack Modifier:** `0` | **Longbow:** `Far 2d6+13 phy`
+- **Difficulty:** `13` | **Attack Modifier:** `+0` | **Longbow:** `Far 2d6+13 phy`
 
 | <small>HP</small> `4` | <small>Major</small> `≥8` <small>Severe</small> `≥16` | <small>Stress</small> `3` |
 |:-:|:-:|:-:|

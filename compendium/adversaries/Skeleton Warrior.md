@@ -6,7 +6,7 @@ obsidianUIMode: preview
 *A dirt-covered skeleton armed with a rusted blade.*
 
 - **Motives & Tactics**: Gang Up, Feign Death, Steal Skin
-- **Difficulty:** `10` | **Attack Modifier:** `0` | **Sword:** `Melee 2d6+2 phy`
+- **Difficulty:** `10` | **Attack Modifier:** `+0` | **Sword:** `Melee 2d6+2 phy`
 
 | <small>HP</small> `3` | <small>Major</small> `≥4` <small>Severe</small> `≥8` | <small>Stress</small> `2` |
 |:-:|:-:|:-:|

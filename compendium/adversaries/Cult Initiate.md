@@ -6,7 +6,7 @@ obsidianUIMode: preview
 *A Low-ranking cultist in simple robes, eager to gain power.*
 
 - **Motives & Tactics**: Follow Orders, Gain Power, Seek Forbidden Knowledge
-- **Difficulty:** `13` | **Attack Modifier:** `0` | **Ritual Dagger:** `Melee 5 phy`
+- **Difficulty:** `13` | **Attack Modifier:** `+0` | **Ritual Dagger:** `Melee 5 phy`
 
 
 ### Minion (6) - Passive

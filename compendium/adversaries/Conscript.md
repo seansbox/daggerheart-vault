@@ -6,7 +6,7 @@ obsidianUIMode: preview
 *Poorly-trained civilians pressed into war.*
 
 - **Motives & Tactics**: Follow Orders, Gang Up, Survive
-- **Difficulty:** `12` | **Attack Modifier:** `0` | **Spears:** `Very Close 5 phy`
+- **Difficulty:** `12` | **Attack Modifier:** `+0` | **Spears:** `Very Close 5 phy`
 
 
 ### Minion (6) - Passive

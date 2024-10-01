@@ -6,7 +6,7 @@ obsidianUIMode: preview
 *An animated corpse that moves shakily, driven only by hunger.*
 
 - **Motives & Tactics**: Hunger, Mob Enemy, Shred Flesh, Devour
-- **Difficulty:** `10` | **Attack Modifier:** `0` | **Bite:** `Melee 1d8+7 phy`
+- **Difficulty:** `10` | **Attack Modifier:** `+0` | **Bite:** `Melee 1d8+7 phy`
 
 | <small>HP</small> `4` | <small>Major</small> `≥4` <small>Severe</small> `≥6` | <small>Stress</small> `1` |
 |:-:|:-:|:-:|

@@ -6,7 +6,7 @@ obsidianUIMode: preview
 *A pack of eels that encircle and electrocute.*
 
 - **Motives & Tactics**: Avoid Larger Predators, Shock Prey, Tear Apart
-- **Difficulty:** `14` | **Attack Modifier:** `0` | **Shocking Bite:** `Melee 2d10+4 phy`
+- **Difficulty:** `14` | **Attack Modifier:** `+0` | **Shocking Bite:** `Melee 2d10+4 phy`
 
 | <small>HP</small> `5` | <small>Major</small> `≥10` <small>Severe</small> `≥20` | <small>Stress</small> `3` |
 |:-:|:-:|:-:|

@@ -6,7 +6,7 @@ obsidianUIMode: preview
 *The sovereign ruler of a nation, wreathed in privilege of tradition with unmatched power in their domain.*
 
 - **Motives & Tactics**: Control Vassals, Destroy Rivals, Forge a Legacy
-- **Difficulty:** `16` | **Attack Modifier:** `0` | **Warhammer:** `Melee 2d6+3 phy`
+- **Difficulty:** `16` | **Attack Modifier:** `+0` | **Warhammer:** `Melee 2d6+3 phy`
 - **Experiences:** Nobility +4, History +3
 
 | <small>HP</small> `6` | <small>Major</small> `≥16` <small>Severe</small> `≥32` | <small>Stress</small> `5` |
