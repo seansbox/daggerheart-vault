@@ -28,7 +28,7 @@ def base62_encode(num: int) -> str:
     return "".join(reversed(base62))
 
 
-def string_to_alphanumeric_hash(input_string: str, length: int = 16) -> str:
+def hashify(input_string: str, length: int = 16) -> str:
     # Generate a SHA-256 hash of the input string and convert to an integer
     sha256_hash = hashlib.sha256(input_string.encode("utf-8")).digest()
     hash_int = int.from_bytes(sha256_hash, byteorder="big")
@@ -84,7 +84,7 @@ class HexGenerator:
 def starts_with_digit(value):
     try:
         return value[0] in "0123456789"
-    except IndexError:
+    except:
         return False
 
 
@@ -94,6 +94,7 @@ env.filters["starts_with_digit"] = starts_with_digit
 env.filters["urlencode"] = urlencode
 env.filters["slugify"] = slugify
 env.filters["diceify"] = wrap_dice_notation
+env.filters["hashify"] = hashify
 
 
 # Function to process CSV rows and look for "subrows" (cols ending in 1-9)
@@ -121,20 +122,29 @@ for csv_filename in os.listdir("./_csv"):
         continue
 
     csv_filepath = os.path.join("./_csv", csv_filename)
-    template_filename = csv_filename.replace(".csv", ".jinja2")
-    template_filepath = os.path.join("./_jinja2", template_filename)
-    template = env.get_template(template_filename)
+    md_page_template, md_index_template, vtt_page_template = None, None, None
 
-    foundry_template_filename = csv_filename.replace(".csv", "_foundry.jinja2")
-    foundry_template_filepath = os.path.join("./_jinja2", foundry_template_filename)
-    foundry_template = None
-    if os.path.exists(foundry_template_filepath):
-        foundry_template = env.get_template(foundry_template_filename)
+    # Find all of the templates for this CSV file
+    md_page_filename = csv_filename.replace(".csv", "_md_page.jinja2")
+    md_page_filepath = os.path.join("./_jinja2", md_page_filename)
+    if os.path.exists(md_page_filepath):
+        md_page_template = env.get_template(md_page_filename)
+    md_index_filename = csv_filename.replace(".csv", "_md_index.jinja2")
+    md_index_filepath = os.path.join("./_jinja2", md_index_filename)
+    if os.path.exists(md_index_filepath):
+        md_index_template = env.get_template(md_index_filename)
+    vtt_page_filename = csv_filename.replace(".csv", "_vtt_page.jinja2")
+    vtt_page_filepath = os.path.join("./_jinja2", vtt_page_filename)
+    vtt_page_template = None
+    if os.path.exists(vtt_page_filepath):
+        vtt_page_template = env.get_template(vtt_page_filename)
+    vtt_index_filename = csv_filename.replace(".csv", "_vtt_index.jinja2")
+    vtt_index_filepath = os.path.join("./_jinja2", vtt_index_filename)
+    vtt_index_template = None
+    if os.path.exists(vtt_index_filepath):
+        vtt_index_template = env.get_template(vtt_index_filename)
 
-    index_template_filename = csv_filename.replace(".csv", "_index.jinja2")
-    index_template_filepath = os.path.join("./_jinja2", index_template_filename)
-
-    foundry_pages = []
+    vtt_pages = []
 
     with open(csv_filepath, newline="") as csv_file:
         reader = csv.DictReader(csv_file)
@@ -147,50 +157,59 @@ for csv_filename in os.listdir("./_csv"):
             os.makedirs(md_directory, exist_ok=True)
             md_filepath = os.path.join(md_directory, md_filename)
 
-            # Render the template with the CSV row data
-            hex_generator = HexGenerator(seed=row["Name"])
-            md_content = template.render(row, hex=hex_generator.hex)
-            if foundry_template:
-                foundry_pages.append(
+            if md_page_template:
+                # Render the template with the CSV row data
+                hex_generator = HexGenerator(seed=row["Name"])
+                md_page = md_page_template.render(row, hex=hex_generator.hex)
+                # Write the rendered content to the Markdown file
+                with open(md_filepath, "w") as md_file:
+                    md_file.write(
+                        md_page.replace("\n\n\n", "\n\n").replace("\n\n\n", "\n\n").replace("\n\n\n", "\n\n").rstrip()
+                    )
+
+            if vtt_page_template:
+                vtt_pages.append(
                     {
-                        "_id": string_to_alphanumeric_hash(row["Name"]),
+                        "_id": hashify(row["Name"]),
                         "name": row["Name"],
                         "type": "text",
                         "title": {"show": True, "level": 1},
                         "text": {
                             "format": 1,
-                            "content": foundry_template.render(row),
+                            "content": vtt_page_template.render(row),
                         },
                     }
                 )
 
-            # Write the rendered content to the Markdown file
-            with open(md_filepath, "w") as md_file:
-                md_file.write(
-                    md_content.replace("\n\n\n", "\n\n").replace("\n\n\n", "\n\n").replace("\n\n\n", "\n\n").rstrip()
-                )
-
-            print(f"Saved {md_filepath}")
-
     # Check for index template and generate index file if found
-    if os.path.exists(index_template_filepath):
-        index_template = env.get_template(index_template_filename)
-        index_md_filename = f"{csv_filename.replace('.csv', '').capitalize()}.md"
-        index_md_filepath = os.path.join("../compendium", index_md_filename)
-        index_content = index_template.render(rows=rows)
-
-        with open(index_md_filepath, "w") as index_md_file:
+    if md_index_template:
+        index_md_content = md_index_template.render(rows=rows)
+        with open(
+            os.path.join("..", "compendium", f"{csv_filename.replace('.csv', '').capitalize()}.md"), "w"
+        ) as index_md_file:
             index_md_file.write(
-                index_content.replace("\n\n\n", "\n\n").replace("\n\n\n", "\n\n").replace("\n\n\n", "\n\n").rstrip()
+                index_md_content.replace("\n\n\n", "\n\n").replace("\n\n\n", "\n\n").replace("\n\n\n", "\n\n").rstrip()
             )
-        print(f"Saved {index_md_filepath}")
 
     # Write the Foundry JSON file
-    with open(f"foundry-{csv_filename.replace('.csv', '.json')}", "w") as foundry_file:
-        foundry_pages = sorted(foundry_pages, key=lambda x: x["name"])
-        for i, page in enumerate(foundry_pages):
-            page["sort"] = i * 10 + 10
-        foundry_file.write(
-            json.dumps({"name": csv_filename.replace(".csv", "").capitalize(), "pages": foundry_pages}, indent=2)
-        )
-        print(f"Saved foundry-{csv_filename.replace('.csv', '.json')}")
+    if vtt_page_template:
+        obj_name = csv_filename.replace(".csv", "").capitalize()
+        with open(f"foundry-{csv_filename.replace('.csv', '.json')}", "w") as index_vtt_file:
+            vtt_pages = sorted(vtt_pages, key=lambda x: x["name"])
+            if vtt_index_template:
+                vtt_pages.insert(
+                    0,
+                    {
+                        "_id": hashify(obj_name + " Index"),
+                        "name": obj_name + " Index",
+                        "type": "text",
+                        "title": {"show": True, "level": 1},
+                        "text": {
+                            "format": 1,
+                            "content": vtt_index_template.render(rows=rows),
+                        },
+                    },
+                )
+            for i, page in enumerate(vtt_pages):
+                page["sort"] = i * 10 + 10
+            index_vtt_file.write(json.dumps({"name": obj_name, "pages": vtt_pages}, indent=2))

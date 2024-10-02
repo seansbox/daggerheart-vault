@@ -1,4 +1,859 @@
 {
   "name": "Items",
-  "pages": []
+  "pages": [
+    {
+      "_id": "mq13pwOM3WZSr6CR",
+      "name": "Items Index",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<ul>\n<li><b>Common:</b> [[/roll 1d12 # Item]] or [[/roll 2d12 # Item]]</li>\n<li><b>Uncommon:</b> [[/roll 2d12 # Item]] or [[/roll 3d12 # Item]]</li>\n<li><b>Rare:</b> [[/roll 3d12 # Item]] or [[/roll 4d12 # Item]]</li>\n<li><b>Legendary:</b> [[/roll 4d12 # Item]] or [[/roll 5d12 # Item]]</li>\n</ul>\n<table>\n<thead>\n  <tr>\n    <th>#</th>\n    <th>Item</th>\n    <th>Description</th>\n  </tr>\n</thead>\n<tbody>\n  \n  <tr>\n    <td>1</td>\n    <td>@UUID[.l1K25pDA1YVxQaAz]</td>\n    <td>During any rests, you always automatically clear 1 stress.</td>\n  </tr>\n  \n  <tr>\n    <td>2</td>\n    <td>@UUID[.FvDqAjN65G1MniBs]</td>\n    <td>A handcrafted whistle. Each have a distinctive sound, and the piercing tone can be heard across a one mile radius.</td>\n  </tr>\n  \n  <tr>\n    <td>3</td>\n    <td>@UUID[.RlHQZc33yio0u1IF]</td>\n    <td>When arrows for a bow are kept in the Charging Quiver, damage rolls using the bow deal +2 damage.</td>\n  </tr>\n  \n  <tr>\n    <td>4</td>\n    <td>@UUID[.NKGbB1agToJdFTOy]</td>\n    <td>A magic torch that lights at will and spreads light much farther than it looks like it should. This could fill a cave with light bright enough to feel like it\u2019s daytime.</td>\n  </tr>\n  \n  <tr>\n    <td>5</td>\n    <td>@UUID[.jmaGrZ4OcHHUtSg8]</td>\n    <td>A pair of orbs that allow any creatures holding them to communicate with each other across any distance.</td>\n  </tr>\n  \n  <tr>\n    <td>6</td>\n    <td>@UUID[.NdCRpBHWIZdtzkGX]</td>\n    <td>A pair of locking cuffs with a key.</td>\n  </tr>\n  \n  <tr>\n    <td>7</td>\n    <td>@UUID[.DCrZkcUROrLKegSO]</td>\n    <td>A cloak whose color, texture, and size can be adjusted by any user with the spellcast ability at will.</td>\n  </tr>\n  \n  <tr>\n    <td>8</td>\n    <td>@UUID[.fUkytSHlDiZk8R1F]</td>\n    <td>A net that can be used to trap small creatures. To use it, make a Finesse roll. On a success, the difficulty to break free is 16.</td>\n  </tr>\n  \n  <tr>\n    <td>9</td>\n    <td>@UUID[.dToP747oEEXxSv7m]</td>\n    <td>Pour out strange liquid within the contents of this jar to instantly produce fire. The contents regenerate on your next long rest.</td>\n  </tr>\n  \n  <tr>\n    <td>10</td>\n    <td>@UUID[.cSHwjH1e0Van0IMF]</td>\n    <td>A flat rod inscribed with runes. When it is activated, it is immediately suspended in place where it is. It cannot move, does not abide by the rules of gravity, and will remain in place until it is deactivated.</td>\n  </tr>\n  \n  <tr>\n    <td>11</td>\n    <td>@UUID[.mhMeME7FWRDd8DDB]</td>\n    <td>Activate this pebble-sized stone to memorize a look - hairdo, makeup, outfit. You may spend a Hope to instantly re-create this look at any time.</td>\n  </tr>\n  \n  <tr>\n    <td>12</td>\n    <td>@UUID[.DwXwR8XofFDMKz0a]</td>\n    <td>A magical chest that will appear empty, even if there are items being kept inside. The owner can use a specific word, phrase, or other trigger when opening the chest to reveal these items.</td>\n  </tr>\n  \n  <tr>\n    <td>13</td>\n    <td>@UUID[.Nb86J4NQJ2fQJ84e]</td>\n    <td>A carrying case for a small animal companion. While they are inside, the case and the animal are immune to all harm.</td>\n  </tr>\n  \n  <tr>\n    <td>14</td>\n    <td>@UUID[.MonuaMRRH2LMyLLA]</td>\n    <td>When firing a bow, you may use Piercing Arrows to add your proficiency to your damage roll. 3 uses per short rest. \u3007 \u3007 \u3007</td>\n  </tr>\n  \n  <tr>\n    <td>15</td>\n    <td>@UUID[.gfKxxnttpzaxCXTb]</td>\n    <td>Attach to armor. Adds the following feature to armor that doesn\u2019t already have a feature: Resilient (Before you mark your last armor slot, roll a d6. On a 6, you use the armor without marking the slot.)</td>\n  </tr>\n  \n  <tr>\n    <td>16</td>\n    <td>@UUID[.imbFtL4oDoRBae6Z]</td>\n    <td>Use this to make a Finesse roll at advantage when attempting to open a locked door.</td>\n  </tr>\n  \n  <tr>\n    <td>17</td>\n    <td>@UUID[.wYuVm5PJwPZmZUPV]</td>\n    <td>Position this prism in a location of your choosing. Once activated, any allies that stand within close distance of this prism get +1 to their Spellcast rolls. Once it is deactivated, it can\u2019t be activated again until your next long rest.</td>\n  </tr>\n  \n  <tr>\n    <td>18</td>\n    <td>@UUID[.qPhtwzReTopsGC4w]</td>\n    <td>During downtime, spend one of your downtime moves and a handful of gold to craft a Minor Stamina Potion.</td>\n  </tr>\n  \n  <tr>\n    <td>19</td>\n    <td>@UUID[.dNOlJ6ZcdlMoNyWa]</td>\n    <td>During downtime, spend one of your downtime moves and a handful of gold to craft a Minor Health Potion.</td>\n  </tr>\n  \n  <tr>\n    <td>20</td>\n    <td>@UUID[.cMSPDWHnde5rHay1]</td>\n    <td>Two compasses that only point at each other no matter how far apart they are.</td>\n  </tr>\n  \n  <tr>\n    <td>21</td>\n    <td>@UUID[.OgIRlUF48kjsk2iL]</td>\n    <td>A tiny sprite who sits in the curve of your ear canal and whispers helpful advice during combat. Once per short rest, you may take advantage on an attack roll. Do not give them your true name.</td>\n  </tr>\n  \n  <tr>\n    <td>22</td>\n    <td>@UUID[.2vtrl9CJAEpaA5kZ]</td>\n    <td>You can climb up vertical surfaces and across ceilings.</td>\n  </tr>\n  \n  <tr>\n    <td>23</td>\n    <td>@UUID[.kfcOKpTijakjZ3dT]</td>\n    <td>Store the name of up to three hostile creatures. Next time you face them, take +1 on any action rolls against them.</td>\n  </tr>\n  \n  <tr>\n    <td>24</td>\n    <td>@UUID[.5tIAHgKK7I6lFGZK]</td>\n    <td>During downtime, spend one of your downtime moves and mark a stress to craft a Vial of Darksmoke.</td>\n  </tr>\n  \n  <tr>\n    <td>25</td>\n    <td>@UUID[.Q3FuPXMW9gHbmONw]</td>\n    <td>Attach to a weapon. Adds the following feature to a weapon that doesn\u2019t already have a feature: Brutal (If any of your damage dice roll their maximum value, roll an additional damage die of that size.)</td>\n  </tr>\n  \n  <tr>\n    <td>26</td>\n    <td>@UUID[.6TbM4dgFr96pLnNX]</td>\n    <td>Attach to a weapon. Adds the following feature to a weapon that doesn\u2019t already have a feature: Powerful (Roll one extra damage die and drop the lowest.)</td>\n  </tr>\n  \n  <tr>\n    <td>27</td>\n    <td>@UUID[.HiawcnqZGMw4bI5n]</td>\n    <td>A small parachute that can be deployed by marking Stress. It allows the user to glide down from a high place safely to the ground below.</td>\n  </tr>\n  \n  <tr>\n    <td>28</td>\n    <td>@UUID[.PgTioIvUNuKOWQmB]</td>\n    <td>Spend a Hope to activate this ring until your next short rest. Your footsteps are silent.</td>\n  </tr>\n  \n  <tr>\n    <td>29</td>\n    <td>@UUID[.ivpgcqwmlSBdBfwl]</td>\n    <td>If you should ever have to mark your last stress slot, roll a d6. On a 5+, don\u2019t mark it.</td>\n  </tr>\n  \n  <tr>\n    <td>30</td>\n    <td>@UUID[.f6LOG0C1KdtVtRBe]</td>\n    <td>A flask that can hold two different liquids. A small button on the side allows the drinker to switch between them.</td>\n  </tr>\n  \n  <tr>\n    <td>31</td>\n    <td>@UUID[.pQrzZlpv5tKBUUdZ]</td>\n    <td>This is a small bag of sand that can be convinced to be much heavier or lighter than it should be with a Presence (10) roll. You can also blow sand in the face of an adversary with a Finesse roll to make them temporarily Vulnerable.</td>\n  </tr>\n  \n  <tr>\n    <td>32</td>\n    <td>@UUID[.LBzntKRo8wSjaw5O]</td>\n    <td>Once per long rest, activate this ring to only take half damage on an incoming attack.</td>\n  </tr>\n  \n  <tr>\n    <td>33</td>\n    <td>@UUID[.Yc7AJXjvTTFY6TPz]</td>\n    <td>While you have any quantity of Phoenix Feathers, when you drop unconscious and roll to see if you take a scar, always take +1 to the die result.</td>\n  </tr>\n  \n  <tr>\n    <td>34</td>\n    <td>@UUID[.KJghmONtP60AWD42]</td>\n    <td>A small box that can only be opened once per long rest. When it is, roll a d12. If you roll a 1-6, it is empty. If you roll a 7-10, it contains one random consumable. If you roll an 11-12, it contains two random consumables.</td>\n  </tr>\n  \n  <tr>\n    <td>35</td>\n    <td>@UUID[.rL2F4kNRckQ6dDWh]</td>\n    <td>Attach to a melee weapon to make it able to attack at a Close distance. 3 uses per short rest.</td>\n  </tr>\n  \n  <tr>\n    <td>36</td>\n    <td>@UUID[.gpqeEbQGXWnGGTdJ]</td>\n    <td>Plant this in the ground to grow a portal in this spot. The portal will be ready to use in 24 hours and you may travel to any other spot you\u2019ve planted a portal seed. A portal may be destroyed by dealing any amount of magic damage to it.</td>\n  </tr>\n  \n  <tr>\n    <td>37</td>\n    <td>@UUID[.v6UgPg3BFL8SrAQ6]</td>\n    <td>Once per long rest, you may use a downtime move to meditate on an ideal or principle you hold dear and focus your will into the chain. Until your next long rest, you can spend a Hope to use a d20 as your Hope die for rolls that directly align with that principle.</td>\n  </tr>\n  \n  <tr>\n    <td>38</td>\n    <td>@UUID[.v4gy20UdbQVtXncy]</td>\n    <td>Once per long rest, activate this to go Hidden until you move from this location. Any enemies who move into line of sight with you while you\u2019re Hidden don\u2019t see you.</td>\n  </tr>\n  \n  <tr>\n    <td>39</td>\n    <td>@UUID[.ZiPzUXHs5pZfLaTu]</td>\n    <td>During a long rest, if you have 5 Hope, you may spend 1 Hope and imbue the locket with your bountiful resolve. If you ever have 0 Hope, you may use the locket and gain 1 Hope. The locket must then be recharged during a long rest.</td>\n  </tr>\n  \n  <tr>\n    <td>40</td>\n    <td>@UUID[.OEFVNtgfENxYn4oQ]</td>\n    <td>Items put into this bag are stored in a pocket dimension and can be retrieved at any time.</td>\n  </tr>\n  \n  <tr>\n    <td>41</td>\n    <td>@UUID[.qXJPqEMpyp1TT5wj]</td>\n    <td>Add +1 to your Agility. You cannot hold any other relics.</td>\n  </tr>\n  \n  <tr>\n    <td>42</td>\n    <td>@UUID[.fFG5QkCS5fiB20s2]</td>\n    <td>Add +1 to your Strength. You cannot hold any other relics.</td>\n  </tr>\n  \n  <tr>\n    <td>43</td>\n    <td>@UUID[.2VlttH3YORgjiC6Q]</td>\n    <td>Add +1 to your Finesse. You cannot hold any other relics.</td>\n  </tr>\n  \n  <tr>\n    <td>44</td>\n    <td>@UUID[.C9NP5H8xrMDn1reK]</td>\n    <td>Add +1 to your Presence. You cannot hold any other relics.</td>\n  </tr>\n  \n  <tr>\n    <td>45</td>\n    <td>@UUID[.Pov7Cphqm5pvEHy6]</td>\n    <td>Add +1 to your Knowledge. You cannot hold any other relics.</td>\n  </tr>\n  \n  <tr>\n    <td>46</td>\n    <td>@UUID[.jJuQVLsYM0bTJZ63]</td>\n    <td>While wearing your melee weapons dealing physical damage extend with a gossamer sheen. You can hit creatures up to Very Close range.</td>\n  </tr>\n  \n  <tr>\n    <td>47</td>\n    <td>@UUID[.oxQJwZZOhe9Bu6ko]</td>\n    <td>You may walk along the surface of water as if it were soft ground.</td>\n  </tr>\n  \n  <tr>\n    <td>48</td>\n    <td>@UUID[.J387VeAdAWd1PUYO]</td>\n    <td>This ball of clay can be sculpted into various animal shapes and will then behave as that animal (a clay spider can spin clay webs, a clay bird can fly). This companion has continuity of memory and self across different shapes but may adopt some mannerisms with each form.</td>\n  </tr>\n  \n  <tr>\n    <td>49</td>\n    <td>@UUID[.v8Yy5bQWt98X1v6k]</td>\n    <td>Add +1 to your Instinct. You cannot hold any other relics.</td>\n  </tr>\n  \n  <tr>\n    <td>50</td>\n    <td>@UUID[.T4ZTClwRK3TrShY1]</td>\n    <td>Add +1 to one of your Experiences. You cannot hold any other relics.</td>\n  </tr>\n  \n  <tr>\n    <td>51</td>\n    <td>@UUID[.gzAJbaOcAfJvYLNF]</td>\n    <td>During downtime, spend one of your downtime moves and a bag of gold to craft Mythic Dust.</td>\n  </tr>\n  \n  <tr>\n    <td>52</td>\n    <td>@UUID[.tiKJTWfFsKnN9SUL]</td>\n    <td>Once per long rest, spend 2 Hope to recall a Domain card from your vault instead of payings its Recall Cost.</td>\n  </tr>\n  \n  <tr>\n    <td>53</td>\n    <td>@UUID[.ZvXSPckrV3Rm2hr7]</td>\n    <td>Attach to a weapon to allow you to make a Presence roll when using it to attack.</td>\n  </tr>\n  \n  <tr>\n    <td>54</td>\n    <td>@UUID[.o8pPFAeoFAPtnJmg]</td>\n    <td>Attach to a weapon to allow you to make a Knowledge roll when using it to attack.</td>\n  </tr>\n  \n  <tr>\n    <td>55</td>\n    <td>@UUID[.2sdG8ZIQIedEZW32]</td>\n    <td>Attach to a weapon to allow you to make an Instinct roll when using it to attack.</td>\n  </tr>\n  \n  <tr>\n    <td>56</td>\n    <td>@UUID[.sTg2Xr2z2342p3sE]</td>\n    <td>Attach to a weapon to allow you to make a Strength roll when using it to attack.</td>\n  </tr>\n  \n  <tr>\n    <td>57</td>\n    <td>@UUID[.jlOG0M2tLEZugghV]</td>\n    <td>Attach to a weapon to allow you to make an Agility roll when using it to attack.</td>\n  </tr>\n  \n  <tr>\n    <td>58</td>\n    <td>@UUID[.6cdVzmILk8zaoqxF]</td>\n    <td>Attach to a weapon to allow you to make a Finesse roll when using it to attack.</td>\n  </tr>\n  \n  <tr>\n    <td>59</td>\n    <td>@UUID[.8dmlCwvbny5kmCt4]</td>\n    <td>Once per session, when the GM spends 1 Fear, you can spend 4 Hope to cancel the effects of that spent Fear.</td>\n  </tr>\n  \n  <tr>\n    <td>60</td>\n    <td>@UUID[.kyXrpU9RIM4vsxJV]</td>\n    <td>Once per session, you may spend 5 Hope to lead a Tag Team action with 3 PCs instead of 2.</td>\n  </tr>\n  \n</tbody>\n</table>"
+      },
+      "sort": 10
+    },
+    {
+      "_id": "rL2F4kNRckQ6dDWh",
+      "name": "Airblade Charm",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Attach to a melee weapon to make it able to attack at a Close distance. 3 uses per short rest.</p>\n<p></p>\n<p><b>Number:</b> <code>35</code></p>"
+      },
+      "sort": 20
+    },
+    {
+      "_id": "NKGbB1agToJdFTOy",
+      "name": "Alistair\u2019s Torch",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>A magic torch that lights at will and spreads light much farther than it looks like it should. This could fill a cave with light bright enough to feel like it\u2019s daytime.</p>\n<p></p>\n<p><b>Number:</b> <code>4</code></p>"
+      },
+      "sort": 30
+    },
+    {
+      "_id": "DCrZkcUROrLKegSO",
+      "name": "Arcane Cloak",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>A cloak whose color, texture, and size can be adjusted by any user with the spellcast ability at will.</p>\n<p></p>\n<p><b>Number:</b> <code>7</code></p>"
+      },
+      "sort": 40
+    },
+    {
+      "_id": "wYuVm5PJwPZmZUPV",
+      "name": "Arcane Prism",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Position this prism in a location of your choosing. Once activated, any allies that stand within close distance of this prism get +1 to their Spellcast rolls. Once it is deactivated, it can\u2019t be activated again until your next long rest.</p>\n<p></p>\n<p><b>Number:</b> <code>17</code></p>"
+      },
+      "sort": 50
+    },
+    {
+      "_id": "v8Yy5bQWt98X1v6k",
+      "name": "Attune Relic",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Add +1 to your Instinct. You cannot hold any other relics.</p>\n<p></p>\n<p><b>Number:</b> <code>49</code></p>"
+      },
+      "sort": 60
+    },
+    {
+      "_id": "pQrzZlpv5tKBUUdZ",
+      "name": "Bag of Ficklesand",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>This is a small bag of sand that can be convinced to be much heavier or lighter than it should be with a Presence (10) roll. You can also blow sand in the face of an adversary with a Finesse roll to make them temporarily Vulnerable.</p>\n<p></p>\n<p><b>Number:</b> <code>31</code></p>"
+      },
+      "sort": 70
+    },
+    {
+      "_id": "kyXrpU9RIM4vsxJV",
+      "name": "Belt of Unity",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Once per session, you may spend 5 Hope to lead a Tag Team action with 3 PCs instead of 2.</p>\n<p></p>\n<p><b>Number:</b> <code>60</code></p>"
+      },
+      "sort": 80
+    },
+    {
+      "_id": "Q3FuPXMW9gHbmONw",
+      "name": "Bloodstone",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Attach to a weapon. Adds the following feature to a weapon that doesn\u2019t already have a feature: Brutal (If any of your damage dice roll their maximum value, roll an additional damage die of that size.)</p>\n<p></p>\n<p><b>Number:</b> <code>25</code></p>"
+      },
+      "sort": 90
+    },
+    {
+      "_id": "fFG5QkCS5fiB20s2",
+      "name": "Bolster Relic",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Add +1 to your Strength. You cannot hold any other relics.</p>\n<p></p>\n<p><b>Number:</b> <code>42</code></p>"
+      },
+      "sort": 100
+    },
+    {
+      "_id": "KJghmONtP60AWD42",
+      "name": "Box of Many Goods",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>A small box that can only be opened once per long rest. When it is, roll a d12. If you roll a 1-6, it is empty. If you roll a 7-10, it contains one random consumable. If you roll an 11-12, it contains two random consumables.</p>\n<p></p>\n<p><b>Number:</b> <code>34</code></p>"
+      },
+      "sort": 110
+    },
+    {
+      "_id": "ivpgcqwmlSBdBfwl",
+      "name": "Calming Pendant",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>If you should ever have to mark your last stress slot, roll a d6. On a 5+, don\u2019t mark it.</p>\n<p></p>\n<p><b>Number:</b> <code>29</code></p>"
+      },
+      "sort": 120
+    },
+    {
+      "_id": "RlHQZc33yio0u1IF",
+      "name": "Charging Quiver",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>When arrows for a bow are kept in the Charging Quiver, damage rolls using the bow deal +2 damage.</p>\n<p></p>\n<p><b>Number:</b> <code>3</code></p>"
+      },
+      "sort": 130
+    },
+    {
+      "_id": "C9NP5H8xrMDn1reK",
+      "name": "Charm Relic",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Add +1 to your Presence. You cannot hold any other relics.</p>\n<p></p>\n<p><b>Number:</b> <code>44</code></p>"
+      },
+      "sort": 140
+    },
+    {
+      "_id": "J387VeAdAWd1PUYO",
+      "name": "Clay Companion",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>This ball of clay can be sculpted into various animal shapes and will then behave as that animal (a clay spider can spin clay webs, a clay bird can fly). This companion has continuity of memory and self across different shapes but may adopt some mannerisms with each form.</p>\n<p></p>\n<p><b>Number:</b> <code>48</code></p>"
+      },
+      "sort": 150
+    },
+    {
+      "_id": "Nb86J4NQJ2fQJ84e",
+      "name": "Companion Case",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>A carrying case for a small animal companion. While they are inside, the case and the animal are immune to all harm.</p>\n<p></p>\n<p><b>Number:</b> <code>13</code></p>"
+      },
+      "sort": 160
+    },
+    {
+      "_id": "OgIRlUF48kjsk2iL",
+      "name": "Corrector Sprite",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>A tiny sprite who sits in the curve of your ear canal and whispers helpful advice during combat. Once per short rest, you may take advantage on an attack roll. Do not give them your true name.</p>\n<p></p>\n<p><b>Number:</b> <code>21</code></p>"
+      },
+      "sort": 170
+    },
+    {
+      "_id": "f6LOG0C1KdtVtRBe",
+      "name": "Dual Flask",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>A flask that can hold two different liquids. A small button on the side allows the drinker to switch between them.</p>\n<p></p>\n<p><b>Number:</b> <code>30</code></p>"
+      },
+      "sort": 180
+    },
+    {
+      "_id": "v4gy20UdbQVtXncy",
+      "name": "Elusive Amulet",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Once per long rest, activate this to go Hidden until you move from this location. Any enemies who move into line of sight with you while you\u2019re Hidden don\u2019t see you.</p>\n<p></p>\n<p><b>Number:</b> <code>38</code></p>"
+      },
+      "sort": 190
+    },
+    {
+      "_id": "DwXwR8XofFDMKz0a",
+      "name": "Empty Chest",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>A magical chest that will appear empty, even if there are items being kept inside. The owner can use a specific word, phrase, or other trigger when opening the chest to reveal these items.</p>\n<p></p>\n<p><b>Number:</b> <code>12</code></p>"
+      },
+      "sort": 200
+    },
+    {
+      "_id": "dToP747oEEXxSv7m",
+      "name": "Fire Jar",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Pour out strange liquid within the contents of this jar to instantly produce fire. The contents regenerate on your next long rest.</p>\n<p></p>\n<p><b>Number:</b> <code>9</code></p>"
+      },
+      "sort": 210
+    },
+    {
+      "_id": "jJuQVLsYM0bTJZ63",
+      "name": "Flickerfly Pendant",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>While wearing your melee weapons dealing physical damage extend with a gossamer sheen. You can hit creatures up to Very Close range.</p>\n<p></p>\n<p><b>Number:</b> <code>46</code></p>"
+      },
+      "sort": 220
+    },
+    {
+      "_id": "2VlttH3YORgjiC6Q",
+      "name": "Focus Relic",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Add +1 to your Finesse. You cannot hold any other relics.</p>\n<p></p>\n<p><b>Number:</b> <code>43</code></p>"
+      },
+      "sort": 230
+    },
+    {
+      "_id": "2vtrl9CJAEpaA5kZ",
+      "name": "Gecko Gloves",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>You can climb up vertical surfaces and across ceilings.</p>\n<p></p>\n<p><b>Number:</b> <code>22</code></p>"
+      },
+      "sort": 240
+    },
+    {
+      "_id": "jlOG0M2tLEZugghV",
+      "name": "Gem of Alacrity",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Attach to a weapon to allow you to make an Agility roll when using it to attack.</p>\n<p></p>\n<p><b>Number:</b> <code>57</code></p>"
+      },
+      "sort": 250
+    },
+    {
+      "_id": "ZvXSPckrV3Rm2hr7",
+      "name": "Gem of Audacity",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Attach to a weapon to allow you to make a Presence roll when using it to attack.</p>\n<p></p>\n<p><b>Number:</b> <code>53</code></p>"
+      },
+      "sort": 260
+    },
+    {
+      "_id": "2sdG8ZIQIedEZW32",
+      "name": "Gem of Insight",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Attach to a weapon to allow you to make an Instinct roll when using it to attack.</p>\n<p></p>\n<p><b>Number:</b> <code>55</code></p>"
+      },
+      "sort": 270
+    },
+    {
+      "_id": "sTg2Xr2z2342p3sE",
+      "name": "Gem of Might",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Attach to a weapon to allow you to make a Strength roll when using it to attack.</p>\n<p></p>\n<p><b>Number:</b> <code>56</code></p>"
+      },
+      "sort": 280
+    },
+    {
+      "_id": "6cdVzmILk8zaoqxF",
+      "name": "Gem of Precision",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Attach to a weapon to allow you to make a Finesse roll when using it to attack.</p>\n<p></p>\n<p><b>Number:</b> <code>58</code></p>"
+      },
+      "sort": 290
+    },
+    {
+      "_id": "o8pPFAeoFAPtnJmg",
+      "name": "Gem of Sagacity",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Attach to a weapon to allow you to make a Knowledge roll when using it to attack.</p>\n<p></p>\n<p><b>Number:</b> <code>54</code></p>"
+      },
+      "sort": 300
+    },
+    {
+      "_id": "mhMeME7FWRDd8DDB",
+      "name": "Glamor Stone",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Activate this pebble-sized stone to memorize a look - hairdo, makeup, outfit. You may spend a Hope to instantly re-create this look at any time.</p>\n<p></p>\n<p><b>Number:</b> <code>11</code></p>"
+      },
+      "sort": 310
+    },
+    {
+      "_id": "HiawcnqZGMw4bI5n",
+      "name": "Glider",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>A small parachute that can be deployed by marking Stress. It allows the user to glide down from a high place safely to the ground below.</p>\n<p></p>\n<p><b>Number:</b> <code>27</code></p>"
+      },
+      "sort": 320
+    },
+    {
+      "_id": "6TbM4dgFr96pLnNX",
+      "name": "Greatstone",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Attach to a weapon. Adds the following feature to a weapon that doesn\u2019t already have a feature: Powerful (Roll one extra damage die and drop the lowest.)</p>\n<p></p>\n<p><b>Number:</b> <code>26</code></p>"
+      },
+      "sort": 330
+    },
+    {
+      "_id": "cMSPDWHnde5rHay1",
+      "name": "Homing Compasses",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Two compasses that only point at each other no matter how far apart they are.</p>\n<p></p>\n<p><b>Number:</b> <code>20</code></p>"
+      },
+      "sort": 340
+    },
+    {
+      "_id": "T4ZTClwRK3TrShY1",
+      "name": "Honing Relic",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Add +1 to one of your Experiences. You cannot hold any other relics.</p>\n<p></p>\n<p><b>Number:</b> <code>50</code></p>"
+      },
+      "sort": 350
+    },
+    {
+      "_id": "ZiPzUXHs5pZfLaTu",
+      "name": "Hopekeeper Locket",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>During a long rest, if you have 5 Hope, you may spend 1 Hope and imbue the locket with your bountiful resolve. If you ever have 0 Hope, you may use the locket and gain 1 Hope. The locket must then be recharged during a long rest.</p>\n<p></p>\n<p><b>Number:</b> <code>39</code></p>"
+      },
+      "sort": 360
+    },
+    {
+      "_id": "OEFVNtgfENxYn4oQ",
+      "name": "Infinite Bag",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Items put into this bag are stored in a pocket dimension and can be retrieved at any time.</p>\n<p></p>\n<p><b>Number:</b> <code>40</code></p>"
+      },
+      "sort": 370
+    },
+    {
+      "_id": "oxQJwZZOhe9Bu6ko",
+      "name": "Lakestrider Boots",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>You may walk along the surface of water as if it were soft ground.</p>\n<p></p>\n<p><b>Number:</b> <code>47</code></p>"
+      },
+      "sort": 380
+    },
+    {
+      "_id": "kfcOKpTijakjZ3dT",
+      "name": "Lorekeeper",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Store the name of up to three hostile creatures. Next time you face them, take +1 on any action rolls against them.</p>\n<p></p>\n<p><b>Number:</b> <code>23</code></p>"
+      },
+      "sort": 390
+    },
+    {
+      "_id": "NdCRpBHWIZdtzkGX",
+      "name": "Manacles",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>A pair of locking cuffs with a key.</p>\n<p></p>\n<p><b>Number:</b> <code>6</code></p>"
+      },
+      "sort": 400
+    },
+    {
+      "_id": "dNOlJ6ZcdlMoNyWa",
+      "name": "Minor Health Potion Recipe",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>During downtime, spend one of your downtime moves and a handful of gold to craft a Minor Health Potion.</p>\n<p></p>\n<p><b>Number:</b> <code>19</code></p>"
+      },
+      "sort": 410
+    },
+    {
+      "_id": "qPhtwzReTopsGC4w",
+      "name": "Minor Stamina Potion Recipe",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>During downtime, spend one of your downtime moves and a handful of gold to craft a Minor Stamina Potion.</p>\n<p></p>\n<p><b>Number:</b> <code>18</code></p>"
+      },
+      "sort": 420
+    },
+    {
+      "_id": "gzAJbaOcAfJvYLNF",
+      "name": "Mythic Dust Recipe",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>During downtime, spend one of your downtime moves and a bag of gold to craft Mythic Dust.</p>\n<p></p>\n<p><b>Number:</b> <code>51</code></p>"
+      },
+      "sort": 430
+    },
+    {
+      "_id": "v6UgPg3BFL8SrAQ6",
+      "name": "Paragon\u2019s Chain",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Once per long rest, you may use a downtime move to meditate on an ideal or principle you hold dear and focus your will into the chain. Until your next long rest, you can spend a Hope to use a d20 as your Hope die for rolls that directly align with that principle.</p>\n<p></p>\n<p><b>Number:</b> <code>37</code></p>"
+      },
+      "sort": 440
+    },
+    {
+      "_id": "Yc7AJXjvTTFY6TPz",
+      "name": "Phoenix Feather",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>While you have any quantity of Phoenix Feathers, when you drop unconscious and roll to see if you take a scar, always take +1 to the die result.</p>\n<p></p>\n<p><b>Number:</b> <code>33</code></p>"
+      },
+      "sort": 450
+    },
+    {
+      "_id": "MonuaMRRH2LMyLLA",
+      "name": "Piercing Arrows",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>When firing a bow, you may use Piercing Arrows to add your proficiency to your damage roll. 3 uses per short rest. \u3007 \u3007 \u3007</p>\n<p></p>\n<p><b>Number:</b> <code>14</code></p>"
+      },
+      "sort": 460
+    },
+    {
+      "_id": "FvDqAjN65G1MniBs",
+      "name": "Piper Whistle",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>A handcrafted whistle. Each have a distinctive sound, and the piercing tone can be heard across a one mile radius.</p>\n<p></p>\n<p><b>Number:</b> <code>2</code></p>"
+      },
+      "sort": 470
+    },
+    {
+      "_id": "gpqeEbQGXWnGGTdJ",
+      "name": "Portal Seed",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Plant this in the ground to grow a portal in this spot. The portal will be ready to use in 24 hours and you may travel to any other spot you\u2019ve planted a portal seed. A portal may be destroyed by dealing any amount of magic damage to it.</p>\n<p></p>\n<p><b>Number:</b> <code>36</code></p>"
+      },
+      "sort": 480
+    },
+    {
+      "_id": "l1K25pDA1YVxQaAz",
+      "name": "Premium Bedroll",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>During any rests, you always automatically clear 1 stress.</p>\n<p></p>\n<p><b>Number:</b> <code>1</code></p>"
+      },
+      "sort": 490
+    },
+    {
+      "_id": "LBzntKRo8wSjaw5O",
+      "name": "Ring of Resistance",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Once per long rest, activate this ring to only take half damage on an incoming attack.</p>\n<p></p>\n<p><b>Number:</b> <code>32</code></p>"
+      },
+      "sort": 500
+    },
+    {
+      "_id": "PgTioIvUNuKOWQmB",
+      "name": "Ring of Silence",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Spend a Hope to activate this ring until your next short rest. Your footsteps are silent.</p>\n<p></p>\n<p><b>Number:</b> <code>28</code></p>"
+      },
+      "sort": 510
+    },
+    {
+      "_id": "8dmlCwvbny5kmCt4",
+      "name": "Ring of Unbreakable Resolve",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Once per session, when the GM spends 1 Fear, you can spend 4 Hope to cancel the effects of that spent Fear.</p>\n<p></p>\n<p><b>Number:</b> <code>59</code></p>"
+      },
+      "sort": 520
+    },
+    {
+      "_id": "tiKJTWfFsKnN9SUL",
+      "name": "Shard of Memory",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Once per long rest, spend 2 Hope to recall a Domain card from your vault instead of payings its Recall Cost.</p>\n<p></p>\n<p><b>Number:</b> <code>52</code></p>"
+      },
+      "sort": 530
+    },
+    {
+      "_id": "Pov7Cphqm5pvEHy6",
+      "name": "Sharp Relic",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Add +1 to your Knowledge. You cannot hold any other relics.</p>\n<p></p>\n<p><b>Number:</b> <code>45</code></p>"
+      },
+      "sort": 540
+    },
+    {
+      "_id": "imbFtL4oDoRBae6Z",
+      "name": "Skeleton Key",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Use this to make a Finesse roll at advantage when attempting to open a locked door.</p>\n<p></p>\n<p><b>Number:</b> <code>16</code></p>"
+      },
+      "sort": 550
+    },
+    {
+      "_id": "jmaGrZ4OcHHUtSg8",
+      "name": "Speaking Orbs",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>A pair of orbs that allow any creatures holding them to communicate with each other across any distance.</p>\n<p></p>\n<p><b>Number:</b> <code>5</code></p>"
+      },
+      "sort": 560
+    },
+    {
+      "_id": "qXJPqEMpyp1TT5wj",
+      "name": "Stride Relic",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Add +1 to your Agility. You cannot hold any other relics.</p>\n<p></p>\n<p><b>Number:</b> <code>41</code></p>"
+      },
+      "sort": 570
+    },
+    {
+      "_id": "cSHwjH1e0Van0IMF",
+      "name": "Suspended Rod",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>A flat rod inscribed with runes. When it is activated, it is immediately suspended in place where it is. It cannot move, does not abide by the rules of gravity, and will remain in place until it is deactivated.</p>\n<p></p>\n<p><b>Number:</b> <code>10</code></p>"
+      },
+      "sort": 580
+    },
+    {
+      "_id": "gfKxxnttpzaxCXTb",
+      "name": "Valorstone",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Attach to armor. Adds the following feature to armor that doesn\u2019t already have a feature: Resilient (Before you mark your last armor slot, roll a d6. On a 6, you use the armor without marking the slot.)</p>\n<p></p>\n<p><b>Number:</b> <code>15</code></p>"
+      },
+      "sort": 590
+    },
+    {
+      "_id": "5tIAHgKK7I6lFGZK",
+      "name": "Vial of Darksmoke Recipe",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>During downtime, spend one of your downtime moves and mark a stress to craft a Vial of Darksmoke.</p>\n<p></p>\n<p><b>Number:</b> <code>24</code></p>"
+      },
+      "sort": 600
+    },
+    {
+      "_id": "fUkytSHlDiZk8R1F",
+      "name": "Woven Net",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>A net that can be used to trap small creatures. To use it, make a Finesse roll. On a success, the difficulty to break free is 16.</p>\n<p></p>\n<p><b>Number:</b> <code>8</code></p>"
+      },
+      "sort": 610
+    }
+  ]
 }

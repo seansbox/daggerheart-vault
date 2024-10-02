@@ -1,0 +1,16 @@
+<table>
+<thead>
+  <tr>
+    <th>Armor</th>
+    <th>Description</th>
+  </tr>
+</thead>
+<tbody>
+  {% for row in rows %}
+  <tr>
+    <td>@UUID[.{{ row.Name | hashify }}]<br><i>Tier {{ row.Tier }}</i></td>
+    <td><b>Base {{ row.Base }}</b>{% if row.Feature %} | {{ row.Feature }}{% endif %}</td>
+  </tr>
+  {% endfor %}
+</tbody>
+</table>

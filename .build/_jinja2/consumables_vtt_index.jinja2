@@ -1,0 +1,24 @@
+<ul>
+<li><b>Common:</b> [[/roll 1d12 # Consumable]] or [[/roll 2d12 # Consumable]]</li>
+<li><b>Uncommon:</b> [[/roll 2d12 # Consumable]] or [[/roll 3d12 # Consumable]]</li>
+<li><b>Rare:</b> [[/roll 3d12 # Consumable]] or [[/roll 4d12 # Consumable]]</li>
+<li><b>Legendary:</b> [[/roll 4d12 # Consumable]] or [[/roll 5d12 # Consumable]]</li>
+</ul>
+<table>
+<thead>
+  <tr>
+    <th>#</th>
+    <th>Consumable</th>
+    <th>Description</th>
+  </tr>
+</thead>
+<tbody>
+  {% for row in rows %}
+  <tr>
+    <td>{{ row.Number }}</td>
+    <td>@UUID[.{{ row.Name | hashify }}]</td>
+    <td>{{ row.Description }}</td>
+  </tr>
+  {% endfor %}
+</tbody>
+</table>

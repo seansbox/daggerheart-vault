@@ -1,0 +1,28 @@
+<p><strong>Tier {{ Tier }} {{ PhysicalOrMagic }}</strong></p>
+<p></p>
+
+<table>
+<thead>
+  <tr>
+    <th style="text-align: center">Trait</th>
+    <th style="text-align: center">Burden</th>
+    <th style="text-align: center">Range</th>
+    <th style="text-align: center">Damage</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center">{{ Trait }}</td>
+    <td style="text-align: center">{{ Burden }}</td>
+    <td style="text-align: center">{{ Range }}</td>
+    <td style="text-align: center">{{ Damage }}</td>
+  </tr>
+</tbody>
+</table>
+
+<p></p>
+{% if Feature %}
+<p><strong>Feature:</strong> {{ Feature }}</p>
+{% else %}
+<p><strong>Feature:</strong> None</p>
+{% endif %}

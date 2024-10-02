@@ -1,4 +1,859 @@
 {
   "name": "Consumables",
-  "pages": []
+  "pages": [
+    {
+      "_id": "shqXyKXnm2CUOgq6",
+      "name": "Consumables Index",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<ul>\n<li><b>Common:</b> [[/roll 1d12 # Consumable]] or [[/roll 2d12 # Consumable]]</li>\n<li><b>Uncommon:</b> [[/roll 2d12 # Consumable]] or [[/roll 3d12 # Consumable]]</li>\n<li><b>Rare:</b> [[/roll 3d12 # Consumable]] or [[/roll 4d12 # Consumable]]</li>\n<li><b>Legendary:</b> [[/roll 4d12 # Consumable]] or [[/roll 5d12 # Consumable]]</li>\n</ul>\n<table>\n<thead>\n  <tr>\n    <th>#</th>\n    <th>Consumable</th>\n    <th>Description</th>\n  </tr>\n</thead>\n<tbody>\n  \n  <tr>\n    <td>1</td>\n    <td>@UUID[.Fh6jmbvL9BslhfVJ]</td>\n    <td>Take a +1 to your next Agility roll.</td>\n  </tr>\n  \n  <tr>\n    <td>2</td>\n    <td>@UUID[.bXgc7v6K24WgtemM]</td>\n    <td>Take a +1 to your next Strength roll.</td>\n  </tr>\n  \n  <tr>\n    <td>3</td>\n    <td>@UUID[.QXBcR5hpqWMi1Z2p]</td>\n    <td>Take a +1 to your next Finesse roll.</td>\n  </tr>\n  \n  <tr>\n    <td>4</td>\n    <td>@UUID[.tmP7bHuUp8CZSL65]</td>\n    <td>Take a +1 to your next Presence roll.</td>\n  </tr>\n  \n  <tr>\n    <td>5</td>\n    <td>@UUID[.VzDemffOtYIxmqFk]</td>\n    <td>Take a +1 to your next Knowledge roll.</td>\n  </tr>\n  \n  <tr>\n    <td>6</td>\n    <td>@UUID[.8nHChJhvwTnEMKBA]</td>\n    <td>Take a +1 to your next Instinct roll.</td>\n  </tr>\n  \n  <tr>\n    <td>7</td>\n    <td>@UUID[.RetuuwgUTRp8W8ls]</td>\n    <td>Immediately clear 1d4 hit points.</td>\n  </tr>\n  \n  <tr>\n    <td>8</td>\n    <td>@UUID[.thpn9mPJqm7tB9Tq]</td>\n    <td>Immediately clear 1d4 stress.</td>\n  </tr>\n  \n  <tr>\n    <td>9</td>\n    <td>@UUID[.7Ipex0Crus5pfKPz]</td>\n    <td>Apply to physical weapon to add +1d6 to its next damage roll.</td>\n  </tr>\n  \n  <tr>\n    <td>10</td>\n    <td>@UUID[.RtuTptzLix2Aql3K]</td>\n    <td>Immediately gain 2 hope.</td>\n  </tr>\n  \n  <tr>\n    <td>11</td>\n    <td>@UUID[.LpF9gsqCT3Pyir9j]</td>\n    <td>See in total darkness until your next short rest.</td>\n  </tr>\n  \n  <tr>\n    <td>12</td>\n    <td>@UUID[.U6bN2Xg55UHNcWbN]</td>\n    <td>Use Finesse to throw at a group of enemies within Far range. Any you succeed against take 1d20 magic damage.</td>\n  </tr>\n  \n  <tr>\n    <td>13</td>\n    <td>@UUID[.NqRSGTDhKzVxJvTW]</td>\n    <td>On use, take one additional downtime move.</td>\n  </tr>\n  \n  <tr>\n    <td>14</td>\n    <td>@UUID[.jTVMjT1dU8OnLk45]</td>\n    <td>Apply to physical weapon to add +1d8 to its next damage roll.</td>\n  </tr>\n  \n  <tr>\n    <td>15</td>\n    <td>@UUID[.2vjxIX1HwTkWSJyU]</td>\n    <td>Spend one Hope. The person using this item can alter their face to change their facial features enough to make them unrecognizable until their next short rest.</td>\n  </tr>\n  \n  <tr>\n    <td>16</td>\n    <td>@UUID[.oPPA2D9fuvfOclBe]</td>\n    <td>Use during an incoming attack to roll a number of d6 equal to your Agility score. Add the highest result to your Evasion score against the attack.</td>\n  </tr>\n  \n  <tr>\n    <td>17</td>\n    <td>@UUID[.y2oDdYx6Pa1zwvqy]</td>\n    <td>You can leap to anywhere within Far range without needing to roll. This effect ends when you land there.</td>\n  </tr>\n  \n  <tr>\n    <td>18</td>\n    <td>@UUID[.1MXhT5nraINjUMIO]</td>\n    <td>Mark stress and clear a hit point.</td>\n  </tr>\n  \n  <tr>\n    <td>19</td>\n    <td>@UUID[.N5lZezWwCvvWh301]</td>\n    <td>Immediately clear 1+1d4 hit points.</td>\n  </tr>\n  \n  <tr>\n    <td>20</td>\n    <td>@UUID[.Wi6Pcjiju5eJAWU1]</td>\n    <td>Immediately clear 1+1d4 stress.</td>\n  </tr>\n  \n  <tr>\n    <td>21</td>\n    <td>@UUID[.hJkjpRoIkICoTZV9]</td>\n    <td>Use this to spend any number of Hope and repair that many armor slots.</td>\n  </tr>\n  \n  <tr>\n    <td>22</td>\n    <td>@UUID[.njA3xeHTXIpdMoJv]</td>\n    <td>You can breathe underwater for a number of minutes equal to your level.</td>\n  </tr>\n  \n  <tr>\n    <td>23</td>\n    <td>@UUID[.3hCbyNTe5wH8hmQA]</td>\n    <td>When you touch this piece of parchment to another, it will copy it exactly. Once it's made into this copy, it is no longer Replication Parchment.</td>\n  </tr>\n  \n  <tr>\n    <td>24</td>\n    <td>@UUID[.3NCSBzC2rjlam1Au]</td>\n    <td>Use Finesse to throw at a group of enemies within Far range. Any you succeed against take 2d20 magic damage.</td>\n  </tr>\n  \n  <tr>\n    <td>25</td>\n    <td>@UUID[.rqtJIP5OhCYJJ7fc]</td>\n    <td>Take a +1 to Agility until your next short rest.</td>\n  </tr>\n  \n  <tr>\n    <td>26</td>\n    <td>@UUID[.cYNw9rboVJ8YH5Yw]</td>\n    <td>Take a +1 to Strength until your next short rest.</td>\n  </tr>\n  \n  <tr>\n    <td>27</td>\n    <td>@UUID[.Qy10XzK4AxataLAo]</td>\n    <td>Take a +1 to Finesse until your next short rest.</td>\n  </tr>\n  \n  <tr>\n    <td>28</td>\n    <td>@UUID[.4IjxZ71B5do4CszL]</td>\n    <td>Take a +1 to Presence until your next short rest.</td>\n  </tr>\n  \n  <tr>\n    <td>29</td>\n    <td>@UUID[.tphA082hzWHYhwwc]</td>\n    <td>Take a +1 to Knowledge until your next short rest.</td>\n  </tr>\n  \n  <tr>\n    <td>30</td>\n    <td>@UUID[.WwRDkFRwO19Q4iHT]</td>\n    <td>Take a +1 to Instinct until your next short rest.</td>\n  </tr>\n  \n  <tr>\n    <td>31</td>\n    <td>@UUID[.NKiS84ChUWyPsS5U]</td>\n    <td>Disappear from where you are and immediately reappear anywhere within very far distance.</td>\n  </tr>\n  \n  <tr>\n    <td>32</td>\n    <td>@UUID[.AqNRrRF2DUwn42Fo]</td>\n    <td>After consuming, on the next successful attack you make that deals magic damage, treat the damage as you would on a critical success.</td>\n  </tr>\n  \n  <tr>\n    <td>33</td>\n    <td>@UUID[.beLbjUjKV20F2kMe]</td>\n    <td>Apply to physical weapon to add +1d12 to its next damage roll.</td>\n  </tr>\n  \n  <tr>\n    <td>34</td>\n    <td>@UUID[.KbNE5WPA4vthc45D]</td>\n    <td>Take a spell or grimoire from your vault and use it once, then return it to your vault.</td>\n  </tr>\n  \n  <tr>\n    <td>35</td>\n    <td>@UUID[.niosKe2d5t4PRXwN]</td>\n    <td>Apply to a magic weapon to add +1d12 to its next damage roll.</td>\n  </tr>\n  \n  <tr>\n    <td>36</td>\n    <td>@UUID[.gDSIT8ci6aqpSW58]</td>\n    <td>Eats away walls and other surfaces in bright flashes.</td>\n  </tr>\n  \n  <tr>\n    <td>37</td>\n    <td>@UUID[.ZOvonhsInzpbwB2d]</td>\n    <td>On use, allies within close distance always rolls a d6 when they spend a Hope. On a 6, they get the effect of that Hope without spending it. This lasts until your next short rest.</td>\n  </tr>\n  \n  <tr>\n    <td>38</td>\n    <td>@UUID[.DMhKjogYsRni3ydV]</td>\n    <td>Use Finesse to throw at a group of enemies within Far range. Any you succeed against take 4d20 magic damage.</td>\n  </tr>\n  \n  <tr>\n    <td>39</td>\n    <td>@UUID[.oF0xpEohpKF4Lqch]</td>\n    <td>Control your falling speed for a number of minutes equal to your level.</td>\n  </tr>\n  \n  <tr>\n    <td>40</td>\n    <td>@UUID[.fS8t9t8Ebj4Dy3fz]</td>\n    <td>Mark stress. Magical spells are temporarily unable to be cast everywhere within far distance of this object. Everything within this range is immune to magic damage.</td>\n  </tr>\n  \n  <tr>\n    <td>41</td>\n    <td>@UUID[.oh6m9ONMdBvBBzY1]</td>\n    <td>Roll 1d6. On a 5-6, clear two Hit Points. On a 2-5, clear three stress. On a 1, see the Veil of Death and return changed, taking one Scar.</td>\n  </tr>\n  \n  <tr>\n    <td>42</td>\n    <td>@UUID[.L6W0FigU1CuZfaoR]</td>\n    <td>Does 8d10 direct magic damage to a creature who consumes it.</td>\n  </tr>\n  \n  <tr>\n    <td>43</td>\n    <td>@UUID[.dXgJ7E5XF16Rc8Ik]</td>\n    <td>Immediately clear 2+1d4 hit points.</td>\n  </tr>\n  \n  <tr>\n    <td>44</td>\n    <td>@UUID[.fqsRq1Ua180Smsqd]</td>\n    <td>Immediately clear 2+1d4 stress.</td>\n  </tr>\n  \n  <tr>\n    <td>45</td>\n    <td>@UUID[.1dWFFcsNhfiM1yc1]</td>\n    <td>Keep from anybody from tracking you by physical or magic means until your next short rest.</td>\n  </tr>\n  \n  <tr>\n    <td>46</td>\n    <td>@UUID[.xRpZGNU5m3JUPZgA]</td>\n    <td>You gain magic wings that allow you to fly for a number of minutes equal to your level.</td>\n  </tr>\n  \n  <tr>\n    <td>47</td>\n    <td>@UUID[.fPCa1RY9ADspXPus]</td>\n    <td>Release the voices to create a deafening echo of sound for a number of minutes equal to your Instinct score. Anyone within far distance unprepared for the sound automatically takes 6d8 magic damage.</td>\n  </tr>\n  \n  <tr>\n    <td>48</td>\n    <td>@UUID[.tjoAsOMeKia6X21z]</td>\n    <td>Make a fiery breath attack on all close enemies in front of you. Make an Instinct roll against the targets. On a success, deal d20 physical damage.</td>\n  </tr>\n  \n  <tr>\n    <td>49</td>\n    <td>@UUID[.SFqzSbkxEFYyhSiY]</td>\n    <td>Thick vines grow slowly from where you are standing to somewhere else within far distance, allowing you to climb up or across safely. It dissipates at your next short rest.</td>\n  </tr>\n  \n  <tr>\n    <td>50</td>\n    <td>@UUID[.CZDuqWIbRZ2SGsgb]</td>\n    <td>Puts a willing creature to sleep for a full night's rest. When they awaken, they have all stress cleared.</td>\n  </tr>\n  \n  <tr>\n    <td>51</td>\n    <td>@UUID[.ZkkVvVP3hTfaVM83]</td>\n    <td>Provides a single meal for the party that clears all hit points and stress, and gives 1d4 of hope.</td>\n  </tr>\n  \n  <tr>\n    <td>52</td>\n    <td>@UUID[.j32Y05zx43LxupxF]</td>\n    <td>Glues two objects together permanently.</td>\n  </tr>\n  \n  <tr>\n    <td>53</td>\n    <td>@UUID[.wR8XFj1iRkjst1FW]</td>\n    <td>Reduces the drinker\u2019s size in half until they choose to drop this form or take their next short rest. Take +2 Agility.</td>\n  </tr>\n  \n  <tr>\n    <td>54</td>\n    <td>@UUID[.1YkOHlQbNUaOkfKw]</td>\n    <td>Makes the drinker twice as large until they choose to drop this form or take their next short rest. Take +2 Strength.</td>\n  </tr>\n  \n  <tr>\n    <td>55</td>\n    <td>@UUID[.opW1VI9Cdw7FTIbK]</td>\n    <td>If you die while holding this stone, one ally may take a card from your loadout to place in their own loadout or vault. When they take this knowledge, the stone crumbles.</td>\n  </tr>\n  \n  <tr>\n    <td>56</td>\n    <td>@UUID[.yY7Gu90LrZ83jmcW]</td>\n    <td>Consume during a short rest to clear an additional 1d4 hit points or 1d4 stress.</td>\n  </tr>\n  \n  <tr>\n    <td>57</td>\n    <td>@UUID[.wwSgYyYPWLIQLIe3]</td>\n    <td>Creates a flash of bright light that causes all creatures in Close range to be Vulnerable until they next take Hit Point damage.</td>\n  </tr>\n  \n  <tr>\n    <td>58</td>\n    <td>@UUID[.dUHXnB5NHYYbG6gF]</td>\n    <td>Any critical successes on an attack roll automatically kill the creature you're facing. If you don't get any critical successes on an attack roll before your next long rest, you die.</td>\n  </tr>\n  \n  <tr>\n    <td>59</td>\n    <td>@UUID[.LNIZvmj7lZBagBKw]</td>\n    <td>Spend hope to negate all incoming damage, shattering the mirror. You may also mark a Stress before it shatters to attempt to reflect it back to the attacker. If you do, make an attack roll using Finesse.</td>\n  </tr>\n  \n  <tr>\n    <td>60</td>\n    <td>@UUID[.sVRHPWsHK6Qy7q5L]</td>\n    <td>On use, it summons a hailstorm of comets that automatically deal 8d20 physical damage to all creatures within Very Rar range of where it was triggered.</td>\n  </tr>\n  \n</tbody>\n</table>"
+      },
+      "sort": 10
+    },
+    {
+      "_id": "gDSIT8ci6aqpSW58",
+      "name": "Acidpaste",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Eats away walls and other surfaces in bright flashes.</p>\n<p></p>\n<p><b>Number:</b> <code>36</code></p>"
+      },
+      "sort": 20
+    },
+    {
+      "_id": "hJkjpRoIkICoTZV9",
+      "name": "Armor Stitcher",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Use this to spend any number of Hope and repair that many armor slots.</p>\n<p></p>\n<p><b>Number:</b> <code>21</code></p>"
+      },
+      "sort": 30
+    },
+    {
+      "_id": "8nHChJhvwTnEMKBA",
+      "name": "Attune Potion",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Take a +1 to your next Instinct roll.</p>\n<p></p>\n<p><b>Number:</b> <code>6</code></p>"
+      },
+      "sort": 40
+    },
+    {
+      "_id": "wwSgYyYPWLIQLIe3",
+      "name": "Blinding Orb",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Creates a flash of bright light that causes all creatures in Close range to be Vulnerable until they next take Hit Point damage.</p>\n<p></p>\n<p><b>Number:</b> <code>57</code></p>"
+      },
+      "sort": 50
+    },
+    {
+      "_id": "NKiS84ChUWyPsS5U",
+      "name": "Blood of the Yorgi",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Disappear from where you are and immediately reappear anywhere within very far distance.</p>\n<p></p>\n<p><b>Number:</b> <code>31</code></p>"
+      },
+      "sort": 60
+    },
+    {
+      "_id": "bXgc7v6K24WgtemM",
+      "name": "Bolster Potion",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Take a +1 to your next Strength roll.</p>\n<p></p>\n<p><b>Number:</b> <code>2</code></p>"
+      },
+      "sort": 70
+    },
+    {
+      "_id": "j32Y05zx43LxupxF",
+      "name": "Bonding Honey",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Glues two objects together permanently.</p>\n<p></p>\n<p><b>Number:</b> <code>52</code></p>"
+      },
+      "sort": 80
+    },
+    {
+      "_id": "SFqzSbkxEFYyhSiY",
+      "name": "Bridge Seed",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Thick vines grow slowly from where you are standing to somewhere else within far distance, allowing you to climb up or across safely. It dissipates at your next short rest.</p>\n<p></p>\n<p><b>Number:</b> <code>49</code></p>"
+      },
+      "sort": 90
+    },
+    {
+      "_id": "KbNE5WPA4vthc45D",
+      "name": "Channelstone",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Take a spell or grimoire from your vault and use it once, then return it to your vault.</p>\n<p></p>\n<p><b>Number:</b> <code>34</code></p>"
+      },
+      "sort": 100
+    },
+    {
+      "_id": "tmP7bHuUp8CZSL65",
+      "name": "Charm Potion",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Take a +1 to your next Presence roll.</p>\n<p></p>\n<p><b>Number:</b> <code>4</code></p>"
+      },
+      "sort": 110
+    },
+    {
+      "_id": "fS8t9t8Ebj4Dy3fz",
+      "name": "Circle of the Void",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Mark stress. Magical spells are temporarily unable to be cast everywhere within far distance of this object. Everything within this range is immune to magic damage.</p>\n<p></p>\n<p><b>Number:</b> <code>40</code></p>"
+      },
+      "sort": 120
+    },
+    {
+      "_id": "dUHXnB5NHYYbG6gF",
+      "name": "Death Tea",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Any critical successes on an attack roll automatically kill the creature you're facing. If you don't get any critical successes on an attack roll before your next long rest, you die.</p>\n<p></p>\n<p><b>Number:</b> <code>58</code></p>"
+      },
+      "sort": 130
+    },
+    {
+      "_id": "tjoAsOMeKia6X21z",
+      "name": "Dragonbloom Tea",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Make a fiery breath attack on all close enemies in front of you. Make an Instinct roll against the targets. On a success, deal d20 physical damage.</p>\n<p></p>\n<p><b>Number:</b> <code>48</code></p>"
+      },
+      "sort": 140
+    },
+    {
+      "_id": "L6W0FigU1CuZfaoR",
+      "name": "Dripfang Poison",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Does 8d10 direct magic damage to a creature who consumes it.</p>\n<p></p>\n<p><b>Number:</b> <code>42</code></p>"
+      },
+      "sort": 150
+    },
+    {
+      "_id": "ZkkVvVP3hTfaVM83",
+      "name": "Feast of Xuria",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Provides a single meal for the party that clears all hit points and stress, and gives 1d4 of hope.</p>\n<p></p>\n<p><b>Number:</b> <code>51</code></p>"
+      },
+      "sort": 160
+    },
+    {
+      "_id": "oF0xpEohpKF4Lqch",
+      "name": "Featherbone",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Control your falling speed for a number of minutes equal to your level.</p>\n<p></p>\n<p><b>Number:</b> <code>39</code></p>"
+      },
+      "sort": 170
+    },
+    {
+      "_id": "QXBcR5hpqWMi1Z2p",
+      "name": "Focus Potion",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Take a +1 to your next Finesse roll.</p>\n<p></p>\n<p><b>Number:</b> <code>3</code></p>"
+      },
+      "sort": 180
+    },
+    {
+      "_id": "njA3xeHTXIpdMoJv",
+      "name": "Gill Salve",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>You can breathe underwater for a number of minutes equal to your level.</p>\n<p></p>\n<p><b>Number:</b> <code>22</code></p>"
+      },
+      "sort": 190
+    },
+    {
+      "_id": "7Ipex0Crus5pfKPz",
+      "name": "Grindletooth Venom",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Apply to physical weapon to add +1d6 to its next damage roll.</p>\n<p></p>\n<p><b>Number:</b> <code>9</code></p>"
+      },
+      "sort": 200
+    },
+    {
+      "_id": "1YkOHlQbNUaOkfKw",
+      "name": "Growing Potion",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Makes the drinker twice as large until they choose to drop this form or take their next short rest. Take +2 Strength.</p>\n<p></p>\n<p><b>Number:</b> <code>54</code></p>"
+      },
+      "sort": 210
+    },
+    {
+      "_id": "N5lZezWwCvvWh301",
+      "name": "Health Potion",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Immediately clear 1+1d4 hit points.</p>\n<p></p>\n<p><b>Number:</b> <code>19</code></p>"
+      },
+      "sort": 220
+    },
+    {
+      "_id": "AqNRrRF2DUwn42Fo",
+      "name": "Homet's Secret Potion",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>After consuming, on the next successful attack you make that deals magic damage, treat the damage as you would on a critical success.</p>\n<p></p>\n<p><b>Number:</b> <code>32</code></p>"
+      },
+      "sort": 230
+    },
+    {
+      "_id": "ZOvonhsInzpbwB2d",
+      "name": "Hopehold Flare",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>On use, allies within close distance always rolls a d6 when they spend a Hope. On a 6, they get the effect of that Hope without spending it. This lasts until your next short rest.</p>\n<p></p>\n<p><b>Number:</b> <code>37</code></p>"
+      },
+      "sort": 240
+    },
+    {
+      "_id": "3NCSBzC2rjlam1Au",
+      "name": "Improved Arcane Shard",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Use Finesse to throw at a group of enemies within Far range. Any you succeed against take 2d20 magic damage.</p>\n<p></p>\n<p><b>Number:</b> <code>24</code></p>"
+      },
+      "sort": 250
+    },
+    {
+      "_id": "jTVMjT1dU8OnLk45",
+      "name": "Improved Grindletooth Venom",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Apply to physical weapon to add +1d8 to its next damage roll.</p>\n<p></p>\n<p><b>Number:</b> <code>14</code></p>"
+      },
+      "sort": 260
+    },
+    {
+      "_id": "fPCa1RY9ADspXPus",
+      "name": "Jar of Lost Voices",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Release the voices to create a deafening echo of sound for a number of minutes equal to your Instinct score. Anyone within far distance unprepared for the sound automatically takes 6d8 magic damage.</p>\n<p></p>\n<p><b>Number:</b> <code>47</code></p>"
+      },
+      "sort": 270
+    },
+    {
+      "_id": "y2oDdYx6Pa1zwvqy",
+      "name": "Jumping Root",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>You can leap to anywhere within Far range without needing to roll. This effect ends when you land there.</p>\n<p></p>\n<p><b>Number:</b> <code>17</code></p>"
+      },
+      "sort": 280
+    },
+    {
+      "_id": "opW1VI9Cdw7FTIbK",
+      "name": "Knowledge Stone",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>If you die while holding this stone, one ally may take a card from your loadout to place in their own loadout or vault. When they take this knowledge, the stone crumbles.</p>\n<p></p>\n<p><b>Number:</b> <code>55</code></p>"
+      },
+      "sort": 290
+    },
+    {
+      "_id": "DMhKjogYsRni3ydV",
+      "name": "Major Arcane Shard",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Use Finesse to throw at a group of enemies within Far range. Any you succeed against take 4d20 magic damage.</p>\n<p></p>\n<p><b>Number:</b> <code>38</code></p>"
+      },
+      "sort": 300
+    },
+    {
+      "_id": "WwRDkFRwO19Q4iHT",
+      "name": "Major Attune Potion",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Take a +1 to Instinct until your next short rest.</p>\n<p></p>\n<p><b>Number:</b> <code>30</code></p>"
+      },
+      "sort": 310
+    },
+    {
+      "_id": "cYNw9rboVJ8YH5Yw",
+      "name": "Major Bolster Potion",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Take a +1 to Strength until your next short rest.</p>\n<p></p>\n<p><b>Number:</b> <code>26</code></p>"
+      },
+      "sort": 320
+    },
+    {
+      "_id": "Qy10XzK4AxataLAo",
+      "name": "Major Focus Potion",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Take a +1 to Finesse until your next short rest.</p>\n<p></p>\n<p><b>Number:</b> <code>27</code></p>"
+      },
+      "sort": 330
+    },
+    {
+      "_id": "dXgJ7E5XF16Rc8Ik",
+      "name": "Major Health Potion",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Immediately clear 2+1d4 hit points.</p>\n<p></p>\n<p><b>Number:</b> <code>43</code></p>"
+      },
+      "sort": 340
+    },
+    {
+      "_id": "tphA082hzWHYhwwc",
+      "name": "Major Sharp Potion",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Take a +1 to Knowledge until your next short rest.</p>\n<p></p>\n<p><b>Number:</b> <code>29</code></p>"
+      },
+      "sort": 350
+    },
+    {
+      "_id": "fqsRq1Ua180Smsqd",
+      "name": "Major Stamina Potion",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Immediately clear 2+1d4 stress.</p>\n<p></p>\n<p><b>Number:</b> <code>44</code></p>"
+      },
+      "sort": 360
+    },
+    {
+      "_id": "rqtJIP5OhCYJJ7fc",
+      "name": "Major Stride Potion",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Take a +1 to Agility until your next short rest.</p>\n<p></p>\n<p><b>Number:</b> <code>25</code></p>"
+      },
+      "sort": 370
+    },
+    {
+      "_id": "4IjxZ71B5do4CszL",
+      "name": "Major Umbra Potion",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Take a +1 to Presence until your next short rest.</p>\n<p></p>\n<p><b>Number:</b> <code>28</code></p>"
+      },
+      "sort": 380
+    },
+    {
+      "_id": "RetuuwgUTRp8W8ls",
+      "name": "Minor Health Potion",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Immediately clear 1d4 hit points.</p>\n<p></p>\n<p><b>Number:</b> <code>7</code></p>"
+      },
+      "sort": 390
+    },
+    {
+      "_id": "thpn9mPJqm7tB9Tq",
+      "name": "Minor Stamina Potion",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Immediately clear 1d4 stress.</p>\n<p></p>\n<p><b>Number:</b> <code>8</code></p>"
+      },
+      "sort": 400
+    },
+    {
+      "_id": "LNIZvmj7lZBagBKw",
+      "name": "Mirror of Marigold",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Spend hope to negate all incoming damage, shattering the mirror. You may also mark a Stress before it shatters to attempt to reflect it back to the attacker. If you do, make an attack roll using Finesse.</p>\n<p></p>\n<p><b>Number:</b> <code>59</code></p>"
+      },
+      "sort": 410
+    },
+    {
+      "_id": "2vjxIX1HwTkWSJyU",
+      "name": "Morphing Clay",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Spend one Hope. The person using this item can alter their face to change their facial features enough to make them unrecognizable until their next short rest.</p>\n<p></p>\n<p><b>Number:</b> <code>15</code></p>"
+      },
+      "sort": 420
+    },
+    {
+      "_id": "niosKe2d5t4PRXwN",
+      "name": "Mythic Dust",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Apply to a magic weapon to add +1d12 to its next damage roll.</p>\n<p></p>\n<p><b>Number:</b> <code>35</code></p>"
+      },
+      "sort": 430
+    },
+    {
+      "_id": "1dWFFcsNhfiM1yc1",
+      "name": "Ogre Musk",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Keep from anybody from tracking you by physical or magic means until your next short rest.</p>\n<p></p>\n<p><b>Number:</b> <code>45</code></p>"
+      },
+      "sort": 440
+    },
+    {
+      "_id": "NqRSGTDhKzVxJvTW",
+      "name": "Potion of Stability",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>On use, take one additional downtime move.</p>\n<p></p>\n<p><b>Number:</b> <code>13</code></p>"
+      },
+      "sort": 450
+    },
+    {
+      "_id": "beLbjUjKV20F2kMe",
+      "name": "Redthorn Saliva",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Apply to physical weapon to add +1d12 to its next damage roll.</p>\n<p></p>\n<p><b>Number:</b> <code>33</code></p>"
+      },
+      "sort": 460
+    },
+    {
+      "_id": "3hCbyNTe5wH8hmQA",
+      "name": "Replication Parchment",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>When you touch this piece of parchment to another, it will copy it exactly. Once it's made into this copy, it is no longer Replication Parchment.</p>\n<p></p>\n<p><b>Number:</b> <code>23</code></p>"
+      },
+      "sort": 470
+    },
+    {
+      "_id": "VzDemffOtYIxmqFk",
+      "name": "Sharp Potion",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Take a +1 to your next Knowledge roll.</p>\n<p></p>\n<p><b>Number:</b> <code>5</code></p>"
+      },
+      "sort": 480
+    },
+    {
+      "_id": "wR8XFj1iRkjst1FW",
+      "name": "Shrinking Potion",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Reduces the drinker\u2019s size in half until they choose to drop this form or take their next short rest. Take +2 Agility.</p>\n<p></p>\n<p><b>Number:</b> <code>53</code></p>"
+      },
+      "sort": 490
+    },
+    {
+      "_id": "CZDuqWIbRZ2SGsgb",
+      "name": "Sleeping Sap",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Puts a willing creature to sleep for a full night's rest. When they awaken, they have all stress cleared.</p>\n<p></p>\n<p><b>Number:</b> <code>50</code></p>"
+      },
+      "sort": 500
+    },
+    {
+      "_id": "1MXhT5nraINjUMIO",
+      "name": "Snap Powder",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Mark stress and clear a hit point.</p>\n<p></p>\n<p><b>Number:</b> <code>18</code></p>"
+      },
+      "sort": 510
+    },
+    {
+      "_id": "Wi6Pcjiju5eJAWU1",
+      "name": "Stamina Potion",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Immediately clear 1+1d4 stress.</p>\n<p></p>\n<p><b>Number:</b> <code>20</code></p>"
+      },
+      "sort": 520
+    },
+    {
+      "_id": "sVRHPWsHK6Qy7q5L",
+      "name": "Stardrop",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>On use, it summons a hailstorm of comets that automatically deal 8d20 physical damage to all creatures within Very Rar range of where it was triggered.</p>\n<p></p>\n<p><b>Number:</b> <code>60</code></p>"
+      },
+      "sort": 530
+    },
+    {
+      "_id": "Fh6jmbvL9BslhfVJ",
+      "name": "Stride Potion",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Take a +1 to your next Agility roll.</p>\n<p></p>\n<p><b>Number:</b> <code>1</code></p>"
+      },
+      "sort": 540
+    },
+    {
+      "_id": "oh6m9ONMdBvBBzY1",
+      "name": "Sun Tree Sap",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Roll 1d6. On a 5-6, clear two Hit Points. On a 2-5, clear three stress. On a 1, see the Veil of Death and return changed, taking one Scar.</p>\n<p></p>\n<p><b>Number:</b> <code>41</code></p>"
+      },
+      "sort": 550
+    },
+    {
+      "_id": "yY7Gu90LrZ83jmcW",
+      "name": "Sweet Moss",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Consume during a short rest to clear an additional 1d4 hit points or 1d4 stress.</p>\n<p></p>\n<p><b>Number:</b> <code>56</code></p>"
+      },
+      "sort": 560
+    },
+    {
+      "_id": "U6bN2Xg55UHNcWbN",
+      "name": "Unstable Arcane Shard",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Use Finesse to throw at a group of enemies within Far range. Any you succeed against take 1d20 magic damage.</p>\n<p></p>\n<p><b>Number:</b> <code>12</code></p>"
+      },
+      "sort": 570
+    },
+    {
+      "_id": "RtuTptzLix2Aql3K",
+      "name": "Varik Leaves",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Immediately gain 2 hope.</p>\n<p></p>\n<p><b>Number:</b> <code>10</code></p>"
+      },
+      "sort": 580
+    },
+    {
+      "_id": "oPPA2D9fuvfOclBe",
+      "name": "Vial of Darksmoke",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>Use during an incoming attack to roll a number of d6 equal to your Agility score. Add the highest result to your Evasion score against the attack.</p>\n<p></p>\n<p><b>Number:</b> <code>16</code></p>"
+      },
+      "sort": 590
+    },
+    {
+      "_id": "LpF9gsqCT3Pyir9j",
+      "name": "Vial of Moondrip",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>See in total darkness until your next short rest.</p>\n<p></p>\n<p><b>Number:</b> <code>11</code></p>"
+      },
+      "sort": 600
+    },
+    {
+      "_id": "xRpZGNU5m3JUPZgA",
+      "name": "Wingsprout",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>You gain magic wings that allow you to fly for a number of minutes equal to your level.</p>\n<p></p>\n<p><b>Number:</b> <code>46</code></p>"
+      },
+      "sort": 610
+    }
+  ]
 }
