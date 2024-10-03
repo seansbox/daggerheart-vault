@@ -25,7 +25,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 3 | Base 7</strong></p>\n\n<p><strong>Feature:</strong> Heavy (\u22121 to Evasion)</p>\n"
+        "content": "<p><strong>Tier 3 | Base 7</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Heavy (\u22121 to Evasion)</p>\n"
       },
       "sort": 20
     },
@@ -39,7 +39,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 3 | Base 8</strong></p>\n\n<p><strong>Feature:</strong> Very Heavy (\u22122 to Evasion and \u22121 to Agility)</p>\n"
+        "content": "<p><strong>Tier 3 | Base 8</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Very Heavy (\u22122 to Evasion and \u22121 to Agility)</p>\n"
       },
       "sort": 30
     },
@@ -53,7 +53,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 3 | Base 5</strong></p>\n\n<p><strong>Feature:</strong> Flexible (+1 to Evasion)</p>\n"
+        "content": "<p><strong>Tier 3 | Base 5</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Flexible (+1 to Evasion)</p>\n"
       },
       "sort": 40
     },
@@ -67,7 +67,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 3 | Base 6</strong></p>\n\n<p><strong>Feature:</strong> None</p>\n"
+        "content": "<p><strong>Tier 3 | Base 6</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> None</p>\n"
       },
       "sort": 50
     },
@@ -81,7 +81,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 3 | Base 6</strong></p>\n\n<p><strong>Feature:</strong> Gilded (When you mark an armor slot, you may spend any amount of Hope to also reduce the incoming damage by an amount equal to your proficiency per Hope spent.)</p>\n"
+        "content": "<p><strong>Tier 3 | Base 6</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Gilded (When you mark an armor slot, you may spend any amount of Hope to also reduce the incoming damage by an amount equal to your proficiency per Hope spent.)</p>\n"
       },
       "sort": 60
     },
@@ -95,7 +95,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 3 | Base 8</strong></p>\n\n<p><strong>Feature:</strong> Physical (You cannot use this armor against Magic damage.)</p>\n"
+        "content": "<p><strong>Tier 3 | Base 8</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Physical (You cannot use this armor against Magic damage.)</p>\n"
       },
       "sort": 70
     },
@@ -109,7 +109,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 1 | Base 5</strong></p>\n\n<p><strong>Feature:</strong> Heavy (\u22121 to Evasion)</p>\n"
+        "content": "<p><strong>Tier 1 | Base 5</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Heavy (\u22121 to Evasion)</p>\n"
       },
       "sort": 80
     },
@@ -123,7 +123,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 4 | Base 7</strong></p>\n\n<p><strong>Feature:</strong> Channeling (While this armor is equipped, take +1 to all Spellcast rolls.)</p>\n"
+        "content": "<p><strong>Tier 4 | Base 7</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Channeling (While this armor is equipped, take +1 to all Spellcast rolls.)</p>\n"
       },
       "sort": 90
     },
@@ -137,7 +137,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 3 | Base 6</strong></p>\n\n<p><strong>Feature:</strong> Impenetrable (When you mark an armor slot, you cannot fill your last hit point as the result of physical damage.)</p>\n"
+        "content": "<p><strong>Tier 3 | Base 6</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Impenetrable (When you mark an armor slot, you cannot fill your last hit point as the result of physical damage.)</p>\n"
       },
       "sort": 100
     },
@@ -151,7 +151,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 4 | Base 5</strong></p>\n\n<p><strong>Feature:</strong> Timeslowing (On any incoming attacks, roll 1d4 and add its value to your Evasion score.)</p>\n"
+        "content": "<p><strong>Tier 4 | Base 5</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Timeslowing (On any incoming attacks, roll 1d4 and add its value to your Evasion score.)</p>\n"
       },
       "sort": 110
     },
@@ -165,7 +165,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 2 | Base 2</strong></p>\n\n<p><strong>Feature:</strong> Reinforced (Increase your armor score by the number of unmarked armor slots you have)</p>\n"
+        "content": "<p><strong>Tier 2 | Base 2</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Reinforced (Increase your armor score by the number of unmarked armor slots you have)</p>\n"
       },
       "sort": 120
     },
@@ -179,7 +179,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 4 | Base 8</strong></p>\n\n<p><strong>Feature:</strong> Burning (When an enemy strikes you in Melee, they immediately mark a stress.)</p>\n"
+        "content": "<p><strong>Tier 4 | Base 8</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Burning (When an enemy strikes you in Melee, they immediately mark a stress.)</p>\n"
       },
       "sort": 130
     },
@@ -193,7 +193,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 1 | Base 6</strong></p>\n\n<p><strong>Feature:</strong> Very Heavy (\u22122 to Evasion and \u22121 to Agility)</p>\n"
+        "content": "<p><strong>Tier 1 | Base 6</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Very Heavy (\u22122 to Evasion and \u22121 to Agility)</p>\n"
       },
       "sort": 140
     },
@@ -207,7 +207,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 4 | Base 8</strong></p>\n\n<p><strong>Feature:</strong> Variable (Add +1 to your armor score for every range beyond Melee the damage is coming from.)</p>\n"
+        "content": "<p><strong>Tier 4 | Base 8</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Variable (Add +1 to your armor score for every range beyond Melee the damage is coming from.)</p>\n"
       },
       "sort": 150
     },
@@ -221,7 +221,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 1 | Base 3</strong></p>\n\n<p><strong>Feature:</strong> Flexible (+1 to Evasion)</p>\n"
+        "content": "<p><strong>Tier 1 | Base 3</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Flexible (+1 to Evasion)</p>\n"
       },
       "sort": 160
     },
@@ -235,7 +235,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 2 | Base 5</strong></p>\n\n<p><strong>Feature:</strong> Resistant (Mark 2 armor slots to make yourself resistant to the incoming damage instead of reducing it by your armor score.)</p>\n"
+        "content": "<p><strong>Tier 2 | Base 5</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Resistant (Mark 2 armor slots to make yourself resistant to the incoming damage instead of reducing it by your armor score.)</p>\n"
       },
       "sort": 170
     },
@@ -249,7 +249,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 2 | Base 6</strong></p>\n\n<p><strong>Feature:</strong> Heavy (\u22121 to Evasion)</p>\n"
+        "content": "<p><strong>Tier 2 | Base 6</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Heavy (\u22121 to Evasion)</p>\n"
       },
       "sort": 180
     },
@@ -263,7 +263,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 2 | Base 7</strong></p>\n\n<p><strong>Feature:</strong> Very Heavy (\u22122 to Evasion and \u22121 to Agility)</p>\n"
+        "content": "<p><strong>Tier 2 | Base 7</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Very Heavy (\u22122 to Evasion and \u22121 to Agility)</p>\n"
       },
       "sort": 190
     },
@@ -277,7 +277,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 2 | Base 4</strong></p>\n\n<p><strong>Feature:</strong> Flexible (+1 to Evasion)</p>\n"
+        "content": "<p><strong>Tier 2 | Base 4</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Flexible (+1 to Evasion)</p>\n"
       },
       "sort": 200
     },
@@ -291,7 +291,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 2 | Base 5</strong></p>\n\n<p><strong>Feature:</strong> None</p>\n"
+        "content": "<p><strong>Tier 2 | Base 5</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> None</p>\n"
       },
       "sort": 210
     },
@@ -305,7 +305,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 2 | Base 5</strong></p>\n\n<p><strong>Feature:</strong> Sturdy (Before you mark your last armor slot, roll a d6. On a 6, you use the armor without marking the slot.)</p>\n"
+        "content": "<p><strong>Tier 2 | Base 5</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Sturdy (Before you mark your last armor slot, roll a d6. On a 6, you use the armor without marking the slot.)</p>\n"
       },
       "sort": 220
     },
@@ -319,7 +319,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 1 | Base 4</strong></p>\n\n<p><strong>Feature:</strong> None</p>\n"
+        "content": "<p><strong>Tier 1 | Base 4</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> None</p>\n"
       },
       "sort": 230
     },
@@ -333,7 +333,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 4 | Base 9</strong></p>\n\n<p><strong>Feature:</strong> Heavy (\u22121 to Evasion)</p>\n"
+        "content": "<p><strong>Tier 4 | Base 9</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Heavy (\u22121 to Evasion)</p>\n"
       },
       "sort": 240
     },
@@ -347,7 +347,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 4 | Base 10</strong></p>\n\n<p><strong>Feature:</strong> Very Heavy (\u22122 to Evasion and \u22121 to Agility)</p>\n"
+        "content": "<p><strong>Tier 4 | Base 10</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Very Heavy (\u22122 to Evasion and \u22121 to Agility)</p>\n"
       },
       "sort": 250
     },
@@ -361,7 +361,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 4 | Base 7</strong></p>\n\n<p><strong>Feature:</strong> Flexible (+1 to Evasion)</p>\n"
+        "content": "<p><strong>Tier 4 | Base 7</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Flexible (+1 to Evasion)</p>\n"
       },
       "sort": 260
     },
@@ -375,7 +375,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 4 | Base 8</strong></p>\n\n<p><strong>Feature:</strong> None</p>\n"
+        "content": "<p><strong>Tier 4 | Base 8</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> None</p>\n"
       },
       "sort": 270
     },
@@ -389,7 +389,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 3 | Base 8</strong></p>\n\n<p><strong>Feature:</strong> Magic (You cannot use this armor against Physical damage.)</p>\n"
+        "content": "<p><strong>Tier 3 | Base 8</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Magic (You cannot use this armor against Physical damage.)</p>\n"
       },
       "sort": 280
     },
@@ -403,7 +403,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 2 | Base 6</strong></p>\n\n<p><strong>Feature:</strong> Hopeful (Anytime you need to spend Hope, you may mark an Armor Slot instead.)</p>\n"
+        "content": "<p><strong>Tier 2 | Base 6</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Hopeful (Anytime you need to spend Hope, you may mark an Armor Slot instead.)</p>\n"
       },
       "sort": 290
     },
@@ -417,7 +417,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 3 | Base 10</strong></p>\n\n<p><strong>Feature:</strong> Painful (Mark stress every time you use one or more armor slots on an attack.)</p>\n"
+        "content": "<p><strong>Tier 3 | Base 10</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Painful (Mark stress every time you use one or more armor slots on an attack.)</p>\n"
       },
       "sort": 300
     },
@@ -431,7 +431,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 2 | Base 5</strong></p>\n\n<p><strong>Feature:</strong> Warded (Each armor slot is worth an extra 2d4 against magic damage.)</p>\n"
+        "content": "<p><strong>Tier 2 | Base 5</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Warded (Each armor slot is worth an extra 2d4 against magic damage.)</p>\n"
       },
       "sort": 310
     },
@@ -445,7 +445,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 4 | Base 15</strong></p>\n\n<p><strong>Feature:</strong> Difficult (\u22121 to all Character Traits)</p>\n"
+        "content": "<p><strong>Tier 4 | Base 15</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Difficult (\u22121 to all Character Traits)</p>\n"
       },
       "sort": 320
     },
@@ -459,7 +459,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 3 | Base 6</strong></p>\n\n<p><strong>Feature:</strong> Sharp (Add 1d4 to any damage rolls you make on a successful Melee attack.)</p>\n"
+        "content": "<p><strong>Tier 3 | Base 6</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Sharp (Add 1d4 to any damage rolls you make on a successful Melee attack.)</p>\n"
       },
       "sort": 330
     },
@@ -473,7 +473,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 2 | Base 5</strong></p>\n\n<p><strong>Feature:</strong> Quiet (+2 to any rolls you make to move without being heard.)</p>\n"
+        "content": "<p><strong>Tier 2 | Base 5</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Quiet (+2 to any rolls you make to move without being heard.)</p>\n"
       },
       "sort": 340
     },
@@ -487,7 +487,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p><strong>Tier 4 | Base 8</strong></p>\n\n<p><strong>Feature:</strong> Truthseeking (This armor glows when anyone within Close range tells a lie.)</p>\n"
+        "content": "<p><strong>Tier 4 | Base 8</strong></p>\n<p></p>\n\n<p><strong>Feature:</strong> Truthseeking (This armor glows when anyone within Close range tells a lie.)</p>\n"
       },
       "sort": 350
     }

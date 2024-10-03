@@ -25,7 +25,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Attach to a melee weapon to make it able to attack at a Close distance. 3 uses per short rest.</p>\n<p></p>\n<p><b>Number:</b> <code>35</code></p>"
+        "content": "<p>Attach to a melee weapon to make it able to attack at a Close distance. 3 uses per short rest.</p>\n<p></p>\n<p><b>Number:</b> 35</p>"
       },
       "sort": 20
     },
@@ -39,7 +39,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>A magic torch that lights at will and spreads light much farther than it looks like it should. This could fill a cave with light bright enough to feel like it\u2019s daytime.</p>\n<p></p>\n<p><b>Number:</b> <code>4</code></p>"
+        "content": "<p>A magic torch that lights at will and spreads light much farther than it looks like it should. This could fill a cave with light bright enough to feel like it\u2019s daytime.</p>\n<p></p>\n<p><b>Number:</b> 4</p>"
       },
       "sort": 30
     },
@@ -53,7 +53,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>A cloak whose color, texture, and size can be adjusted by any user with the spellcast ability at will.</p>\n<p></p>\n<p><b>Number:</b> <code>7</code></p>"
+        "content": "<p>A cloak whose color, texture, and size can be adjusted by any user with the spellcast ability at will.</p>\n<p></p>\n<p><b>Number:</b> 7</p>"
       },
       "sort": 40
     },
@@ -67,7 +67,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Position this prism in a location of your choosing. Once activated, any allies that stand within close distance of this prism get +1 to their Spellcast rolls. Once it is deactivated, it can\u2019t be activated again until your next long rest.</p>\n<p></p>\n<p><b>Number:</b> <code>17</code></p>"
+        "content": "<p>Position this prism in a location of your choosing. Once activated, any allies that stand within close distance of this prism get +1 to their Spellcast rolls. Once it is deactivated, it can\u2019t be activated again until your next long rest.</p>\n<p></p>\n<p><b>Number:</b> 17</p>"
       },
       "sort": 50
     },
@@ -81,7 +81,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Add +1 to your Instinct. You cannot hold any other relics.</p>\n<p></p>\n<p><b>Number:</b> <code>49</code></p>"
+        "content": "<p>Add +1 to your Instinct. You cannot hold any other relics.</p>\n<p></p>\n<p><b>Number:</b> 49</p>"
       },
       "sort": 60
     },
@@ -95,7 +95,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>This is a small bag of sand that can be convinced to be much heavier or lighter than it should be with a Presence (10) roll. You can also blow sand in the face of an adversary with a Finesse roll to make them temporarily Vulnerable.</p>\n<p></p>\n<p><b>Number:</b> <code>31</code></p>"
+        "content": "<p>This is a small bag of sand that can be convinced to be much heavier or lighter than it should be with a Presence (10) roll. You can also blow sand in the face of an adversary with a Finesse roll to make them temporarily Vulnerable.</p>\n<p></p>\n<p><b>Number:</b> 31</p>"
       },
       "sort": 70
     },
@@ -109,7 +109,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Once per session, you may spend 5 Hope to lead a Tag Team action with 3 PCs instead of 2.</p>\n<p></p>\n<p><b>Number:</b> <code>60</code></p>"
+        "content": "<p>Once per session, you may spend 5 Hope to lead a Tag Team action with 3 PCs instead of 2.</p>\n<p></p>\n<p><b>Number:</b> 60</p>"
       },
       "sort": 80
     },
@@ -123,7 +123,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Attach to a weapon. Adds the following feature to a weapon that doesn\u2019t already have a feature: Brutal (If any of your damage dice roll their maximum value, roll an additional damage die of that size.)</p>\n<p></p>\n<p><b>Number:</b> <code>25</code></p>"
+        "content": "<p>Attach to a weapon. Adds the following feature to a weapon that doesn\u2019t already have a feature: Brutal (If any of your damage dice roll their maximum value, roll an additional damage die of that size.)</p>\n<p></p>\n<p><b>Number:</b> 25</p>"
       },
       "sort": 90
     },
@@ -137,7 +137,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Add +1 to your Strength. You cannot hold any other relics.</p>\n<p></p>\n<p><b>Number:</b> <code>42</code></p>"
+        "content": "<p>Add +1 to your Strength. You cannot hold any other relics.</p>\n<p></p>\n<p><b>Number:</b> 42</p>"
       },
       "sort": 100
     },
@@ -151,7 +151,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>A small box that can only be opened once per long rest. When it is, roll a d12. If you roll a 1-6, it is empty. If you roll a 7-10, it contains one random consumable. If you roll an 11-12, it contains two random consumables.</p>\n<p></p>\n<p><b>Number:</b> <code>34</code></p>"
+        "content": "<p>A small box that can only be opened once per long rest. When it is, roll a d12. If you roll a 1-6, it is empty. If you roll a 7-10, it contains one random consumable. If you roll an 11-12, it contains two random consumables.</p>\n<p></p>\n<p><b>Number:</b> 34</p>"
       },
       "sort": 110
     },
@@ -165,7 +165,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>If you should ever have to mark your last stress slot, roll a d6. On a 5+, don\u2019t mark it.</p>\n<p></p>\n<p><b>Number:</b> <code>29</code></p>"
+        "content": "<p>If you should ever have to mark your last stress slot, roll a d6. On a 5+, don\u2019t mark it.</p>\n<p></p>\n<p><b>Number:</b> 29</p>"
       },
       "sort": 120
     },
@@ -179,7 +179,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>When arrows for a bow are kept in the Charging Quiver, damage rolls using the bow deal +2 damage.</p>\n<p></p>\n<p><b>Number:</b> <code>3</code></p>"
+        "content": "<p>When arrows for a bow are kept in the Charging Quiver, damage rolls using the bow deal +2 damage.</p>\n<p></p>\n<p><b>Number:</b> 3</p>"
       },
       "sort": 130
     },
@@ -193,7 +193,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Add +1 to your Presence. You cannot hold any other relics.</p>\n<p></p>\n<p><b>Number:</b> <code>44</code></p>"
+        "content": "<p>Add +1 to your Presence. You cannot hold any other relics.</p>\n<p></p>\n<p><b>Number:</b> 44</p>"
       },
       "sort": 140
     },
@@ -207,7 +207,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>This ball of clay can be sculpted into various animal shapes and will then behave as that animal (a clay spider can spin clay webs, a clay bird can fly). This companion has continuity of memory and self across different shapes but may adopt some mannerisms with each form.</p>\n<p></p>\n<p><b>Number:</b> <code>48</code></p>"
+        "content": "<p>This ball of clay can be sculpted into various animal shapes and will then behave as that animal (a clay spider can spin clay webs, a clay bird can fly). This companion has continuity of memory and self across different shapes but may adopt some mannerisms with each form.</p>\n<p></p>\n<p><b>Number:</b> 48</p>"
       },
       "sort": 150
     },
@@ -221,7 +221,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>A carrying case for a small animal companion. While they are inside, the case and the animal are immune to all harm.</p>\n<p></p>\n<p><b>Number:</b> <code>13</code></p>"
+        "content": "<p>A carrying case for a small animal companion. While they are inside, the case and the animal are immune to all harm.</p>\n<p></p>\n<p><b>Number:</b> 13</p>"
       },
       "sort": 160
     },
@@ -235,7 +235,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>A tiny sprite who sits in the curve of your ear canal and whispers helpful advice during combat. Once per short rest, you may take advantage on an attack roll. Do not give them your true name.</p>\n<p></p>\n<p><b>Number:</b> <code>21</code></p>"
+        "content": "<p>A tiny sprite who sits in the curve of your ear canal and whispers helpful advice during combat. Once per short rest, you may take advantage on an attack roll. Do not give them your true name.</p>\n<p></p>\n<p><b>Number:</b> 21</p>"
       },
       "sort": 170
     },
@@ -249,7 +249,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>A flask that can hold two different liquids. A small button on the side allows the drinker to switch between them.</p>\n<p></p>\n<p><b>Number:</b> <code>30</code></p>"
+        "content": "<p>A flask that can hold two different liquids. A small button on the side allows the drinker to switch between them.</p>\n<p></p>\n<p><b>Number:</b> 30</p>"
       },
       "sort": 180
     },
@@ -263,7 +263,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Once per long rest, activate this to go Hidden until you move from this location. Any enemies who move into line of sight with you while you\u2019re Hidden don\u2019t see you.</p>\n<p></p>\n<p><b>Number:</b> <code>38</code></p>"
+        "content": "<p>Once per long rest, activate this to go Hidden until you move from this location. Any enemies who move into line of sight with you while you\u2019re Hidden don\u2019t see you.</p>\n<p></p>\n<p><b>Number:</b> 38</p>"
       },
       "sort": 190
     },
@@ -277,7 +277,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>A magical chest that will appear empty, even if there are items being kept inside. The owner can use a specific word, phrase, or other trigger when opening the chest to reveal these items.</p>\n<p></p>\n<p><b>Number:</b> <code>12</code></p>"
+        "content": "<p>A magical chest that will appear empty, even if there are items being kept inside. The owner can use a specific word, phrase, or other trigger when opening the chest to reveal these items.</p>\n<p></p>\n<p><b>Number:</b> 12</p>"
       },
       "sort": 200
     },
@@ -291,7 +291,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Pour out strange liquid within the contents of this jar to instantly produce fire. The contents regenerate on your next long rest.</p>\n<p></p>\n<p><b>Number:</b> <code>9</code></p>"
+        "content": "<p>Pour out strange liquid within the contents of this jar to instantly produce fire. The contents regenerate on your next long rest.</p>\n<p></p>\n<p><b>Number:</b> 9</p>"
       },
       "sort": 210
     },
@@ -305,7 +305,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>While wearing your melee weapons dealing physical damage extend with a gossamer sheen. You can hit creatures up to Very Close range.</p>\n<p></p>\n<p><b>Number:</b> <code>46</code></p>"
+        "content": "<p>While wearing your melee weapons dealing physical damage extend with a gossamer sheen. You can hit creatures up to Very Close range.</p>\n<p></p>\n<p><b>Number:</b> 46</p>"
       },
       "sort": 220
     },
@@ -319,7 +319,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Add +1 to your Finesse. You cannot hold any other relics.</p>\n<p></p>\n<p><b>Number:</b> <code>43</code></p>"
+        "content": "<p>Add +1 to your Finesse. You cannot hold any other relics.</p>\n<p></p>\n<p><b>Number:</b> 43</p>"
       },
       "sort": 230
     },
@@ -333,7 +333,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>You can climb up vertical surfaces and across ceilings.</p>\n<p></p>\n<p><b>Number:</b> <code>22</code></p>"
+        "content": "<p>You can climb up vertical surfaces and across ceilings.</p>\n<p></p>\n<p><b>Number:</b> 22</p>"
       },
       "sort": 240
     },
@@ -347,7 +347,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Attach to a weapon to allow you to make an Agility roll when using it to attack.</p>\n<p></p>\n<p><b>Number:</b> <code>57</code></p>"
+        "content": "<p>Attach to a weapon to allow you to make an Agility roll when using it to attack.</p>\n<p></p>\n<p><b>Number:</b> 57</p>"
       },
       "sort": 250
     },
@@ -361,7 +361,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Attach to a weapon to allow you to make a Presence roll when using it to attack.</p>\n<p></p>\n<p><b>Number:</b> <code>53</code></p>"
+        "content": "<p>Attach to a weapon to allow you to make a Presence roll when using it to attack.</p>\n<p></p>\n<p><b>Number:</b> 53</p>"
       },
       "sort": 260
     },
@@ -375,7 +375,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Attach to a weapon to allow you to make an Instinct roll when using it to attack.</p>\n<p></p>\n<p><b>Number:</b> <code>55</code></p>"
+        "content": "<p>Attach to a weapon to allow you to make an Instinct roll when using it to attack.</p>\n<p></p>\n<p><b>Number:</b> 55</p>"
       },
       "sort": 270
     },
@@ -389,7 +389,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Attach to a weapon to allow you to make a Strength roll when using it to attack.</p>\n<p></p>\n<p><b>Number:</b> <code>56</code></p>"
+        "content": "<p>Attach to a weapon to allow you to make a Strength roll when using it to attack.</p>\n<p></p>\n<p><b>Number:</b> 56</p>"
       },
       "sort": 280
     },
@@ -403,7 +403,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Attach to a weapon to allow you to make a Finesse roll when using it to attack.</p>\n<p></p>\n<p><b>Number:</b> <code>58</code></p>"
+        "content": "<p>Attach to a weapon to allow you to make a Finesse roll when using it to attack.</p>\n<p></p>\n<p><b>Number:</b> 58</p>"
       },
       "sort": 290
     },
@@ -417,7 +417,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Attach to a weapon to allow you to make a Knowledge roll when using it to attack.</p>\n<p></p>\n<p><b>Number:</b> <code>54</code></p>"
+        "content": "<p>Attach to a weapon to allow you to make a Knowledge roll when using it to attack.</p>\n<p></p>\n<p><b>Number:</b> 54</p>"
       },
       "sort": 300
     },
@@ -431,7 +431,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Activate this pebble-sized stone to memorize a look - hairdo, makeup, outfit. You may spend a Hope to instantly re-create this look at any time.</p>\n<p></p>\n<p><b>Number:</b> <code>11</code></p>"
+        "content": "<p>Activate this pebble-sized stone to memorize a look - hairdo, makeup, outfit. You may spend a Hope to instantly re-create this look at any time.</p>\n<p></p>\n<p><b>Number:</b> 11</p>"
       },
       "sort": 310
     },
@@ -445,7 +445,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>A small parachute that can be deployed by marking Stress. It allows the user to glide down from a high place safely to the ground below.</p>\n<p></p>\n<p><b>Number:</b> <code>27</code></p>"
+        "content": "<p>A small parachute that can be deployed by marking Stress. It allows the user to glide down from a high place safely to the ground below.</p>\n<p></p>\n<p><b>Number:</b> 27</p>"
       },
       "sort": 320
     },
@@ -459,7 +459,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Attach to a weapon. Adds the following feature to a weapon that doesn\u2019t already have a feature: Powerful (Roll one extra damage die and drop the lowest.)</p>\n<p></p>\n<p><b>Number:</b> <code>26</code></p>"
+        "content": "<p>Attach to a weapon. Adds the following feature to a weapon that doesn\u2019t already have a feature: Powerful (Roll one extra damage die and drop the lowest.)</p>\n<p></p>\n<p><b>Number:</b> 26</p>"
       },
       "sort": 330
     },
@@ -473,7 +473,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Two compasses that only point at each other no matter how far apart they are.</p>\n<p></p>\n<p><b>Number:</b> <code>20</code></p>"
+        "content": "<p>Two compasses that only point at each other no matter how far apart they are.</p>\n<p></p>\n<p><b>Number:</b> 20</p>"
       },
       "sort": 340
     },
@@ -487,7 +487,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Add +1 to one of your Experiences. You cannot hold any other relics.</p>\n<p></p>\n<p><b>Number:</b> <code>50</code></p>"
+        "content": "<p>Add +1 to one of your Experiences. You cannot hold any other relics.</p>\n<p></p>\n<p><b>Number:</b> 50</p>"
       },
       "sort": 350
     },
@@ -501,7 +501,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>During a long rest, if you have 5 Hope, you may spend 1 Hope and imbue the locket with your bountiful resolve. If you ever have 0 Hope, you may use the locket and gain 1 Hope. The locket must then be recharged during a long rest.</p>\n<p></p>\n<p><b>Number:</b> <code>39</code></p>"
+        "content": "<p>During a long rest, if you have 5 Hope, you may spend 1 Hope and imbue the locket with your bountiful resolve. If you ever have 0 Hope, you may use the locket and gain 1 Hope. The locket must then be recharged during a long rest.</p>\n<p></p>\n<p><b>Number:</b> 39</p>"
       },
       "sort": 360
     },
@@ -515,7 +515,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Items put into this bag are stored in a pocket dimension and can be retrieved at any time.</p>\n<p></p>\n<p><b>Number:</b> <code>40</code></p>"
+        "content": "<p>Items put into this bag are stored in a pocket dimension and can be retrieved at any time.</p>\n<p></p>\n<p><b>Number:</b> 40</p>"
       },
       "sort": 370
     },
@@ -529,7 +529,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>You may walk along the surface of water as if it were soft ground.</p>\n<p></p>\n<p><b>Number:</b> <code>47</code></p>"
+        "content": "<p>You may walk along the surface of water as if it were soft ground.</p>\n<p></p>\n<p><b>Number:</b> 47</p>"
       },
       "sort": 380
     },
@@ -543,7 +543,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Store the name of up to three hostile creatures. Next time you face them, take +1 on any action rolls against them.</p>\n<p></p>\n<p><b>Number:</b> <code>23</code></p>"
+        "content": "<p>Store the name of up to three hostile creatures. Next time you face them, take +1 on any action rolls against them.</p>\n<p></p>\n<p><b>Number:</b> 23</p>"
       },
       "sort": 390
     },
@@ -557,7 +557,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>A pair of locking cuffs with a key.</p>\n<p></p>\n<p><b>Number:</b> <code>6</code></p>"
+        "content": "<p>A pair of locking cuffs with a key.</p>\n<p></p>\n<p><b>Number:</b> 6</p>"
       },
       "sort": 400
     },
@@ -571,7 +571,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>During downtime, spend one of your downtime moves and a handful of gold to craft a Minor Health Potion.</p>\n<p></p>\n<p><b>Number:</b> <code>19</code></p>"
+        "content": "<p>During downtime, spend one of your downtime moves and a handful of gold to craft a Minor Health Potion.</p>\n<p></p>\n<p><b>Number:</b> 19</p>"
       },
       "sort": 410
     },
@@ -585,7 +585,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>During downtime, spend one of your downtime moves and a handful of gold to craft a Minor Stamina Potion.</p>\n<p></p>\n<p><b>Number:</b> <code>18</code></p>"
+        "content": "<p>During downtime, spend one of your downtime moves and a handful of gold to craft a Minor Stamina Potion.</p>\n<p></p>\n<p><b>Number:</b> 18</p>"
       },
       "sort": 420
     },
@@ -599,7 +599,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>During downtime, spend one of your downtime moves and a bag of gold to craft Mythic Dust.</p>\n<p></p>\n<p><b>Number:</b> <code>51</code></p>"
+        "content": "<p>During downtime, spend one of your downtime moves and a bag of gold to craft Mythic Dust.</p>\n<p></p>\n<p><b>Number:</b> 51</p>"
       },
       "sort": 430
     },
@@ -613,7 +613,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Once per long rest, you may use a downtime move to meditate on an ideal or principle you hold dear and focus your will into the chain. Until your next long rest, you can spend a Hope to use a d20 as your Hope die for rolls that directly align with that principle.</p>\n<p></p>\n<p><b>Number:</b> <code>37</code></p>"
+        "content": "<p>Once per long rest, you may use a downtime move to meditate on an ideal or principle you hold dear and focus your will into the chain. Until your next long rest, you can spend a Hope to use a d20 as your Hope die for rolls that directly align with that principle.</p>\n<p></p>\n<p><b>Number:</b> 37</p>"
       },
       "sort": 440
     },
@@ -627,7 +627,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>While you have any quantity of Phoenix Feathers, when you drop unconscious and roll to see if you take a scar, always take +1 to the die result.</p>\n<p></p>\n<p><b>Number:</b> <code>33</code></p>"
+        "content": "<p>While you have any quantity of Phoenix Feathers, when you drop unconscious and roll to see if you take a scar, always take +1 to the die result.</p>\n<p></p>\n<p><b>Number:</b> 33</p>"
       },
       "sort": 450
     },
@@ -641,7 +641,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>When firing a bow, you may use Piercing Arrows to add your proficiency to your damage roll. 3 uses per short rest. \u3007 \u3007 \u3007</p>\n<p></p>\n<p><b>Number:</b> <code>14</code></p>"
+        "content": "<p>When firing a bow, you may use Piercing Arrows to add your proficiency to your damage roll. 3 uses per short rest. \u3007 \u3007 \u3007</p>\n<p></p>\n<p><b>Number:</b> 14</p>"
       },
       "sort": 460
     },
@@ -655,7 +655,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>A handcrafted whistle. Each have a distinctive sound, and the piercing tone can be heard across a one mile radius.</p>\n<p></p>\n<p><b>Number:</b> <code>2</code></p>"
+        "content": "<p>A handcrafted whistle. Each have a distinctive sound, and the piercing tone can be heard across a one mile radius.</p>\n<p></p>\n<p><b>Number:</b> 2</p>"
       },
       "sort": 470
     },
@@ -669,7 +669,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Plant this in the ground to grow a portal in this spot. The portal will be ready to use in 24 hours and you may travel to any other spot you\u2019ve planted a portal seed. A portal may be destroyed by dealing any amount of magic damage to it.</p>\n<p></p>\n<p><b>Number:</b> <code>36</code></p>"
+        "content": "<p>Plant this in the ground to grow a portal in this spot. The portal will be ready to use in 24 hours and you may travel to any other spot you\u2019ve planted a portal seed. A portal may be destroyed by dealing any amount of magic damage to it.</p>\n<p></p>\n<p><b>Number:</b> 36</p>"
       },
       "sort": 480
     },
@@ -683,7 +683,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>During any rests, you always automatically clear 1 stress.</p>\n<p></p>\n<p><b>Number:</b> <code>1</code></p>"
+        "content": "<p>During any rests, you always automatically clear 1 stress.</p>\n<p></p>\n<p><b>Number:</b> 1</p>"
       },
       "sort": 490
     },
@@ -697,7 +697,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Once per long rest, activate this ring to only take half damage on an incoming attack.</p>\n<p></p>\n<p><b>Number:</b> <code>32</code></p>"
+        "content": "<p>Once per long rest, activate this ring to only take half damage on an incoming attack.</p>\n<p></p>\n<p><b>Number:</b> 32</p>"
       },
       "sort": 500
     },
@@ -711,7 +711,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Spend a Hope to activate this ring until your next short rest. Your footsteps are silent.</p>\n<p></p>\n<p><b>Number:</b> <code>28</code></p>"
+        "content": "<p>Spend a Hope to activate this ring until your next short rest. Your footsteps are silent.</p>\n<p></p>\n<p><b>Number:</b> 28</p>"
       },
       "sort": 510
     },
@@ -725,7 +725,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Once per session, when the GM spends 1 Fear, you can spend 4 Hope to cancel the effects of that spent Fear.</p>\n<p></p>\n<p><b>Number:</b> <code>59</code></p>"
+        "content": "<p>Once per session, when the GM spends 1 Fear, you can spend 4 Hope to cancel the effects of that spent Fear.</p>\n<p></p>\n<p><b>Number:</b> 59</p>"
       },
       "sort": 520
     },
@@ -739,7 +739,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Once per long rest, spend 2 Hope to recall a Domain card from your vault instead of payings its Recall Cost.</p>\n<p></p>\n<p><b>Number:</b> <code>52</code></p>"
+        "content": "<p>Once per long rest, spend 2 Hope to recall a Domain card from your vault instead of payings its Recall Cost.</p>\n<p></p>\n<p><b>Number:</b> 52</p>"
       },
       "sort": 530
     },
@@ -753,7 +753,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Add +1 to your Knowledge. You cannot hold any other relics.</p>\n<p></p>\n<p><b>Number:</b> <code>45</code></p>"
+        "content": "<p>Add +1 to your Knowledge. You cannot hold any other relics.</p>\n<p></p>\n<p><b>Number:</b> 45</p>"
       },
       "sort": 540
     },
@@ -767,7 +767,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Use this to make a Finesse roll at advantage when attempting to open a locked door.</p>\n<p></p>\n<p><b>Number:</b> <code>16</code></p>"
+        "content": "<p>Use this to make a Finesse roll at advantage when attempting to open a locked door.</p>\n<p></p>\n<p><b>Number:</b> 16</p>"
       },
       "sort": 550
     },
@@ -781,7 +781,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>A pair of orbs that allow any creatures holding them to communicate with each other across any distance.</p>\n<p></p>\n<p><b>Number:</b> <code>5</code></p>"
+        "content": "<p>A pair of orbs that allow any creatures holding them to communicate with each other across any distance.</p>\n<p></p>\n<p><b>Number:</b> 5</p>"
       },
       "sort": 560
     },
@@ -795,7 +795,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Add +1 to your Agility. You cannot hold any other relics.</p>\n<p></p>\n<p><b>Number:</b> <code>41</code></p>"
+        "content": "<p>Add +1 to your Agility. You cannot hold any other relics.</p>\n<p></p>\n<p><b>Number:</b> 41</p>"
       },
       "sort": 570
     },
@@ -809,7 +809,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>A flat rod inscribed with runes. When it is activated, it is immediately suspended in place where it is. It cannot move, does not abide by the rules of gravity, and will remain in place until it is deactivated.</p>\n<p></p>\n<p><b>Number:</b> <code>10</code></p>"
+        "content": "<p>A flat rod inscribed with runes. When it is activated, it is immediately suspended in place where it is. It cannot move, does not abide by the rules of gravity, and will remain in place until it is deactivated.</p>\n<p></p>\n<p><b>Number:</b> 10</p>"
       },
       "sort": 580
     },
@@ -823,7 +823,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>Attach to armor. Adds the following feature to armor that doesn\u2019t already have a feature: Resilient (Before you mark your last armor slot, roll a d6. On a 6, you use the armor without marking the slot.)</p>\n<p></p>\n<p><b>Number:</b> <code>15</code></p>"
+        "content": "<p>Attach to armor. Adds the following feature to armor that doesn\u2019t already have a feature: Resilient (Before you mark your last armor slot, roll a d6. On a 6, you use the armor without marking the slot.)</p>\n<p></p>\n<p><b>Number:</b> 15</p>"
       },
       "sort": 590
     },
@@ -837,7 +837,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>During downtime, spend one of your downtime moves and mark a stress to craft a Vial of Darksmoke.</p>\n<p></p>\n<p><b>Number:</b> <code>24</code></p>"
+        "content": "<p>During downtime, spend one of your downtime moves and mark a stress to craft a Vial of Darksmoke.</p>\n<p></p>\n<p><b>Number:</b> 24</p>"
       },
       "sort": 600
     },
@@ -851,7 +851,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>A net that can be used to trap small creatures. To use it, make a Finesse roll. On a success, the difficulty to break free is 16.</p>\n<p></p>\n<p><b>Number:</b> <code>8</code></p>"
+        "content": "<p>A net that can be used to trap small creatures. To use it, make a Finesse roll. On a success, the difficulty to break free is 16.</p>\n<p></p>\n<p><b>Number:</b> 8</p>"
       },
       "sort": 610
     }
