@@ -1,16 +1,57 @@
+<h2>Weapons By Ability</h2>
+
 <table>
-<thead>
-  <tr>
-    <th>Weapon</th>
-    <th>Description</th>
-  </tr>
-</thead>
 <tbody>
-  {% for row in rows %}
-  <tr>
-    <td>@UUID[.{{ row.Name | hashify }}]<br><i>Tier {{ row.Tier }} {{ row.PhysicalOrMagic }}</i></td>
-    <td><b>{{ row.Trait }}</b> | {{ row.Burden }} ({{ row.Range }}) | {{ row.Damage }}{% if row.Feature %} | {{ row.Feature }}{% endif %}</td>
-  </tr>
+  {% for cls in [['Bard', 'Presence'], ['Druid / Sorcerer', 'Instinct'], ['Guardian / Seraph', 'Strength'], ['Ranger / Warrior', 'Agility'], ['Rogue', 'Finesse'], ['Wizard', 'Knowledge']] %}
+
+    <tr>
+      <td colspan="4"><h3><b>{{ cls[1] }} ({{ cls[0] }})</b></h3></td>
+    </tr>
+    <tr>
+      <td><b>Tier 1</b></td>
+      <td><b>Tier 2</b></td>
+      <td><b>Tier 3</b></td>
+      <td><b>Tier 4</b></td>
+    </tr>
+
+    {% for typ in ['Physical', 'Magic'] %}
+      <tr>
+        {% for tier in ['1', '2', '3', '4'] %}
+          <td>
+            {% for row in rows %}
+              {% if row.Tier == tier and row.PhysicalOrMagic == typ and row.Trait == cls[1] %}
+                <small>@UUID[.{{ row.Name | hashify }}]</small><br>
+              {% endif %}
+            {% endfor %}
+          </td>
+        {% endfor %}
+      </tr>
+    {% endfor %}
+
   {% endfor %}
+</tbody>
+</table>
+
+<h2>Weapons By Tier</h2>
+
+<table>
+<tbody>
+
+{% for tier in ['1', '2', '3', '4'] %}
+  <tr>
+    <td colspan="2"><h3><b>Tier {{ tier }}</b></h3></td>
+  </tr>
+
+  {% for row in rows %}
+    {% if row.Tier == tier %}
+      <tr>
+        <td><b>@UUID[.{{ row.Name | hashify }}]</b><br>{{ row.Trait }} {{ row.Damage }}</td>
+        <td><i>{{ row.Feature }} {{ row.Burden }} ({{ row.Range }})</i></td>
+      </tr>
+    {% endif %}
+  {% endfor %}
+
+{% endfor %}
+
 </tbody>
 </table>

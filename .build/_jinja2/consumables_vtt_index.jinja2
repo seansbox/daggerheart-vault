@@ -17,7 +17,7 @@
   <tr>
     <td>{{ row.Number }}</td>
     <td>@UUID[.{{ row.Name | hashify }}]</td>
-    <td>{{ row.Description }}</td>
+    <td><i>{{ row.Description }}</i></td>
   </tr>
   {% endfor %}
 </tbody>
