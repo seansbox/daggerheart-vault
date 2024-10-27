@@ -1,8 +1,17 @@
 ---
 obsidianUIMode: preview
 ---
-# Weapons
+{% for tier in [['1', '½💰', '1💰'], ['2', '1💰', '2💰'], ['3', '2💰', '3💰'], ['4', '4💰', '5💰']] -%}
 
-| Name | Description |
-|--|--|{% for row in rows %}
-| [{{ row.Name }}](weapons/{{ row.Name | slugify | urlencode }}.md)<br>*Tier {{ row.Tier }} {{ row.PhysicalOrMagic }}* | `{{ row.Trait }}` {{ row.Burden }} {{ row.Range }} {{ row.Damage }}<br>{% if row.Feature %}*{{ row.Feature }}*{% endif %} |{% endfor %}
+## Tier {{ tier[0] }} Weapons
+{% for cls in [['Bards', 'Presence'], ['Druids and Sorcerers', 'Instinct'], ['Guardians and Seraphs', 'Strength'], ['Rangers and Warriors', 'Agility'], ['Rogues', 'Finesse'], ['Wizards', 'Knowledge']] -%}
+### {{ cls[1] }} *({{ cls[0] }})*
+{% for row in rows -%}
+{% if row.Tier == tier[0] and row.Trait == cls[1] %}
+> **{{ row.Name | upper }}** `{% if row.PhysicalOrMagic == 'Physical' %}{{ tier[1] }}{% else %}{{ tier[2] }}{% endif %}` {{ row.Burden }}. {{ row.Range }} range. {{ row.Damage }} damage.{% if row.Feature %} *{{ row.Feature }}*{% endif %}
+
+{% endif -%}
+{% endfor -%}
+{% endfor -%}
+
+{% endfor %}

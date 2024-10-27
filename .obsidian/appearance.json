@@ -1,8 +1,9 @@
 {
-  "cssTheme": "Obsidian Nord",
+  "cssTheme": "Blue Topaz",
   "accentColor": "",
   "enabledCssSnippets": [
     "icons",
     "quote"
-  ]
+  ],
+  "theme": "obsidian"
 }
