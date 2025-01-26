@@ -1,9 +1,11 @@
 {
   "cssTheme": "Obsidian Nord",
-  "accentColor": "",
+  "accentColor": "#3498db",
   "enabledCssSnippets": [
-    "icons",
     "quote"
   ],
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
+  "baseFontSize": 16
 }

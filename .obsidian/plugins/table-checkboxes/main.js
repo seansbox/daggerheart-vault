@@ -27,31 +27,51 @@ __export(main_exports, {
   default: () => TableCheckboxesPlugin
 });
 module.exports = __toCommonJS(main_exports);
+var import_obsidian2 = require("obsidian");
+
+// settings.ts
 var import_obsidian = require("obsidian");
-var TableCheckboxesPlugin = class extends import_obsidian.Plugin {
+var TableCheckboxesPluginSettingsTab = class extends import_obsidian.PluginSettingTab {
+  constructor(app, plugin) {
+    super(app, plugin);
+    this.plugin = plugin;
+  }
+  display() {
+    const { containerEl } = this;
+    containerEl.empty();
+    new import_obsidian.Setting(containerEl).setName("Convert checkboxes outside tables").setDesc("Convert checkboxes outside tables to HTML checkboxes").addToggle((toggle) => toggle.setValue(this.plugin.settings.convertCheckboxesOutsideTables).onChange(async (value) => {
+      this.plugin.settings.convertCheckboxesOutsideTables = value;
+      await this.plugin.saveSettings();
+    }));
+  }
+};
+
+// main.ts
+var DEFAULT_SETTINGS = {
+  convertCheckboxesOutsideTables: false
+};
+var TableCheckboxesPlugin = class extends import_obsidian2.Plugin {
   constructor() {
     super(...arguments);
     this.setupWindowHandlers = (_workspaceWindow, win) => {
       this.registerDomEvent(win, "input", (evt) => {
-        if (evt.data === "]") {
-          const view = this.app.workspace.activeEditor;
-          if (!view || !view.editor) {
-            return;
-          }
-          const location = view.editor.getCursor("anchor");
-          location.ch += 1;
-          const rowValue = view.editor.getLine(location.line);
-          if (this.isMDCheckboxInTable(rowValue)) {
-            return this.handleCheckboxReplacement(view, rowValue, location, false);
-          }
-          location.ch -= 1;
-          const rowChars = rowValue.split("");
-          rowChars.splice(location.ch, 0, evt.data);
-          const newRowValue = rowChars.join("");
-          if (this.isMDCheckboxInTable(newRowValue)) {
-            this.handleCheckboxReplacement(view, newRowValue, location, true);
-          }
+        if (evt.data !== "]") {
+          return;
         }
+        const view = this.app.workspace.activeEditor;
+        if (!view || !view.editor) {
+          return;
+        }
+        const location = view.editor.getCursor("anchor");
+        const rowValue = view.editor.getLine(location.line);
+        if (!this.isMDCheckboxInTable(rowValue) || this.closingBracketIsTooFar(rowValue, location.ch)) {
+          return;
+        }
+        const checkbox = this.getCheckboxLength(rowValue, location.ch);
+        if (!checkbox) {
+          return;
+        }
+        this.handleCheckboxReplacement(view.editor, location, checkbox);
       });
       this.registerDomEvent(win, "change", async (evt) => {
         const changeEl = evt.target;
@@ -72,23 +92,40 @@ var TableCheckboxesPlugin = class extends import_obsidian.Plugin {
   async onload() {
     this.app.workspace.on("window-open", this.setupWindowHandlers);
     this.setupWindowHandlers(void 0, activeWindow);
+    await this.loadSettings();
+    this.addCommand({
+      id: "convert-checkboxes",
+      name: "Convert all checkboxes in the current file to HTML checkboxes",
+      callback: () => {
+        this.convertAllCheckboxes();
+      }
+    });
+    this.addCommand({
+      id: "regenerate-checkbox-ids",
+      name: "Regenerate all checkbox IDs",
+      callback: () => {
+        this.regenerateCheckboxIds();
+      }
+    });
+    this.addSettingTab(new TableCheckboxesPluginSettingsTab(this.app, this));
   }
   async onunload() {
     this.app.workspace.off("window-open", this.setupWindowHandlers);
   }
-  handleCheckboxReplacement(view, rowValue, location, manuallyAdded) {
-    if (!view.editor) {
-      return;
-    }
-    const checkBox = this.getCheckboxLength(rowValue);
+  async loadSettings() {
+    this.settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
+  }
+  async saveSettings() {
+    await this.saveData(this.settings);
+  }
+  handleCheckboxReplacement(editor, location, checkbox) {
+    const completeCheckbox = checkbox.endsWith("]");
+    location.ch = completeCheckbox ? location.ch + 1 : location.ch;
     const start = { ...location };
-    start.ch -= checkBox.length;
-    if (manuallyAdded) {
-      start.ch += 1;
-    }
-    view.editor.setSelection(start, location);
-    const checkboxId = this.generateUniqueCheckboxId(view.editor.getDoc().getValue());
-    view.editor.replaceSelection(`<input type="checkbox" unchecked id="${checkboxId}">`);
+    start.ch -= checkbox.length;
+    editor.setSelection(start, location);
+    const checkboxId = this.generateUniqueCheckboxId(editor.getDoc().getValue());
+    editor.replaceSelection(`<input type="checkbox" unchecked id="${checkboxId}">`);
   }
   generateUniqueCheckboxId(page) {
     let id = crypto.randomUUID().slice(-6);
@@ -101,20 +138,99 @@ var TableCheckboxesPlugin = class extends import_obsidian.Plugin {
     const idIndex = page.search(id);
     return idIndex !== -1;
   }
-  isMDCheckboxInTable(viewData) {
-    const tableRegex = /^(\s|>)*\|.*-[\s]?\[[\s]?\].*/m;
-    if (viewData.match(tableRegex)) {
+  isMDCheckboxInTable(rowValue) {
+    const tableRegex = /^(\s|>)*\|.*-\s?(?:\[\s?\]|\[).*/m;
+    if (rowValue.match(tableRegex)) {
       return true;
     }
     return false;
   }
-  getCheckboxLength(viewData) {
-    const checkboxRegex = /-[\s]?\[[\s]?\]/;
-    const checkboxMatch = viewData.match(checkboxRegex);
+  closingBracketIsTooFar(rowValue, ch) {
+    if (rowValue[ch - 1] === "[" || rowValue[ch - 2] === "[") {
+      return false;
+    }
+    return true;
+  }
+  getCheckboxLength(viewData, ch) {
+    const completeCheckbox = viewData[ch] === "]";
+    const areaToCheck = viewData.slice(ch - 4, completeCheckbox ? ch + 1 : ch);
+    const checkboxRegex = /-\s{0,1}\[\s{0,1}\]?/;
+    const checkboxMatch = areaToCheck.match(checkboxRegex);
+    if (!checkboxMatch) {
+      return null;
+    }
     return checkboxMatch[0];
   }
   toggleCheckbox(page, file, isChecked, checkboxId) {
     page = page.replace(new RegExp(`<input type="checkbox" (un)?checked id="${checkboxId}">`), `<input type="checkbox" ${isChecked ? "" : "un"}checked id="${checkboxId}">`);
     this.app.vault.modify(file, page);
   }
+  convertAllCheckboxes() {
+    const view = this.app.workspace.activeEditor;
+    if (!view || !view.editor) {
+      return;
+    }
+    const page = view.editor.getDoc().getValue();
+    const checkboxes = this.getCheckboxesToConvert(page, this.settings.convertCheckboxesOutsideTables);
+    this.convertCheckboxes(view.editor, checkboxes);
+  }
+  getCheckboxesToConvert(page, convertOutsideTables) {
+    const checkboxes = [];
+    const lines = page.split("\n");
+    let lineCount = 0;
+    for (let i = 0; i < lines.length; i++) {
+      const line = lines[i];
+      if (!convertOutsideTables && !this.isMDCheckboxInTable(line)) {
+        lineCount++;
+        continue;
+      }
+      const checkboxRegex = /-\s{0,1}\[\s{0,1}\]/g;
+      let match;
+      while ((match = checkboxRegex.exec(line)) !== null) {
+        const from = {
+          line: lineCount,
+          ch: match.index
+        };
+        const to = {
+          line: lineCount,
+          ch: match.index + match[0].length
+        };
+        checkboxes.push({ from, to });
+      }
+      lineCount++;
+    }
+    return checkboxes;
+  }
+  convertCheckboxes(editor, checkboxes) {
+    const checkboxIds = Array.from({ length: checkboxes.length }, () => this.generateUniqueCheckboxId(editor.getDoc().getValue()));
+    const selections = checkboxes.map((checkbox) => ({
+      anchor: checkbox.from,
+      head: checkbox.to
+    }));
+    editor.setSelections(selections);
+    editor.replaceSelection("!!PLACEHOLDER_TO_BE_REPLACED_WITH_CHECKBOX!!");
+    let page = editor.getDoc().getValue();
+    checkboxIds.forEach((id) => {
+      page = page.replace(/!!PLACEHOLDER_TO_BE_REPLACED_WITH_CHECKBOX!!/, `<input type="checkbox" unchecked id="${id}">`);
+    });
+    editor.getDoc().setValue(page);
+  }
+  regenerateCheckboxIds() {
+    const view = this.app.workspace.activeEditor;
+    if (!view || !view.editor) {
+      return;
+    }
+    let page = view.editor.getDoc().getValue();
+    const checkboxRegex = /<input type="checkbox"[^>]*id="[^"]*"[^>]*>/g;
+    let match;
+    while ((match = checkboxRegex.exec(page)) !== null) {
+      const oldCheckbox = match[0];
+      const newId = this.generateUniqueCheckboxId(page);
+      const newCheckbox = oldCheckbox.replace(/id="[^"]*"/, `id="${newId}"`);
+      page = page.replace(oldCheckbox, newCheckbox);
+    }
+    view.editor.setValue(page);
+  }
 };
+
+/* nosourcemap */

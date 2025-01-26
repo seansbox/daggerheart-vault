@@ -124,6 +124,12 @@ for csv_filename in os.listdir("./_csv"):
     csv_filepath = os.path.join("./_csv", csv_filename)
     md_page_template, md_index_template, vtt_page_template = None, None, None
 
+    sb_page_template = None
+    sb_page_filename = csv_filename.replace(".csv", "_sb_page.jinja2")
+    sb_page_filepath = os.path.join("./_jinja2", sb_page_filename)
+    if os.path.exists(sb_page_filepath):
+        sb_page_template = env.get_template(sb_page_filename)
+
     # Find all of the templates for this CSV file
     md_page_filename = csv_filename.replace(".csv", "_md_page.jinja2")
     md_page_filepath = os.path.join("./_jinja2", md_page_filename)
@@ -150,6 +156,7 @@ for csv_filename in os.listdir("./_csv"):
         reader = csv.DictReader(csv_file)
         rows = []
         for row in reader:
+            row = {key: value.strip() for key, value in row.items()}
             row = find_subrows(row)
             rows.append(row)
             md_filename = slugify(f"{row['Name']}.md")
@@ -164,7 +171,18 @@ for csv_filename in os.listdir("./_csv"):
                 # Write the rendered content to the Markdown file
                 with open(md_filepath, "w") as md_file:
                     md_file.write(
-                        md_page.replace("\n\n\n", "\n\n").replace("\n\n\n", "\n\n").replace("\n\n\n", "\n\n").rstrip()
+                        md_page.replace("\n\n\n", "\n\n").replace("\n\n\n", "\n\n").replace("\n\n\n", "\n\n").rstrip()+"\n"
+                    )
+
+            sb_filename = slugify(f"{row['Name']}.md")
+            sb_directory = os.path.join("silverbullet", csv_filename.replace(".csv", "").title())
+            os.makedirs(sb_directory, exist_ok=True)
+            sb_filepath = os.path.join(sb_directory, sb_filename)
+            if sb_page_template:
+                sb_page = sb_page_template.render(row)
+                with open(sb_filepath, "w") as sb_file:
+                    sb_file.write(
+                        sb_page.replace("\n\n\n", "\n\n").replace("\n\n\n", "\n\n").replace("\n\n\n", "\n\n").rstrip()+"\n"
                     )
 
             if vtt_page_template:

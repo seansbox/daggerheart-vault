@@ -5,3 +5,20 @@
   font-size: 75%;
   font-weight: normal !important;
 }
+
+/* https://minimal.guide/plugins/style-setting */
+body {
+  --text-normal:  #ECF0F1; /* https://materialui.co/flatuicolors CLOUDS */
+  --italic-color: #95A5A6; /* https://materialui.co/flatuicolors CONCRETE */
+  --link-color:   #3498DB; /* https://materialui.co/flatuicolors PETERRIVER */
+  --h1-color:     #F1C40F; /* https://materialui.co/flatuicolors SUNFLOWER */
+  --bold-color:   #1ABC9C; /* https://materialui.co/flatuicolors EMERALD */
+  --h2-color:     hsl(from var(--h1-color) h s calc(l - 10));
+  --h3-color:     hsl(from var(--h1-color) h s calc(l - 20));
+  --h4-color:     hsl(from var(--h1-color) h s calc(l - 30));
+  --h5-color:     hsl(from var(--h1-color) h s calc(l - 40));
+  --link-external-color:   var(--link-color);
+  --checkbox-color:        var(--link-color);
+  --link-color-hover:      hsl(from var(--link-color) h s calc(l + 20));
+  --link-unresolved-color: hsl(from var(--link-color) h s calc(l - 5));
+}

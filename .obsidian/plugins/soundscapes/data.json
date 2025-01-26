@@ -1,0 +1,221 @@
+{
+  "soundscape": "CUSTOM_867c58d4-e84c-4c53-a770-b8c3b7ea548f",
+  "volume": 51,
+  "autoplay": false,
+  "scrollSongTitle": true,
+  "customSoundscapes": [
+    {
+      "id": "7963594d-227d-4cfd-bb84-a202451c0466",
+      "name": "Alkenstar: Exploration",
+      "tracks": [
+        {
+          "name": "Love Come Back (RDR2 Soundtrack)",
+          "id": "KxlFwxxgNZY"
+        },
+        {
+          "name": "Outlaws From The West (RDR2 Score)",
+          "id": "TwjI3YK_EZA"
+        },
+        {
+          "name": "Welcome To The New World (RDR2 Score)",
+          "id": "IxVmGz7aTMU"
+        },
+        {
+          "name": "An American Pastoral Scene (RDR2 Score)",
+          "id": "KUoiY4-npww"
+        },
+        {
+          "name": "A Strange Kindness (RDR2 Housebuilding EP)",
+          "id": "KUoiY4-npww"
+        },
+        {
+          "name": "A Quiet Time (RDR2 Housebuilding EP)",
+          "id": "Ua8BytwCSU8"
+        },
+        {
+          "name": "Do Not Seek Absolution (RDR2 Housebuilding EP)",
+          "id": "-TsL9hNeHcQ"
+        }
+      ]
+    },
+    {
+      "id": "f8f73a27-cf45-479e-96cc-2e622f669af7",
+      "name": "Alkenstar: Combat",
+      "tracks": [
+        {
+          "name": "Paradise Mercifully Departed (RDR2 Score)",
+          "id": "LWlDKsC4yfg"
+        },
+        {
+          "name": "Blood Feuds, Ancient And Modern (RDR2 Score)",
+          "id": "JoIPzq-En-U"
+        },
+        {
+          "name": "Red Dead Redemption (RDR2 Score)",
+          "id": "gwKAmoP0lZo"
+        },
+        {
+          "name": "Mountain Finale (RDR2 Soundtrack)",
+          "id": "33v8IZYWPXA"
+        },
+        {
+          "name": "It All Makes Sense Now (RDR2 Score)",
+          "id": "tbZFevC-q-A"
+        }
+      ]
+    },
+    {
+      "id": "867c58d4-e84c-4c53-a770-b8c3b7ea548f",
+      "name": "Alkenstar: Tension",
+      "tracks": [
+        {
+          "name": "Revenge Is A Dish Best Eaten (RDR2 Score)",
+          "id": "lrG7FEc3bS8"
+        },
+        {
+          "name": "Blessed Are The Peacemakers (RDR2 Score)",
+          "id": "DHO2R6CZJRU"
+        },
+        {
+          "name": "Everybody Wake Up (RDR2 Score)",
+          "id": "GQwrkq9pw3I"
+        },
+        {
+          "name": "Fleeting Joy (RDR2 Score)",
+          "id": "gBPB1g9Znfw"
+        },
+        {
+          "name": "Icarus And Friends (RDR2 Score)",
+          "id": "v9i_AmwGCGY"
+        },
+        {
+          "name": "Country Pursuits (RDR2 Score)",
+          "id": "tvqQxXFb0GE"
+        },
+        {
+          "name": "By 1899, The Age Of Outlaws And Gunslingers Was At An End (RDR2 Score)",
+          "id": "mwKLwD-8Vdw"
+        }
+      ]
+    },
+    {
+      "id": "a0f432dd-b27b-45d6-9216-856f77e4be40",
+      "name": "Alkenstar: Mystical",
+      "tracks": [
+        {
+          "name": "Oh My Lovely (RDR2 Soundtrack)",
+          "id": "X1yDM6guy2E"
+        },
+        {
+          "name": "Mountain Hymn (RDR2 Soundtrack)",
+          "id": "XBju0y9y5ME"
+        },
+        {
+          "name": "The Fine Art Of Conversation (RDR2 Score)",
+          "id": "U18WTMaP9WU"
+        },
+        {
+          "name": "Doctor's Opinion (RDR2 Score)",
+          "id": "6YTHfD5D7kI"
+        }
+      ]
+    },
+    {
+      "id": "b0549102-d6c4-48d6-aa08-42453ec00c74",
+      "name": "Alkenstar: Civilization",
+      "tracks": [
+        {
+          "name": "Banking, The Old American Art (RDR2 Score)",
+          "id": "SKaZc-GKCu4"
+        },
+        {
+          "name": "American Reprise (RDR2 Score)",
+          "id": "SK1-FGU0RCg"
+        },
+        {
+          "name": "Mountain Banjo (RDR2 Soundtrack)",
+          "id": "vnjADBpwxYA"
+        },
+        {
+          "name": "There She Is…A Real City, The Future (RDR2 Score)",
+          "id": "mriP88AwJic"
+        }
+      ]
+    },
+    {
+      "id": "ea058427-c77d-4161-a7ac-d7f9581ac663",
+      "name": "Alkenstar: Lament",
+      "tracks": [
+        {
+          "name": "The Wheel (RDR2 Score)",
+          "id": "TeIHQYZ8vNs"
+        },
+        {
+          "name": "Table Top (RDR2 Soundtrack)",
+          "id": "HEVJpL-MJFU"
+        },
+        {
+          "name": "Moonlight (RDR2 Soundtrack)",
+          "id": "fGmWUbOy9YM"
+        },
+        {
+          "name": "Mrs. Sadie Adler, Widow (RDR2 Score)",
+          "id": "gU4_mbgkV5w"
+        },
+        {
+          "name": "The Course Of True Love (RDR2 Housebuilding EP)",
+          "id": "bqE7kdP79j8"
+        }
+      ]
+    },
+    {
+      "id": "f45596da-8c16-4029-a101-fc8b0bae5181",
+      "name": "Alkenstar: Legendary",
+      "tracks": [
+        {
+          "name": "American Venom (RDR2 Score)",
+          "id": "WQTxMPBC3G0"
+        }
+      ]
+    },
+    {
+      "id": "ea5f03cc-c976-4ddd-9f62-55f86c110f11",
+      "name": "Alkenstar: Pre/Post",
+      "tracks": [
+        {
+          "name": "Cruel World (Willie Nelson) (RDR2 Soundtrack)",
+          "id": "ORgZhs9our8"
+        },
+        {
+          "name": "That's The Way It Is (RDR2 Soundtrack)",
+          "id": "gxRFL-v-_-E"
+        },
+        {
+          "name": "Crash of Worlds (RDR2 Soundtrack)",
+          "id": "mEyp0fz9Px8"
+        },
+        {
+          "name": "Red (RDR2 Soundtrack)",
+          "id": "uYtFFMVaQLA"
+        },
+        {
+          "name": "Cruel World (Joshua Homme) (RDR2 Soundtrack)",
+          "id": "L_46-8z3HKQ"
+        },
+        {
+          "name": "The Housebuilding Song (RDR2 Housebuilding EP)",
+          "id": "7JoiwdQhMCU"
+        },
+        {
+          "name": "Unshaken (RDR2 Soundtrack)",
+          "id": "uvcexlzNvmk"
+        }
+      ]
+    }
+  ],
+  "myMusicIndex": [],
+  "myMusicFolderPath": "",
+  "reindexFrequency": "5",
+  "myMusicShuffle": false,
+  "currentTrackIndex": 0
+}

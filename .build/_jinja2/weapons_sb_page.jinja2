@@ -1,0 +1,21 @@
+{% set CostByTier = {'1': {'Physical': '½', 'Magic': '1'}, '2': {'Physical': '1', 'Magic': '2'}, '3': {'Physical': '2', 'Magic': '3'}, '4': {'Physical': '4', 'Magic': '5'}} %}---
+title: {{ Name }}
+trait: {{ Trait }}
+burden: {{ Burden }}
+range: {{ Range }}
+damage: {{ Damage }}
+feature: {{ Feature }}
+tier: {{ Tier }}
+cost: {{ CostByTier[Tier][PhysicalOrMagic] }}
+tags: weapon
+---
+# {{ Name }}
+
+**Trait**: _{{ Trait }}_ | **Burden**: _{{ Burden }}_
+
+**Range**: _{{ Range }}_ | **Damage**: _{{ Damage }}_
+
+{% if Feature %}**Feature:** _{{ Feature }}_
+{% endif %}
+___
+**Cost:** {{ CostByTier[Tier][PhysicalOrMagic] }}💰 | **Tier**: {{ Tier }}

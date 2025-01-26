@@ -1,0 +1,13 @@
+{% set Tier = 1 if 1 <= (Number | int) <= 15 else 2 if 16 <= (Number | int) <= 30 else 3 if 31 <= (Number | int) <= 45 else 4 if 46 <= (Number | int) <= 60 else 0 %}{% set CostByTier = {1: '¼', 2: '½', 3: '1', 4: '2'} %}---
+title: {{ Name }}
+description: {{ Description }}
+tier: {{ Tier }}
+cost: {{ CostByTier[Tier] }}
+tags: consumable
+---
+# {{ Name }}
+
+_{{ Description }}_
+
+___
+**Cost:** {{ CostByTier[Tier] }}💰 | **Number**: {{ Number }}

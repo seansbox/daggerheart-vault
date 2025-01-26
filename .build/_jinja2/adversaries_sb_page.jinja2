@@ -1,0 +1,39 @@
+---
+displayName: "{{ Name }}"
+description: "{{ Description }}"
+tier: {{ Tier }}
+type: {{ Type }}
+hp: {{ HP }}
+stress: {{ Stress }}
+attack:
+   name: {{ Attack }}
+   bonus: {% if Bonus|starts_with_digit %}+{% endif %}{{ Bonus }}
+   distance: {{ Distance }}
+   damage: {{ Damage }}
+   effect: {{ Effect }}
+thresholds:
+   difficulty: {{ Diff }}
+   major: {{ Major }}
+   severe: {{ Severe }}
+tags: adversary
+---
+# {{ Name }} (Tier {{ Tier }} {{ Type }})
+{% if Description %}_{{ Description }}_{% endif %}
+
+{% if Tactics %}- **Motives & Tactics** _{{ Tactics }}_{% endif %}
+- **Difficulty** _{{ Diff }}_ | **Attack Modifier** _{% if Bonus|starts_with_digit %}+{% endif %}{{ Bonus }}_ | **{{ Attack }}** _{{ Distance }} {{ Damage }} {{ Effect }}_
+- **Major** _≥{{ Major }}_ | **Severe** _≥{{ Severe }}_{% if Experiences %} | **Experiences** _{{ Experiences }}_{% endif %}
+
+1. **HP** {{ HP }}
+   **Stress** {{ Stress }}
+2. **HP** {{ HP }}
+   **Stress** {{ Stress }}
+3. **HP** {{ HP }}
+   **Stress** {{ Stress }}
+
+{% for feature in subrows %}
+{% if feature.Feature %}
+## {{ feature.Feature }}{% if feature.Action %} - {{ feature.Action }}{% endif %}
+{{ feature.Text }} {% if feature.Quote %}_{{ feature.Quote }}_{% endif %}
+{% endif %}
+{% endfor %}
