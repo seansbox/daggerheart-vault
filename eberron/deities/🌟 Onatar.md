@@ -1,6 +1,6 @@
 *Sovereign of Fire and Forge, Brigh, Bronze Lady, The Whisperer in Bronze*
 
-![Symbol|150](https://foundryvtt.seansbox.com/modules/seans-game-icons/icons/gear-hammer-lorc.svg)
+![Symbol|150](gear-hammer-lorc.svg)
 
 *Onatar is the Sovereign of Fire and Forge. She guides both mundane smiths and artificers, inspiring anyone who performs an act of creation.*
 

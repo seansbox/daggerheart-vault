@@ -1,6 +1,6 @@
 *The Giver of Gifts, The Sovereign of Chaos and Change*
 
-![Symbol|150](https://foundryvtt.seansbox.com/modules/seans-game-icons/icons/skull-slices-lorc.svg)
+![Symbol|150](skull-slices-lorc.svg)
 
 *The Traveler asserts that chaos drives evolution and that change makes us stronger. The Traveler is a trickster and the giver of dangerous gifts. Some artificers worship the Traveler, seeing it as the lord of innovation, but the gifts of the Traveler always have unexpected consequences.*
 

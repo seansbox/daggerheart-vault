@@ -1,6 +1,6 @@
 *The Sovereign of Wave and Whelm*
 
-![Symbol|150](https://foundryvtt.seansbox.com/modules/seans-game-icons/icons/bestial-fangs-lorc.svg)
+![Symbol|150](bestial-fangs-lorc.svg)
 
 *The Devourer governs the destructive power of nature, both pure elemental force and savagery in beasts.*
 

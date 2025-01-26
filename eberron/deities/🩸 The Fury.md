@@ -1,6 +1,6 @@
 *The Sovereign of Rage and Ruin, The Sovereign of Vengeance*
 
-![Symbol|150](https://foundryvtt.seansbox.com/modules/seans-game-icons/icons/evil-bat-lorc.svg)
+![Symbol|150](evil-bat-lorc.svg)
 
 *The Fury governs both passion and revenge, rage and despair. She offers revenge to those who have been wronged, but her vengeance often leads to suffering.*
 

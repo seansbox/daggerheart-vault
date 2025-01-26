@@ -1,6 +1,6 @@
 *Sovereign of Law and Lore, Ouralon Lawbringer*
 
-![Symbol|150](https://foundryvtt.seansbox.com/modules/seans-game-icons/icons/bookmarklet-lorc.svg)
+![Symbol|150](bookmarklet-lorc.svg)
 
 *Aureon is the Sovereign of Law and Lore. He is considered the first wizard, who shared the secrets of wizardry with the world.*
 

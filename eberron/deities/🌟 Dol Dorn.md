@@ -1,6 +1,6 @@
 *The Sovereign of Strength and Steel, Garu-Umesh the One-Eyed (orc), Lhesh Shaarat (bugbear)*
 
-![Symbol|150](https://foundryvtt.seansbox.com/modules/seans-game-icons/icons/winged-sword-lorc.svg)
+![Symbol|150](winged-sword-lorc.svg)
 
 *Dol Dorn is the Sovereign of Strength and Steel. He is the patron of the common soldier, and he guides the hands of anyone who holds a weapon. He embodies courage, strength, and martial skill.*
 

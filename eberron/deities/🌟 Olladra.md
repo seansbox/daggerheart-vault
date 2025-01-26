@@ -1,6 +1,6 @@
 *Sovereign of Feast and Fortune, Ollarasht the Gambler (Shadow Marches), Hleid (Frostfell)*
 
-![Symbol|150](https://foundryvtt.seansbox.com/modules/seans-game-icons/icons/domino-tiles-delapouite.svg)
+![Symbol|150](domino-tiles-delapouite.svg)
 
 *Olladra is the Sovereign of Feast and Fortune. She is the giver of joy and the granter of luck, patron to entertainers, gamblers, and anyone who takes a chance.*
 

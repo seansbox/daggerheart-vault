@@ -1,6 +1,6 @@
 *Sovereign of Sun and Sacrifice*
 
-![Symbol|150](https://foundryvtt.seansbox.com/modules/seans-game-icons/icons/sundial-lorc.svg)
+![Symbol|150](sundial-lorc.svg)
 
 *Dol Arrah is the sun that drives away the darkness. She stands for wisdom in war and for those who fight with honor, pursue justice, and make sacrifices for the greater good.*
 
